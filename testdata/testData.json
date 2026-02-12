@@ -1,0 +1,13 @@
+{
+  "appUrl": "https://www.amazon.in",
+  "searchQueries": [
+    "mobile smartphones under 30000"
+  ],
+  "sortOptions": [
+    "Newest Arrivals"
+  ],
+  "browsers": [
+    "chromium",
+    "firefox"
+  ]
+}

@@ -1,0 +1,210 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e2]:
+  - navigation "Shortcuts menu" [ref=e3]:
+    - heading "Skip to" [level=2] [ref=e4]
+    - list "Skip to" [ref=e5]:
+      - listitem [ref=e6]:
+        - link "main content" [ref=e7] [cursor=pointer]:
+          - /url: "#skippedLink"
+          - text: Main content
+    - separator [ref=e8]
+  - banner [ref=e9]:
+    - navigation "Primary" [ref=e10]:
+      - generic [ref=e11]:
+        - generic [ref=e12]:
+          - link "Amazon.in" [ref=e14] [cursor=pointer]:
+            - /url: /ref=nav_logo
+            - generic: .in
+          - button "Delivering to Bengaluru 560067 Update location" [ref=e17] [cursor=pointer]:
+            - generic [ref=e19]:
+              - generic [ref=e20]: Delivering to Bengaluru 560067
+              - generic [ref=e21]: Update location
+        - search [ref=e24]:
+          - generic [ref=e27]:
+            - generic [ref=e29]: All
+            - combobox "Select the department you want to search in" [ref=e31] [cursor=pointer]:
+              - option "All Categories" [selected]
+              - option "Alexa Skills"
+              - option "Amazon Devices"
+              - option "Amazon Fashion"
+              - option "Amazon Fresh"
+              - option "Amazon Fresh Meat"
+              - option "Amazon Pharmacy"
+              - option "Appliances"
+              - option "Apps & Games"
+              - option "Audible Audiobooks"
+              - option "Baby"
+              - option "Beauty"
+              - option "Books"
+              - option "Car & Motorbike"
+              - option "Clothing & Accessories"
+              - option "Collectibles"
+              - option "Computers & Accessories"
+              - option "Deals"
+              - option "Electronics"
+              - option "Furniture"
+              - option "Garden & Outdoors"
+              - option "Gift Cards"
+              - option "Grocery & Gourmet Foods"
+              - option "Health & Personal Care"
+              - option "Home & Kitchen"
+              - option "Industrial & Scientific"
+              - option "Jewellery"
+              - option "Kindle Store"
+              - option "Luggage & Bags"
+              - option "Luxury Beauty"
+              - option "Movies & TV Shows"
+              - option "MP3 Music"
+              - option "Music"
+              - option "Musical Instruments"
+              - option "Office Products"
+              - option "Pet Supplies"
+              - option "Prime Video"
+              - option "Shoes & Handbags"
+              - option "Software"
+              - option "Sports, Fitness & Outdoors"
+              - option "Subscribe & Save"
+              - option "Tools & Home Improvement"
+              - option "Toys & Games"
+              - option "Under ₹500"
+              - option "Video Games"
+              - option "Watches"
+          - searchbox "Search Amazon.in" [ref=e34]: mobile smartphones under 30000
+          - generic "Go" [ref=e37] [cursor=pointer]:
+            - button "Go" [ref=e38]
+        - generic [ref=e40]:
+          - link "Choose a language for shopping in Amazon India. The current selection is English (EN)." [ref=e42] [cursor=pointer]:
+            - /url: /customer-preferences/edit?ie=UTF8&preferencesReturnUrl=%2F&ref_=topnav_lang
+            - generic [ref=e45]:
+              - img "India" [ref=e46]
+              - generic [ref=e47]: EN
+          - link "Hello, sign in Account & Lists" [ref=e49] [cursor=pointer]:
+            - /url: https://www.amazon.in/ap/signin?openid.pape.max_auth_age=0&openid.return_to=https%3A%2F%2Fwww.amazon.in%2Fs%2Fref%3Dnb_sb_noss%2F%3F_encoding%3DUTF8%26field-keywords%3Dmobile%2520smartphones%2520under%252030000%26url%3Dsearch-alias%253Daps%26ref_%3Dnav_ya_signin&openid.identity=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.assoc_handle=inflex&openid.mode=checkid_setup&openid.claimed_id=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0
+            - generic [ref=e51]: Hello, sign in
+            - generic [ref=e52]: Account & Lists
+          - link "Returns & Orders" [ref=e53] [cursor=pointer]:
+            - /url: /gp/css/order-history?ref_=nav_orders_first
+            - generic [ref=e54]: Returns
+            - generic [ref=e55]: "& Orders"
+          - link "0 items in cart" [ref=e56] [cursor=pointer]:
+            - /url: /gp/cart/view.html?ref_=nav_cart
+            - generic [ref=e58]: "0"
+            - generic [ref=e61]: Cart
+      - generic [ref=e62]:
+        - button "Open All Categories Menu" [ref=e64] [cursor=pointer]:
+          - generic [ref=e66]: All
+        - list [ref=e70]:
+          - listitem [ref=e71]:
+            - link "Fresh" [ref=e73] [cursor=pointer]:
+              - /url: /fresh?ref_=nav_cs_grocery
+          - listitem [ref=e74]:
+            - link "MX Player" [ref=e76] [cursor=pointer]:
+              - /url: /minitv?ref_=nav_avod_desktop_topnav
+          - listitem [ref=e77]:
+            - link "Sell" [ref=e79] [cursor=pointer]:
+              - /url: /b/32702023031?node=32702023031&ld=AZINSOANavDesktop_T3&ref_=nav_cs_sell_T3
+          - listitem [ref=e80]:
+            - link "Bestsellers" [ref=e82] [cursor=pointer]:
+              - /url: /gp/bestsellers/?ref_=nav_cs_bestsellers
+          - listitem [ref=e83]:
+            - link "Today's Deals" [ref=e85] [cursor=pointer]:
+              - /url: /deals?ref_=nav_cs_gb
+          - listitem [ref=e86]:
+            - link "Mobiles" [ref=e88] [cursor=pointer]:
+              - /url: /mobile-phones/b/?ie=UTF8&node=1389401031&ref_=nav_cs_mobiles
+          - listitem [ref=e89]:
+            - link "Customer Service" [ref=e91] [cursor=pointer]:
+              - /url: /gp/help/customer/display.html?nodeId=200507590&ref_=nav_cs_help
+          - listitem [ref=e92]:
+            - link "New Releases" [ref=e94] [cursor=pointer]:
+              - /url: /gp/new-releases/?ref_=nav_cs_newreleases
+          - listitem [ref=e95]:
+            - link "Prime" [ref=e97] [cursor=pointer]:
+              - /url: /prime?ref_=nav_cs_primelink_nonmember
+          - listitem [ref=e98]:
+            - link "Amazon Pay" [ref=e100] [cursor=pointer]:
+              - /url: /gp/sva/dashboard?ref_=nav_cs_apay
+          - listitem [ref=e101]:
+            - link "Electronics" [ref=e103] [cursor=pointer]:
+              - /url: /electronics/b/?ie=UTF8&node=976419031&ref_=nav_cs_electronics
+          - listitem [ref=e104]:
+            - link "Fashion" [ref=e106] [cursor=pointer]:
+              - /url: /gp/browse.html?node=6648217031&ref_=nav_cs_fashion
+          - listitem [ref=e107]:
+            - link "Home & Kitchen" [ref=e109] [cursor=pointer]:
+              - /url: /Home-Kitchen/b/?ie=UTF8&node=976442031&ref_=nav_cs_home
+          - listitem [ref=e110]:
+            - link "Computers" [ref=e112] [cursor=pointer]:
+              - /url: /computers-and-accessories/b/?ie=UTF8&node=976392031&ref_=nav_cs_pc
+          - listitem [ref=e113]:
+            - link "Books" [ref=e115] [cursor=pointer]:
+              - /url: /Books/b/?ie=UTF8&node=976389031&ref_=nav_cs_books
+          - listitem [ref=e116]:
+            - link "Gift Cards" [ref=e118] [cursor=pointer]:
+              - /url: /gift-card-store/b/?ie=UTF8&node=3704982031&ref_=nav_cs_gc
+          - listitem [ref=e119]:
+            - link "Beauty & Personal Care" [ref=e121] [cursor=pointer]:
+              - /url: /beauty/b/?ie=UTF8&node=1355016031&ref_=nav_cs_beauty
+          - listitem [ref=e122]:
+            - link "Car & Motorbike" [ref=e124] [cursor=pointer]:
+              - /url: /Car-Motorbike-Store/b/?ie=UTF8&node=4772060031&ref_=nav_cs_automotive
+          - listitem [ref=e125]:
+            - link "Toys & Games" [ref=e127] [cursor=pointer]:
+              - /url: /Toys-Games/b/?ie=UTF8&node=1350380031&ref_=nav_cs_toys
+          - listitem [ref=e128]:
+            - link "Home Improvement" [ref=e130] [cursor=pointer]:
+              - /url: /Home-Improvement/b/?ie=UTF8&node=4286640031&ref_=nav_cs_hi
+          - listitem [ref=e131]:
+            - link "Sports, Fitness & Outdoors" [ref=e133] [cursor=pointer]:
+              - /url: /Sports/b/?ie=UTF8&node=1984443031&ref_=nav_cs_sports
+          - listitem [ref=e134]:
+            - link "Grocery & Gourmet Foods" [ref=e136] [cursor=pointer]:
+              - /url: /Gourmet-Specialty-Foods/b/?ie=UTF8&node=2454178031&ref_=nav_cs_grocery
+          - listitem [ref=e137]:
+            - link "Health, Household & Personal Care" [ref=e139] [cursor=pointer]:
+              - /url: /health-and-personal-care/b/?ie=UTF8&node=1350384031&ref_=nav_cs_hpc
+          - listitem [ref=e140]:
+            - link "Custom Products" [ref=e142] [cursor=pointer]:
+              - /url: /Amazon-Custom/b/?ie=UTF8&node=32615889031&ref_=nav_cs_custom
+          - listitem [ref=e143]:
+            - link "Video Games" [ref=e145] [cursor=pointer]:
+              - /url: /video-games/b/?ie=UTF8&node=976460031&ref_=nav_cs_video_games
+          - listitem [ref=e146]:
+            - link "Baby" [ref=e148] [cursor=pointer]:
+              - /url: /Baby/b/?ie=UTF8&node=1571274031&ref_=nav_cs_baby
+          - listitem [ref=e149]:
+            - link "Pet Supplies" [ref=e151] [cursor=pointer]:
+              - /url: /Pet-Supplies/b/?ie=UTF8&node=2454181031&ref_=nav_cs_pets
+          - listitem [ref=e152]:
+            - link "AmazonBasics" [ref=e154] [cursor=pointer]:
+              - /url: /b/?node=6637738031&ref_=nav_cs_amazonbasics
+          - listitem [ref=e155]:
+            - link "Audible" [ref=e157] [cursor=pointer]:
+              - /url: /Audible-Books-and-Originals/b/?ie=UTF8&node=17941593031&ref_=nav_cs_audible
+          - listitem [ref=e158]:
+            - link "Subscribe & Save" [ref=e160] [cursor=pointer]:
+              - /url: /auto-deliveries/landing?ref_=nav_cs_sns
+          - listitem [ref=e161]:
+            - link "Kindle eBooks" [ref=e163] [cursor=pointer]:
+              - /url: /Kindle-eBooks/b/?ie=UTF8&node=1634753031&ref_=nav_cs_kindle_books
+          - listitem [ref=e164]:
+            - link "Flights" [ref=e166] [cursor=pointer]:
+              - /url: /flights?ref_=nav_cs_apay_desktop_topnav_flights
+  - generic [ref=e171]:
+    - 'heading "1-16 of over 50,000 results for \"mobile smartphones under 30000\" Sort by: Featured" [level=1] [ref=e174]':
+      - generic [ref=e175]:
+        - heading "1-16 of over 50,000 results for \"mobile smartphones under 30000\"" [level=2] [ref=e180]
+        - generic [ref=e185]:
+          - generic [ref=e186]: "Sort by:"
+          - combobox "Sort by:" [ref=e187]:
+            - option "Featured" [selected]
+            - 'option "Price: Low to High"'
+            - 'option "Price: High to Low"'
+            - option "Avg. Customer Review"
+            - option "Newest Arrivals"
+            - option "Best Sellers"
+          - generic [ref=e190] [cursor=pointer]: Sort by:Featured
+    - heading "Results" [level=2] [ref=e202]
+```

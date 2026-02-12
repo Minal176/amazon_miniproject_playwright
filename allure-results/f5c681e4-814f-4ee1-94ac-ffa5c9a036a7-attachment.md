@@ -1,0 +1,2474 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e2]:
+  - navigation "Shortcuts menu" [ref=e3]:
+    - heading "Skip to" [level=2] [ref=e4]
+    - list "Skip to" [ref=e5]:
+      - listitem [ref=e6]:
+        - link "main content" [ref=e7] [cursor=pointer]:
+          - /url: "#skippedLink"
+          - text: Main content
+    - separator [ref=e8]
+  - banner [ref=e9]:
+    - navigation "Primary" [ref=e10]:
+      - generic [ref=e11]:
+        - generic [ref=e12]:
+          - link "Amazon" [ref=e14] [cursor=pointer]:
+            - /url: /ref=nav_logo
+          - button "Deliver to India" [ref=e17] [cursor=pointer]:
+            - generic [ref=e19]:
+              - generic [ref=e20]: Deliver to
+              - generic [ref=e21]: India
+        - search [ref=e24]:
+          - generic [ref=e27]:
+            - generic [ref=e29]: All
+            - combobox "Select the department you want to search in" [ref=e31] [cursor=pointer]:
+              - option "All Departments" [selected]
+              - option "Arts & Crafts"
+              - option "Automotive"
+              - option "Baby"
+              - option "Beauty & Personal Care"
+              - option "Books"
+              - option "Boys' Fashion"
+              - option "Computers"
+              - option "Deals"
+              - option "Digital Music"
+              - option "Electronics"
+              - option "Girls' Fashion"
+              - option "Health & Household"
+              - option "Home & Kitchen"
+              - option "Industrial & Scientific"
+              - option "Kindle Store"
+              - option "Luggage"
+              - option "Men's Fashion"
+              - option "Movies & TV"
+              - option "Music, CDs & Vinyl"
+              - option "Pet Supplies"
+              - option "Prime Video"
+              - option "Software"
+              - option "Sports & Outdoors"
+              - option "Tools & Home Improvement"
+              - option "Toys & Games"
+              - option "Video Games"
+              - option "Women's Fashion"
+          - searchbox "Search Amazon" [ref=e34]: mobile smartphones under 30000
+          - generic [ref=e35]:
+            - generic "Go" [ref=e37] [cursor=pointer]:
+              - button "Go" [ref=e38]
+            - button [ref=e40]: Agent Search
+        - generic [ref=e42]:
+          - link "Choose a language for shopping in Amazon United States. The current selection is English (EN)." [ref=e44] [cursor=pointer]:
+            - /url: /customer-preferences/edit?ie=UTF8&preferencesReturnUrl=%2F&ref_=topnav_lang_ais
+            - generic [ref=e47]:
+              - img "United States" [ref=e48]
+              - generic [ref=e49]: EN
+          - link "Hello, sign in Account & Lists" [ref=e51] [cursor=pointer]:
+            - /url: https://www.amazon.com/ap/signin?openid.pape.max_auth_age=0&openid.return_to=https%3A%2F%2Fwww.amazon.com%2Fs%2Fref%3Dnb_sb_noss%2F%3F_encoding%3DUTF8%26field-keywords%3Dmobile%2520smartphones%2520under%252030000%26url%3Dsearch-alias%253Daps%26ref_%3Dnav_ya_signin&openid.identity=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.assoc_handle=usflex&openid.mode=checkid_setup&openid.claimed_id=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0
+            - generic [ref=e53]: Hello, sign in
+            - generic [ref=e54]: Account & Lists
+          - link "Returns & Orders" [ref=e55] [cursor=pointer]:
+            - /url: /gp/css/order-history?ref_=nav_orders_first
+            - generic [ref=e56]: Returns
+            - generic [ref=e57]: "& Orders"
+          - link "0 items in cart" [ref=e58] [cursor=pointer]:
+            - /url: /gp/cart/view.html?ref_=nav_cart
+            - generic [ref=e60]: "0"
+            - generic [ref=e63]: Cart
+      - generic [ref=e64]:
+        - button "Open All Categories Menu" [ref=e66] [cursor=pointer]:
+          - generic [ref=e68]: All
+        - list [ref=e72]:
+          - listitem [ref=e73]:
+            - link "Today's Deals" [ref=e75] [cursor=pointer]:
+              - /url: /gp/goldbox?ref_=nav_cs_gb
+          - listitem [ref=e76]:
+            - link "Prime Video" [ref=e78] [cursor=pointer]:
+              - /url: /Amazon-Video/b/?ie=UTF8&node=2858778011&ref_=nav_cs_prime_video
+          - listitem [ref=e79]:
+            - link "Registry" [ref=e81] [cursor=pointer]:
+              - /url: /gp/browse.html?node=16115931011&ref_=nav_cs_registry
+          - listitem [ref=e82]:
+            - link "Gift Cards" [ref=e84] [cursor=pointer]:
+              - /url: /gift-cards/b/?ie=UTF8&node=2238192011&ref_=nav_cs_gc
+          - listitem [ref=e85]:
+            - link "Customer Service" [ref=e87] [cursor=pointer]:
+              - /url: /gp/help/customer/display.html?nodeId=508510&ref_=nav_cs_customerservice
+          - listitem [ref=e88]:
+            - link "Sell" [ref=e90] [cursor=pointer]:
+              - /url: /b/?_encoding=UTF8&ld=AZUSSOA-sell&node=12766669011&ref_=nav_cs_sell
+          - link "Click to call our Disability Customer Support line, or reach us directly at 1-888-283-1678" [ref=e91] [cursor=pointer]:
+            - /url: /gp/help/customer/accessibility
+            - text: Disability Customer Support
+  - generic [ref=e96]:
+    - 'heading "1-16 of 196 results for \"mobile smartphones under 30000\" Sort by: Featured" [level=1] [ref=e99]':
+      - generic [ref=e100]:
+        - heading "1-16 of 196 results for \"mobile smartphones under 30000\"" [level=2] [ref=e103]
+        - generic [ref=e108]:
+          - generic [ref=e109]: "Sort by:"
+          - combobox "Sort by:" [ref=e110]:
+            - option "Featured" [selected]
+            - 'option "Price: Low to High"'
+            - 'option "Price: High to Low"'
+            - option "Avg. Customer Review"
+            - option "Newest Arrivals"
+            - option "Best Sellers"
+          - generic [ref=e113] [cursor=pointer]: Sort by:Featured
+    - generic [ref=e115]:
+      - generic [ref=e117]:
+        - generic [ref=e119]:
+          - generic [ref=e121]:
+            - generic [ref=e124]:
+              - heading "Results" [level=2] [ref=e125]
+              - generic [ref=e126]: Check each product page for other buying options.
+            - generic:
+              - list
+          - listitem [ref=e127]:
+            - generic [ref=e135]:
+              - link [ref=e141] [cursor=pointer]:
+                - /url: /sspa/click?ie=UTF8&spc=MToyOTI4MTg1OTMxOTc3OTAxOjE3NzAwOTc4NTU6c3BfYXRmOjMwMDg0MDYzMDU3MjgwMjo6MDo6&url=%2FVSQAOF-I25-Ultra-Smartphone-Built%2Fdp%2FB0FQ5H2ZD4%2Fref%3Dsr_1_1_sspa%3Fdib%3DeyJ2IjoiMSJ9.gL0LtCacLp3csW9qyDhj01-pekOMrL-SHzoBi-5ZUkFWGGjLe5IeuKL7HuXEenFdaqkXs5hbEH4GyLm8WZeDxsvj_h1bmmUOQAsYFbL3LPpma76E7mvSXYo6kH3RZr_xWhlQbjbdPBONdQEuAD-YrIxGISWGJS34KniYReMFVUG6sAIUq7-elNIGmyIgjB4KQFuAgnqQo1iD4nLYAnG-VfxEvQWrsnJLzWxABXNPgWc.XNxD-kFwO9FekVoLfs7gqnVtscbtGayZEaSss4hPqNY%26dib_tag%3Dse%26keywords%3Dmobile%2Bsmartphones%2Bunder%2B30000%26qid%3D1770097855%26sr%3D8-1-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9hdGY%26psc%3D1
+                - img [ref=e143]
+              - generic [ref=e146]:
+                - generic [ref=e147]:
+                  - button "View Sponsored information or leave ad feedback" [ref=e150] [cursor=pointer]:
+                    - generic [ref=e151]: Sponsored
+                  - 'link "Sponsored Ad - I25 Ultra Smartphone: 16GB RAM, 512GB Storage, 7000mAh Battery, 6.99\" Display, Android 14, Built-in Stylus - Ultimate Performance & Power (White)" [ref=e153] [cursor=pointer]':
+                    - /url: /sspa/click?ie=UTF8&spc=MToyOTI4MTg1OTMxOTc3OTAxOjE3NzAwOTc4NTU6c3BfYXRmOjMwMDg0MDYzMDU3MjgwMjo6MDo6&url=%2FVSQAOF-I25-Ultra-Smartphone-Built%2Fdp%2FB0FQ5H2ZD4%2Fref%3Dsr_1_1_sspa%3Fdib%3DeyJ2IjoiMSJ9.gL0LtCacLp3csW9qyDhj01-pekOMrL-SHzoBi-5ZUkFWGGjLe5IeuKL7HuXEenFdaqkXs5hbEH4GyLm8WZeDxsvj_h1bmmUOQAsYFbL3LPpma76E7mvSXYo6kH3RZr_xWhlQbjbdPBONdQEuAD-YrIxGISWGJS34KniYReMFVUG6sAIUq7-elNIGmyIgjB4KQFuAgnqQo1iD4nLYAnG-VfxEvQWrsnJLzWxABXNPgWc.XNxD-kFwO9FekVoLfs7gqnVtscbtGayZEaSss4hPqNY%26dib_tag%3Dse%26keywords%3Dmobile%2Bsmartphones%2Bunder%2B30000%26qid%3D1770097855%26sr%3D8-1-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9hdGY%26psc%3D1
+                    - 'heading "Sponsored Ad - I25 Ultra Smartphone: 16GB RAM, 512GB Storage, 7000mAh Battery, 6.99\" Display, Android 14, Built-in Stylus - Ultimate Performance & Power (White)" [level=2] [ref=e154]': "I25 Ultra Smartphone: 16GB RAM, 512GB Storage, 7000mAh Battery, 6.99\" Display, Android 14, Built-in Stylus - Ultimate Performance & Power (White)"
+                - generic [ref=e156]:
+                  - text: "4.5"
+                  - button "4.5 out of 5 stars, rating details" [ref=e158] [cursor=pointer]:
+                    - generic [ref=e160]: 4.5 out of 5 stars
+                  - link "4 ratings" [ref=e164] [cursor=pointer]:
+                    - /url: /sspa/click?ie=UTF8&spc=MToyOTI4MTg1OTMxOTc3OTAxOjE3NzAwOTc4NTU6c3BfYXRmOjMwMDg0MDYzMDU3MjgwMjo6MDo6&url=%2FVSQAOF-I25-Ultra-Smartphone-Built%2Fdp%2FB0FQ5H2ZD4%2Fref%3Dsr_1_1_sspa%3Fdib%3DeyJ2IjoiMSJ9.gL0LtCacLp3csW9qyDhj01-pekOMrL-SHzoBi-5ZUkFWGGjLe5IeuKL7HuXEenFdaqkXs5hbEH4GyLm8WZeDxsvj_h1bmmUOQAsYFbL3LPpma76E7mvSXYo6kH3RZr_xWhlQbjbdPBONdQEuAD-YrIxGISWGJS34KniYReMFVUG6sAIUq7-elNIGmyIgjB4KQFuAgnqQo1iD4nLYAnG-VfxEvQWrsnJLzWxABXNPgWc.XNxD-kFwO9FekVoLfs7gqnVtscbtGayZEaSss4hPqNY%26dib_tag%3Dse%26keywords%3Dmobile%2Bsmartphones%2Bunder%2B30000%26qid%3D1770097855%26sr%3D8-1-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9hdGY%26psc%3D1#customerReviews
+                    - text: (4)
+                - generic [ref=e167]:
+                  - link "See options" [ref=e175] [cursor=pointer]:
+                    - /url: /sspa/click?ie=UTF8&spc=MToyOTI4MTg1OTMxOTc3OTAxOjE3NzAwOTc4NTU6c3BfYXRmOjMwMDg0MDYzMDU3MjgwMjo6MDo6&url=%2FVSQAOF-I25-Ultra-Smartphone-Built%2Fdp%2FB0FQ5H2ZD4%2Fref%3Dsr_1_1_so_CELLULAR_PHONE%3Fdib%3DeyJ2IjoiMSJ9.gL0LtCacLp3csW9qyDhj01-pekOMrL-SHzoBi-5ZUkFWGGjLe5IeuKL7HuXEenFdaqkXs5hbEH4GyLm8WZeDxsvj_h1bmmUOQAsYFbL3LPpma76E7mvSXYo6kH3RZr_xWhlQbjbdPBONdQEuAD-YrIxGISWGJS34KniYReMFVUG6sAIUq7-elNIGmyIgjB4KQFuAgnqQo1iD4nLYAnG-VfxEvQWrsnJLzWxABXNPgWc.XNxD-kFwO9FekVoLfs7gqnVtscbtGayZEaSss4hPqNY%26dib_tag%3Dse%26keywords%3Dmobile%2Bsmartphones%2Bunder%2B30000%26qid%3D1770097855%26sr%3D8-1-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9hdGY%26psc%3D1
+                  - group "colors available" [ref=e177]:
+                    - list
+                    - link "+11 other colors/patterns" [ref=e179] [cursor=pointer]:
+                      - /url: /sspa/click?ie=UTF8&spc=MToyOTI4MTg1OTMxOTc3OTAxOjE3NzAwOTc4NTU6c3BfYXRmOjMwMDg0MDYzMDU3MjgwMjo6MDo6&url=%2FVSQAOF-I25-Ultra-Smartphone-Built%2Fdp%2FB0FQ5H2ZD4%2Fref%3Dsr_1_1_sspa%3Fdib%3DeyJ2IjoiMSJ9.gL0LtCacLp3csW9qyDhj01-pekOMrL-SHzoBi-5ZUkFWGGjLe5IeuKL7HuXEenFdaqkXs5hbEH4GyLm8WZeDxsvj_h1bmmUOQAsYFbL3LPpma76E7mvSXYo6kH3RZr_xWhlQbjbdPBONdQEuAD-YrIxGISWGJS34KniYReMFVUG6sAIUq7-elNIGmyIgjB4KQFuAgnqQo1iD4nLYAnG-VfxEvQWrsnJLzWxABXNPgWc.XNxD-kFwO9FekVoLfs7gqnVtscbtGayZEaSss4hPqNY%26dib_tag%3Dse%26keywords%3Dmobile%2Bsmartphones%2Bunder%2B30000%26qid%3D1770097855%26sr%3D8-1-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9hdGY%26psc%3D1
+          - listitem [ref=e182]:
+            - generic [ref=e190]:
+              - link [ref=e196] [cursor=pointer]:
+                - /url: /sspa/click?ie=UTF8&spc=MToyOTI4MTg1OTMxOTc3OTAxOjE3NzAwOTc4NTU6c3BfYXRmOjMwMTAzMTI1NjU1NjcwMjo6MDo6&url=%2FONPTJ-I25-Ultra-Smartphone-Fingerprint%2Fdp%2FB0GFFHPXHX%2Fref%3Dsr_1_2_sspa%3Fdib%3DeyJ2IjoiMSJ9.gL0LtCacLp3csW9qyDhj01-pekOMrL-SHzoBi-5ZUkFWGGjLe5IeuKL7HuXEenFdaqkXs5hbEH4GyLm8WZeDxsvj_h1bmmUOQAsYFbL3LPpma76E7mvSXYo6kH3RZr_xWhlQbjbdPBONdQEuAD-YrIxGISWGJS34KniYReMFVUG6sAIUq7-elNIGmyIgjB4KQFuAgnqQo1iD4nLYAnG-VfxEvQWrsnJLzWxABXNPgWc.XNxD-kFwO9FekVoLfs7gqnVtscbtGayZEaSss4hPqNY%26dib_tag%3Dse%26keywords%3Dmobile%2Bsmartphones%2Bunder%2B30000%26qid%3D1770097855%26sr%3D8-2-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9hdGY%26psc%3D1
+                - img [ref=e198]
+              - generic [ref=e201]:
+                - generic [ref=e202]:
+                  - button "View Sponsored information or leave ad feedback" [ref=e205] [cursor=pointer]:
+                    - generic [ref=e206]: Sponsored
+                  - link "Sponsored Ad - I25 Ultra 5G Unlocked Smartphone,12GB+512GB Fully Cell Phone for Android 14, 6.99\" Unlocked Cell Phone, 7000mAh, 68MP+108MP Dual Camera/Dual SIM/Fingerprint Lock/Face (Rose)" [ref=e208] [cursor=pointer]:
+                    - /url: /sspa/click?ie=UTF8&spc=MToyOTI4MTg1OTMxOTc3OTAxOjE3NzAwOTc4NTU6c3BfYXRmOjMwMTAzMTI1NjU1NjcwMjo6MDo6&url=%2FONPTJ-I25-Ultra-Smartphone-Fingerprint%2Fdp%2FB0GFFHPXHX%2Fref%3Dsr_1_2_sspa%3Fdib%3DeyJ2IjoiMSJ9.gL0LtCacLp3csW9qyDhj01-pekOMrL-SHzoBi-5ZUkFWGGjLe5IeuKL7HuXEenFdaqkXs5hbEH4GyLm8WZeDxsvj_h1bmmUOQAsYFbL3LPpma76E7mvSXYo6kH3RZr_xWhlQbjbdPBONdQEuAD-YrIxGISWGJS34KniYReMFVUG6sAIUq7-elNIGmyIgjB4KQFuAgnqQo1iD4nLYAnG-VfxEvQWrsnJLzWxABXNPgWc.XNxD-kFwO9FekVoLfs7gqnVtscbtGayZEaSss4hPqNY%26dib_tag%3Dse%26keywords%3Dmobile%2Bsmartphones%2Bunder%2B30000%26qid%3D1770097855%26sr%3D8-2-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9hdGY%26psc%3D1
+                    - heading "Sponsored Ad - I25 Ultra 5G Unlocked Smartphone,12GB+512GB Fully Cell Phone for Android 14, 6.99\" Unlocked Cell Phone, 7000mAh, 68MP+108MP Dual Camera/Dual SIM/Fingerprint Lock/Face (Rose)" [level=2] [ref=e209]: I25 Ultra 5G Unlocked Smartphone,12GB+512GB Fully Cell Phone for Android 14, 6.99" Unlocked Cell Phone, 7000mAh, 68MP+108MP Dual Camera/Dual SIM/Fingerprint Lock/Face (Rose)
+                - generic [ref=e210]:
+                  - generic [ref=e211]:
+                    - text: "5.0"
+                    - button "5.0 out of 5 stars, rating details" [ref=e213] [cursor=pointer]:
+                      - generic [ref=e215]: 5.0 out of 5 stars
+                    - link "3 ratings" [ref=e219] [cursor=pointer]:
+                      - /url: /sspa/click?ie=UTF8&spc=MToyOTI4MTg1OTMxOTc3OTAxOjE3NzAwOTc4NTU6c3BfYXRmOjMwMTAzMTI1NjU1NjcwMjo6MDo6&url=%2FONPTJ-I25-Ultra-Smartphone-Fingerprint%2Fdp%2FB0GFFHPXHX%2Fref%3Dsr_1_2_sspa%3Fdib%3DeyJ2IjoiMSJ9.gL0LtCacLp3csW9qyDhj01-pekOMrL-SHzoBi-5ZUkFWGGjLe5IeuKL7HuXEenFdaqkXs5hbEH4GyLm8WZeDxsvj_h1bmmUOQAsYFbL3LPpma76E7mvSXYo6kH3RZr_xWhlQbjbdPBONdQEuAD-YrIxGISWGJS34KniYReMFVUG6sAIUq7-elNIGmyIgjB4KQFuAgnqQo1iD4nLYAnG-VfxEvQWrsnJLzWxABXNPgWc.XNxD-kFwO9FekVoLfs7gqnVtscbtGayZEaSss4hPqNY%26dib_tag%3Dse%26keywords%3Dmobile%2Bsmartphones%2Bunder%2B30000%26qid%3D1770097855%26sr%3D8-2-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9hdGY%26psc%3D1#customerReviews
+                      - text: (3)
+                  - generic [ref=e220]: New on Amazon in past month
+                - generic [ref=e223]:
+                  - link "See options" [ref=e231] [cursor=pointer]:
+                    - /url: /sspa/click?ie=UTF8&spc=MToyOTI4MTg1OTMxOTc3OTAxOjE3NzAwOTc4NTU6c3BfYXRmOjMwMTAzMTI1NjU1NjcwMjo6MDo6&url=%2FONPTJ-I25-Ultra-Smartphone-Fingerprint%2Fdp%2FB0GFFHPXHX%2Fref%3Dsr_1_2_so_CELLULAR_PHONE%3Fdib%3DeyJ2IjoiMSJ9.gL0LtCacLp3csW9qyDhj01-pekOMrL-SHzoBi-5ZUkFWGGjLe5IeuKL7HuXEenFdaqkXs5hbEH4GyLm8WZeDxsvj_h1bmmUOQAsYFbL3LPpma76E7mvSXYo6kH3RZr_xWhlQbjbdPBONdQEuAD-YrIxGISWGJS34KniYReMFVUG6sAIUq7-elNIGmyIgjB4KQFuAgnqQo1iD4nLYAnG-VfxEvQWrsnJLzWxABXNPgWc.XNxD-kFwO9FekVoLfs7gqnVtscbtGayZEaSss4hPqNY%26dib_tag%3Dse%26keywords%3Dmobile%2Bsmartphones%2Bunder%2B30000%26qid%3D1770097855%26sr%3D8-2-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9hdGY%26psc%3D1
+                  - group "colors available" [ref=e233]:
+                    - list
+                    - link "+7 other colors/patterns" [ref=e235] [cursor=pointer]:
+                      - /url: /sspa/click?ie=UTF8&spc=MToyOTI4MTg1OTMxOTc3OTAxOjE3NzAwOTc4NTU6c3BfYXRmOjMwMTAzMTI1NjU1NjcwMjo6MDo6&url=%2FONPTJ-I25-Ultra-Smartphone-Fingerprint%2Fdp%2FB0GFFHPXHX%2Fref%3Dsr_1_2_sspa%3Fdib%3DeyJ2IjoiMSJ9.gL0LtCacLp3csW9qyDhj01-pekOMrL-SHzoBi-5ZUkFWGGjLe5IeuKL7HuXEenFdaqkXs5hbEH4GyLm8WZeDxsvj_h1bmmUOQAsYFbL3LPpma76E7mvSXYo6kH3RZr_xWhlQbjbdPBONdQEuAD-YrIxGISWGJS34KniYReMFVUG6sAIUq7-elNIGmyIgjB4KQFuAgnqQo1iD4nLYAnG-VfxEvQWrsnJLzWxABXNPgWc.XNxD-kFwO9FekVoLfs7gqnVtscbtGayZEaSss4hPqNY%26dib_tag%3Dse%26keywords%3Dmobile%2Bsmartphones%2Bunder%2B30000%26qid%3D1770097855%26sr%3D8-2-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9hdGY%26psc%3D1
+          - listitem [ref=e238]:
+            - generic [ref=e244]:
+              - generic [ref=e246]:
+                - generic "Amazon's Choice" [ref=e249]:
+                  - generic [ref=e258]: Overall Pick
+                - link [ref=e263] [cursor=pointer]:
+                  - /url: /Moto-Unlocked-128GB-Camera-Forest/dp/B0DNRK51QQ/ref=sr_1_3?dib=eyJ2IjoiMSJ9.gL0LtCacLp3csW9qyDhj01-pekOMrL-SHzoBi-5ZUkFWGGjLe5IeuKL7HuXEenFdaqkXs5hbEH4GyLm8WZeDxsvj_h1bmmUOQAsYFbL3LPpma76E7mvSXYo6kH3RZr_xWhlQbjbdPBONdQEuAD-YrIxGISWGJS34KniYReMFVUG6sAIUq7-elNIGmyIgjB4KQFuAgnqQo1iD4nLYAnG-VfxEvQWrsnJLzWxABXNPgWc.XNxD-kFwO9FekVoLfs7gqnVtscbtGayZEaSss4hPqNY&dib_tag=se&keywords=mobile+smartphones+under+30000&qid=1770097855&sr=8-3
+                  - img [ref=e265]
+              - generic [ref=e268]:
+                - link "Motorola Moto G - 2025 | Unlocked | Made for US 4/128GB | 50MP Camera | Forest Gray" [ref=e270] [cursor=pointer]:
+                  - /url: /Moto-Unlocked-128GB-Camera-Forest/dp/B0DNRK51QQ/ref=sr_1_3?dib=eyJ2IjoiMSJ9.gL0LtCacLp3csW9qyDhj01-pekOMrL-SHzoBi-5ZUkFWGGjLe5IeuKL7HuXEenFdaqkXs5hbEH4GyLm8WZeDxsvj_h1bmmUOQAsYFbL3LPpma76E7mvSXYo6kH3RZr_xWhlQbjbdPBONdQEuAD-YrIxGISWGJS34KniYReMFVUG6sAIUq7-elNIGmyIgjB4KQFuAgnqQo1iD4nLYAnG-VfxEvQWrsnJLzWxABXNPgWc.XNxD-kFwO9FekVoLfs7gqnVtscbtGayZEaSss4hPqNY&dib_tag=se&keywords=mobile+smartphones+under+30000&qid=1770097855&sr=8-3
+                  - heading "Motorola Moto G - 2025 | Unlocked | Made for US 4/128GB | 50MP Camera | Forest Gray" [level=2] [ref=e271]
+                - generic [ref=e272]:
+                  - generic [ref=e273]:
+                    - text: "4.3"
+                    - button "4.3 out of 5 stars, rating details" [ref=e275] [cursor=pointer]:
+                      - generic [ref=e277]: 4.3 out of 5 stars
+                    - link "4,587 ratings" [ref=e281] [cursor=pointer]:
+                      - /url: /Moto-Unlocked-128GB-Camera-Forest/dp/B0DNRK51QQ/ref=sr_1_3?dib=eyJ2IjoiMSJ9.gL0LtCacLp3csW9qyDhj01-pekOMrL-SHzoBi-5ZUkFWGGjLe5IeuKL7HuXEenFdaqkXs5hbEH4GyLm8WZeDxsvj_h1bmmUOQAsYFbL3LPpma76E7mvSXYo6kH3RZr_xWhlQbjbdPBONdQEuAD-YrIxGISWGJS34KniYReMFVUG6sAIUq7-elNIGmyIgjB4KQFuAgnqQo1iD4nLYAnG-VfxEvQWrsnJLzWxABXNPgWc.XNxD-kFwO9FekVoLfs7gqnVtscbtGayZEaSss4hPqNY&dib_tag=se&keywords=mobile+smartphones+under+30000&qid=1770097855&sr=8-3#customerReviews
+                      - text: (4.5K)
+                  - generic [ref=e282]: 1K+ bought in past month
+                - generic [ref=e285]:
+                  - generic [ref=e288]:
+                    - generic [ref=e289]: Price, product page
+                    - 'link "INR 15,887.86 List: INR 18,307.28 List: INR 18,307.28" [ref=e290] [cursor=pointer]':
+                      - /url: /Moto-Unlocked-128GB-Camera-Forest/dp/B0DNRK51QQ/ref=sr_1_3?dib=eyJ2IjoiMSJ9.gL0LtCacLp3csW9qyDhj01-pekOMrL-SHzoBi-5ZUkFWGGjLe5IeuKL7HuXEenFdaqkXs5hbEH4GyLm8WZeDxsvj_h1bmmUOQAsYFbL3LPpma76E7mvSXYo6kH3RZr_xWhlQbjbdPBONdQEuAD-YrIxGISWGJS34KniYReMFVUG6sAIUq7-elNIGmyIgjB4KQFuAgnqQo1iD4nLYAnG-VfxEvQWrsnJLzWxABXNPgWc.XNxD-kFwO9FekVoLfs7gqnVtscbtGayZEaSss4hPqNY&dib_tag=se&keywords=mobile+smartphones+under+30000&qid=1770097855&sr=8-3
+                      - generic [ref=e291]:
+                        - generic [ref=e292]: INR 15,887.86
+                        - generic [ref=e293]:
+                          - text: INR
+                          - generic [ref=e294]:
+                            - text: 15,887
+                            - generic [ref=e295]: .
+                          - text: "86"
+                      - generic [ref=e296]: "List: INR 18,307.28"
+                      - generic [ref=e297]:
+                        - text: "List:"
+                        - generic [ref=e298]:
+                          - generic [ref=e299]: INR 18,307.28
+                          - text: INR18,307.28
+                  - generic [ref=e300]:
+                    - generic [ref=e306]: INR 966.67 delivery Wed, Feb 25
+                    - generic [ref=e309]: Ships to India
+                  - button "Add to cart" [ref=e323] [cursor=pointer]
+                  - generic [ref=e325]:
+                    - text: More Buying Choices
+                    - text: INR 11,441.71
+                    - link "(5+ used & new offers)" [ref=e327] [cursor=pointer]:
+                      - /url: /gp/offer-listing/B0DNRK51QQ/ref=sr_1_3_olp?keywords=mobile+smartphones+under+30000&dib_tag=se&dib=eyJ2IjoiMSJ9.gL0LtCacLp3csW9qyDhj01-pekOMrL-SHzoBi-5ZUkFWGGjLe5IeuKL7HuXEenFdaqkXs5hbEH4GyLm8WZeDxsvj_h1bmmUOQAsYFbL3LPpma76E7mvSXYo6kH3RZr_xWhlQbjbdPBONdQEuAD-YrIxGISWGJS34KniYReMFVUG6sAIUq7-elNIGmyIgjB4KQFuAgnqQo1iD4nLYAnG-VfxEvQWrsnJLzWxABXNPgWc.XNxD-kFwO9FekVoLfs7gqnVtscbtGayZEaSss4hPqNY&qid=1770097855&sr=8-3
+                  - group "colors available" [ref=e329]:
+                    - list [ref=e330]:
+                      - generic [ref=e331]:
+                        - listitem:
+                          - link "Forest Gray":
+                            - /url: /Moto-Unlocked-128GB-Camera-Forest/dp/B0DNRK51QQ/ref=cs_sr_dp_loc_1?dib=eyJ2IjoiMSJ9.gL0LtCacLp3csW9qyDhj01-pekOMrL-SHzoBi-5ZUkFWGGjLe5IeuKL7HuXEenFdaqkXs5hbEH4GyLm8WZeDxsvj_h1bmmUOQAsYFbL3LPpma76E7mvSXYo6kH3RZr_xWhlQbjbdPBONdQEuAD-YrIxGISWGJS34KniYReMFVUG6sAIUq7-elNIGmyIgjB4KQFuAgnqQo1iD4nLYAnG-VfxEvQWrsnJLzWxABXNPgWc.XNxD-kFwO9FekVoLfs7gqnVtscbtGayZEaSss4hPqNY&dib_tag=se&keywords=mobile+smartphones+under+30000&qid=1770097855&sr=8-3
+                      - generic [ref=e334]:
+                        - listitem:
+                          - link "Leaf Green":
+                            - /url: /Moto-Unlocked-128GB-Camera-Forest/dp/B0DP5H8Y82/ref=cs_sr_dp_loc_2?dib=eyJ2IjoiMSJ9.gL0LtCacLp3csW9qyDhj01-pekOMrL-SHzoBi-5ZUkFWGGjLe5IeuKL7HuXEenFdaqkXs5hbEH4GyLm8WZeDxsvj_h1bmmUOQAsYFbL3LPpma76E7mvSXYo6kH3RZr_xWhlQbjbdPBONdQEuAD-YrIxGISWGJS34KniYReMFVUG6sAIUq7-elNIGmyIgjB4KQFuAgnqQo1iD4nLYAnG-VfxEvQWrsnJLzWxABXNPgWc.XNxD-kFwO9FekVoLfs7gqnVtscbtGayZEaSss4hPqNY&dib_tag=se&keywords=mobile+smartphones+under+30000&qid=1770097855&sr=8-3
+                      - generic [ref=e337]:
+                        - listitem:
+                          - link "Midnight Blue":
+                            - /url: /Moto-Unlocked-128GB-Camera-Forest/dp/B0CT6BQV81/ref=cs_sr_dp_loc_3?dib=eyJ2IjoiMSJ9.gL0LtCacLp3csW9qyDhj01-pekOMrL-SHzoBi-5ZUkFWGGjLe5IeuKL7HuXEenFdaqkXs5hbEH4GyLm8WZeDxsvj_h1bmmUOQAsYFbL3LPpma76E7mvSXYo6kH3RZr_xWhlQbjbdPBONdQEuAD-YrIxGISWGJS34KniYReMFVUG6sAIUq7-elNIGmyIgjB4KQFuAgnqQo1iD4nLYAnG-VfxEvQWrsnJLzWxABXNPgWc.XNxD-kFwO9FekVoLfs7gqnVtscbtGayZEaSss4hPqNY&dib_tag=se&keywords=mobile+smartphones+under+30000&qid=1770097855&sr=8-3
+                      - generic [ref=e340]:
+                        - listitem:
+                          - link "Pale Lilac":
+                            - /url: /Moto-Unlocked-128GB-Camera-Forest/dp/B0CVR23QCR/ref=cs_sr_dp_loc_4?dib=eyJ2IjoiMSJ9.gL0LtCacLp3csW9qyDhj01-pekOMrL-SHzoBi-5ZUkFWGGjLe5IeuKL7HuXEenFdaqkXs5hbEH4GyLm8WZeDxsvj_h1bmmUOQAsYFbL3LPpma76E7mvSXYo6kH3RZr_xWhlQbjbdPBONdQEuAD-YrIxGISWGJS34KniYReMFVUG6sAIUq7-elNIGmyIgjB4KQFuAgnqQo1iD4nLYAnG-VfxEvQWrsnJLzWxABXNPgWc.XNxD-kFwO9FekVoLfs7gqnVtscbtGayZEaSss4hPqNY&dib_tag=se&keywords=mobile+smartphones+under+30000&qid=1770097855&sr=8-3
+                      - generic [ref=e343]:
+                        - listitem:
+                          - link "Sage Green":
+                            - /url: /Moto-Unlocked-128GB-Camera-Forest/dp/B0CWHXVLXG/ref=cs_sr_dp_loc_5?dib=eyJ2IjoiMSJ9.gL0LtCacLp3csW9qyDhj01-pekOMrL-SHzoBi-5ZUkFWGGjLe5IeuKL7HuXEenFdaqkXs5hbEH4GyLm8WZeDxsvj_h1bmmUOQAsYFbL3LPpma76E7mvSXYo6kH3RZr_xWhlQbjbdPBONdQEuAD-YrIxGISWGJS34KniYReMFVUG6sAIUq7-elNIGmyIgjB4KQFuAgnqQo1iD4nLYAnG-VfxEvQWrsnJLzWxABXNPgWc.XNxD-kFwO9FekVoLfs7gqnVtscbtGayZEaSss4hPqNY&dib_tag=se&keywords=mobile+smartphones+under+30000&qid=1770097855&sr=8-3
+                      - generic [ref=e346]:
+                        - listitem:
+                          - link "Sapphire Blue":
+                            - /url: /Moto-Unlocked-128GB-Camera-Forest/dp/B0CP6DDN1H/ref=cs_sr_dp_loc_6?dib=eyJ2IjoiMSJ9.gL0LtCacLp3csW9qyDhj01-pekOMrL-SHzoBi-5ZUkFWGGjLe5IeuKL7HuXEenFdaqkXs5hbEH4GyLm8WZeDxsvj_h1bmmUOQAsYFbL3LPpma76E7mvSXYo6kH3RZr_xWhlQbjbdPBONdQEuAD-YrIxGISWGJS34KniYReMFVUG6sAIUq7-elNIGmyIgjB4KQFuAgnqQo1iD4nLYAnG-VfxEvQWrsnJLzWxABXNPgWc.XNxD-kFwO9FekVoLfs7gqnVtscbtGayZEaSss4hPqNY&dib_tag=se&keywords=mobile+smartphones+under+30000&qid=1770097855&sr=8-3
+                    - link "+1 other color/pattern" [ref=e350] [cursor=pointer]:
+                      - /url: /Moto-Unlocked-128GB-Camera-Forest/dp/B0DNRK51QQ/ref=cs_sr_dp_loc_n?dib=eyJ2IjoiMSJ9.gL0LtCacLp3csW9qyDhj01-pekOMrL-SHzoBi-5ZUkFWGGjLe5IeuKL7HuXEenFdaqkXs5hbEH4GyLm8WZeDxsvj_h1bmmUOQAsYFbL3LPpma76E7mvSXYo6kH3RZr_xWhlQbjbdPBONdQEuAD-YrIxGISWGJS34KniYReMFVUG6sAIUq7-elNIGmyIgjB4KQFuAgnqQo1iD4nLYAnG-VfxEvQWrsnJLzWxABXNPgWc.XNxD-kFwO9FekVoLfs7gqnVtscbtGayZEaSss4hPqNY&dib_tag=se&keywords=mobile+smartphones+under+30000&qid=1770097855&sr=8-3
+                      - text: "+1"
+          - listitem [ref=e353]:
+            - generic [ref=e359]:
+              - link [ref=e365] [cursor=pointer]:
+                - /url: /SAMSUNG-Resistant-Unlocked-International-DS/dp/B0DNRGQRB4/ref=sr_1_4?dib=eyJ2IjoiMSJ9.gL0LtCacLp3csW9qyDhj01-pekOMrL-SHzoBi-5ZUkFWGGjLe5IeuKL7HuXEenFdaqkXs5hbEH4GyLm8WZeDxsvj_h1bmmUOQAsYFbL3LPpma76E7mvSXYo6kH3RZr_xWhlQbjbdPBONdQEuAD-YrIxGISWGJS34KniYReMFVUG6sAIUq7-elNIGmyIgjB4KQFuAgnqQo1iD4nLYAnG-VfxEvQWrsnJLzWxABXNPgWc.XNxD-kFwO9FekVoLfs7gqnVtscbtGayZEaSss4hPqNY&dib_tag=se&keywords=mobile+smartphones+under+30000&qid=1770097855&sr=8-4
+                - img [ref=e367]
+              - generic [ref=e370]:
+                - link "Samsung Galaxy A16 4G Dual SIM (128GB, 2025) 6.7\" 90Hz AMOLED, Splash Resistant, 8Core, 50MP Camera (Factory Unlocked International Model for GSM, Global) A165M/DS (25W Fast Charger Bundle, Grey)" [ref=e372] [cursor=pointer]:
+                  - /url: /SAMSUNG-Resistant-Unlocked-International-DS/dp/B0DNRGQRB4/ref=sr_1_4?dib=eyJ2IjoiMSJ9.gL0LtCacLp3csW9qyDhj01-pekOMrL-SHzoBi-5ZUkFWGGjLe5IeuKL7HuXEenFdaqkXs5hbEH4GyLm8WZeDxsvj_h1bmmUOQAsYFbL3LPpma76E7mvSXYo6kH3RZr_xWhlQbjbdPBONdQEuAD-YrIxGISWGJS34KniYReMFVUG6sAIUq7-elNIGmyIgjB4KQFuAgnqQo1iD4nLYAnG-VfxEvQWrsnJLzWxABXNPgWc.XNxD-kFwO9FekVoLfs7gqnVtscbtGayZEaSss4hPqNY&dib_tag=se&keywords=mobile+smartphones+under+30000&qid=1770097855&sr=8-4
+                  - heading "Samsung Galaxy A16 4G Dual SIM (128GB, 2025) 6.7\" 90Hz AMOLED, Splash Resistant, 8Core, 50MP Camera (Factory Unlocked International Model for GSM, Global) A165M/DS (25W Fast Charger Bundle, Grey)" [level=2] [ref=e373]
+                - generic [ref=e374]:
+                  - generic [ref=e377]: Top Reviewed for Functionality
+                  - generic [ref=e378]:
+                    - text: "4.3"
+                    - button "4.3 out of 5 stars, rating details" [ref=e380] [cursor=pointer]:
+                      - generic [ref=e382]: 4.3 out of 5 stars
+                    - link "1,507 ratings" [ref=e386] [cursor=pointer]:
+                      - /url: /SAMSUNG-Resistant-Unlocked-International-DS/dp/B0DNRGQRB4/ref=sr_1_4?dib=eyJ2IjoiMSJ9.gL0LtCacLp3csW9qyDhj01-pekOMrL-SHzoBi-5ZUkFWGGjLe5IeuKL7HuXEenFdaqkXs5hbEH4GyLm8WZeDxsvj_h1bmmUOQAsYFbL3LPpma76E7mvSXYo6kH3RZr_xWhlQbjbdPBONdQEuAD-YrIxGISWGJS34KniYReMFVUG6sAIUq7-elNIGmyIgjB4KQFuAgnqQo1iD4nLYAnG-VfxEvQWrsnJLzWxABXNPgWc.XNxD-kFwO9FekVoLfs7gqnVtscbtGayZEaSss4hPqNY&dib_tag=se&keywords=mobile+smartphones+under+30000&qid=1770097855&sr=8-4#customerReviews
+                      - text: (1.5K)
+                  - generic [ref=e387]: 500+ bought in past month
+                - generic [ref=e390]:
+                  - link "See options" [ref=e398] [cursor=pointer]:
+                    - /url: /SAMSUNG-Resistant-Unlocked-International-DS/dp/B0DNRGQRB4/ref=sr_1_4_so_CELLULAR_PHONE?dib=eyJ2IjoiMSJ9.gL0LtCacLp3csW9qyDhj01-pekOMrL-SHzoBi-5ZUkFWGGjLe5IeuKL7HuXEenFdaqkXs5hbEH4GyLm8WZeDxsvj_h1bmmUOQAsYFbL3LPpma76E7mvSXYo6kH3RZr_xWhlQbjbdPBONdQEuAD-YrIxGISWGJS34KniYReMFVUG6sAIUq7-elNIGmyIgjB4KQFuAgnqQo1iD4nLYAnG-VfxEvQWrsnJLzWxABXNPgWc.XNxD-kFwO9FekVoLfs7gqnVtscbtGayZEaSss4hPqNY&dib_tag=se&keywords=mobile+smartphones+under+30000&qid=1770097855&sr=8-4
+                  - generic [ref=e400]:
+                    - text: No featured offers available
+                    - text: INR 11,349.25
+                    - link "(11 new offers)" [ref=e402] [cursor=pointer]:
+                      - /url: /gp/offer-listing/B0DNRGQRB4/ref=sr_1_4_olp?keywords=mobile+smartphones+under+30000&dib_tag=se&dib=eyJ2IjoiMSJ9.gL0LtCacLp3csW9qyDhj01-pekOMrL-SHzoBi-5ZUkFWGGjLe5IeuKL7HuXEenFdaqkXs5hbEH4GyLm8WZeDxsvj_h1bmmUOQAsYFbL3LPpma76E7mvSXYo6kH3RZr_xWhlQbjbdPBONdQEuAD-YrIxGISWGJS34KniYReMFVUG6sAIUq7-elNIGmyIgjB4KQFuAgnqQo1iD4nLYAnG-VfxEvQWrsnJLzWxABXNPgWc.XNxD-kFwO9FekVoLfs7gqnVtscbtGayZEaSss4hPqNY&qid=1770097855&sr=8-4
+                  - group "colors available" [ref=e404]:
+                    - list [ref=e405]:
+                      - generic [ref=e406]:
+                        - listitem:
+                          - link "Gray":
+                            - /url: /SAMSUNG-Resistant-Unlocked-International-DS/dp/B0DNRGQRB4/ref=cs_sr_dp_loc_1?dib=eyJ2IjoiMSJ9.gL0LtCacLp3csW9qyDhj01-pekOMrL-SHzoBi-5ZUkFWGGjLe5IeuKL7HuXEenFdaqkXs5hbEH4GyLm8WZeDxsvj_h1bmmUOQAsYFbL3LPpma76E7mvSXYo6kH3RZr_xWhlQbjbdPBONdQEuAD-YrIxGISWGJS34KniYReMFVUG6sAIUq7-elNIGmyIgjB4KQFuAgnqQo1iD4nLYAnG-VfxEvQWrsnJLzWxABXNPgWc.XNxD-kFwO9FekVoLfs7gqnVtscbtGayZEaSss4hPqNY&dib_tag=se&keywords=mobile+smartphones+under+30000&qid=1770097855&sr=8-4
+                      - generic [ref=e409]:
+                        - listitem:
+                          - link "Black":
+                            - /url: /SAMSUNG-Resistant-Unlocked-International-DS/dp/B0DNRFGBQ4/ref=cs_sr_dp_loc_2?dib=eyJ2IjoiMSJ9.gL0LtCacLp3csW9qyDhj01-pekOMrL-SHzoBi-5ZUkFWGGjLe5IeuKL7HuXEenFdaqkXs5hbEH4GyLm8WZeDxsvj_h1bmmUOQAsYFbL3LPpma76E7mvSXYo6kH3RZr_xWhlQbjbdPBONdQEuAD-YrIxGISWGJS34KniYReMFVUG6sAIUq7-elNIGmyIgjB4KQFuAgnqQo1iD4nLYAnG-VfxEvQWrsnJLzWxABXNPgWc.XNxD-kFwO9FekVoLfs7gqnVtscbtGayZEaSss4hPqNY&dib_tag=se&keywords=mobile+smartphones+under+30000&qid=1770097855&sr=8-4
+                      - generic [ref=e412]:
+                        - listitem:
+                          - link "Light Green":
+                            - /url: /SAMSUNG-Resistant-Unlocked-International-DS/dp/B0DNRD4QVQ/ref=cs_sr_dp_loc_3?dib=eyJ2IjoiMSJ9.gL0LtCacLp3csW9qyDhj01-pekOMrL-SHzoBi-5ZUkFWGGjLe5IeuKL7HuXEenFdaqkXs5hbEH4GyLm8WZeDxsvj_h1bmmUOQAsYFbL3LPpma76E7mvSXYo6kH3RZr_xWhlQbjbdPBONdQEuAD-YrIxGISWGJS34KniYReMFVUG6sAIUq7-elNIGmyIgjB4KQFuAgnqQo1iD4nLYAnG-VfxEvQWrsnJLzWxABXNPgWc.XNxD-kFwO9FekVoLfs7gqnVtscbtGayZEaSss4hPqNY&dib_tag=se&keywords=mobile+smartphones+under+30000&qid=1770097855&sr=8-4
+          - generic [ref=e420]:
+            - generic [ref=e425]:
+              - heading "From frequently shopped brands" [level=2] [ref=e427]
+              - generic [ref=e428]:
+                - button "View Sponsored information or leave ad feedback" [ref=e430] [cursor=pointer]: Sponsored
+                - text: "| Based on number of views and purchases"
+            - group "From frequently shopped brands" [ref=e432]:
+              - group [ref=e437]:
+                - list [ref=e438]:
+                  - listitem "1 of 5" [ref=e439]:
+                    - generic [ref=e445]:
+                      - link [ref=e448] [cursor=pointer]:
+                        - /url: /sspa/click?ie=UTF8&spc=MTozMjk5MTEzNTc2NTIwMDAyOjE3NzAwOTc4NTU6c3Bfc2VhcmNoX3RoZW1hdGljOjMwMDA3MTA0MzEzMDMwMjo6MDo6&url=%2FMotorola-razr-Unlocked-MPCamera-73-95x170-83x6-99mm%2Fdp%2FB0C2X87QW4%2Fref%3Dsxin_17_pa_sp_search_thematic_sspa%3Fcontent-id%3Damzn1.sym.e1478d11-2c2b-4095-864d-3835610c4789%253Aamzn1.sym.e1478d11-2c2b-4095-864d-3835610c4789%26cv_ct_cx%3Dmobile%2Bsmartphones%2Bunder%2B30000%26keywords%3Dmobile%2Bsmartphones%2Bunder%2B30000%26pd_rd_i%3DB0C2X87QW4%26pd_rd_r%3Dcfb4f9e9-d8ae-44ae-a400-bc9128404b0d%26pd_rd_w%3D0xCwz%26pd_rd_wg%3DJ5ErZ%26pf_rd_p%3De1478d11-2c2b-4095-864d-3835610c4789%26pf_rd_r%3D7KFTJS94KY2TE5D8BP5A%26qid%3D1770097855%26sbo%3DRZvfv%252F%252FHxDF%252BO5021pAnSA%253D%253D%26sr%3D1-1-2c727eeb-987f-452f-86bd-c2978cc9d8b9-spons%26aref%3DOc8tkE2SSf%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9zZWFyY2hfdGhlbWF0aWM%26psc%3D1&aref=Oc8tkE2SSf
+                        - img [ref=e450]
+                      - generic [ref=e451]:
+                        - group "colors available" [ref=e453]:
+                          - list
+                          - link "+3 other colors/patterns" [ref=e455] [cursor=pointer]:
+                            - /url: /sspa/click?ie=UTF8&spc=MTozMjk5MTEzNTc2NTIwMDAyOjE3NzAwOTc4NTU6c3Bfc2VhcmNoX3RoZW1hdGljOjMwMDA3MTA0MzEzMDMwMjo6MDo6&url=%2FMotorola-razr-Unlocked-MPCamera-73-95x170-83x6-99mm%2Fdp%2FB0C2X87QW4%2Fref%3Dsxin_17_pa_sp_search_thematic_sspa%3Fcontent-id%3Damzn1.sym.e1478d11-2c2b-4095-864d-3835610c4789%253Aamzn1.sym.e1478d11-2c2b-4095-864d-3835610c4789%26cv_ct_cx%3Dmobile%2Bsmartphones%2Bunder%2B30000%26keywords%3Dmobile%2Bsmartphones%2Bunder%2B30000%26pd_rd_i%3DB0C2X87QW4%26pd_rd_r%3Dcfb4f9e9-d8ae-44ae-a400-bc9128404b0d%26pd_rd_w%3D0xCwz%26pd_rd_wg%3DJ5ErZ%26pf_rd_p%3De1478d11-2c2b-4095-864d-3835610c4789%26pf_rd_r%3D7KFTJS94KY2TE5D8BP5A%26qid%3D1770097855%26sbo%3DRZvfv%252F%252FHxDF%252BO5021pAnSA%253D%253D%26sr%3D1-1-2c727eeb-987f-452f-86bd-c2978cc9d8b9-spons%26aref%3DOc8tkE2SSf%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9zZWFyY2hfdGhlbWF0aWM%26psc%3D1&aref=Oc8tkE2SSf
+                        - link "Sponsored Ad - Motorola razr+ | 2023 | Unlocked | Made for US 8/256 | 32 MPCamera |Blue" [ref=e457] [cursor=pointer]:
+                          - /url: /sspa/click?ie=UTF8&spc=MTozMjk5MTEzNTc2NTIwMDAyOjE3NzAwOTc4NTU6c3Bfc2VhcmNoX3RoZW1hdGljOjMwMDA3MTA0MzEzMDMwMjo6MDo6&url=%2FMotorola-razr-Unlocked-MPCamera-73-95x170-83x6-99mm%2Fdp%2FB0C2X87QW4%2Fref%3Dsxin_17_pa_sp_search_thematic_sspa%3Fcontent-id%3Damzn1.sym.e1478d11-2c2b-4095-864d-3835610c4789%253Aamzn1.sym.e1478d11-2c2b-4095-864d-3835610c4789%26cv_ct_cx%3Dmobile%2Bsmartphones%2Bunder%2B30000%26keywords%3Dmobile%2Bsmartphones%2Bunder%2B30000%26pd_rd_i%3DB0C2X87QW4%26pd_rd_r%3Dcfb4f9e9-d8ae-44ae-a400-bc9128404b0d%26pd_rd_w%3D0xCwz%26pd_rd_wg%3DJ5ErZ%26pf_rd_p%3De1478d11-2c2b-4095-864d-3835610c4789%26pf_rd_r%3D7KFTJS94KY2TE5D8BP5A%26qid%3D1770097855%26sbo%3DRZvfv%252F%252FHxDF%252BO5021pAnSA%253D%253D%26sr%3D1-1-2c727eeb-987f-452f-86bd-c2978cc9d8b9-spons%26aref%3DOc8tkE2SSf%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9zZWFyY2hfdGhlbWF0aWM%26psc%3D1&aref=Oc8tkE2SSf
+                          - heading "Sponsored Ad - Motorola razr+ | 2023 | Unlocked | Made for US 8/256 | 32 MPCamera |Blue" [level=2] [ref=e458]: Motorola razr+ | 2023 | Unlocked | Made for US 8/256 | 32 MPCamera |Blue
+                        - generic [ref=e460]:
+                          - text: "4.0"
+                          - button "4.0 out of 5 stars, rating details" [ref=e462] [cursor=pointer]:
+                            - generic [ref=e464]: 4.0 out of 5 stars
+                          - link "859 ratings" [ref=e468] [cursor=pointer]:
+                            - /url: /sspa/click?ie=UTF8&spc=MTozMjk5MTEzNTc2NTIwMDAyOjE3NzAwOTc4NTU6c3Bfc2VhcmNoX3RoZW1hdGljOjMwMDA3MTA0MzEzMDMwMjo6MDo6&url=%2FMotorola-razr-Unlocked-MPCamera-73-95x170-83x6-99mm%2Fdp%2FB0C2X87QW4%2Fref%3Dsxin_17_pa_sp_search_thematic_sspa%3Fcontent-id%3Damzn1.sym.e1478d11-2c2b-4095-864d-3835610c4789%253Aamzn1.sym.e1478d11-2c2b-4095-864d-3835610c4789%26cv_ct_cx%3Dmobile%2Bsmartphones%2Bunder%2B30000%26keywords%3Dmobile%2Bsmartphones%2Bunder%2B30000%26pd_rd_i%3DB0C2X87QW4%26pd_rd_r%3Dcfb4f9e9-d8ae-44ae-a400-bc9128404b0d%26pd_rd_w%3D0xCwz%26pd_rd_wg%3DJ5ErZ%26pf_rd_p%3De1478d11-2c2b-4095-864d-3835610c4789%26pf_rd_r%3D7KFTJS94KY2TE5D8BP5A%26qid%3D1770097855%26sbo%3DRZvfv%252F%252FHxDF%252BO5021pAnSA%253D%253D%26sr%3D1-1-2c727eeb-987f-452f-86bd-c2978cc9d8b9-spons%26aref%3DOc8tkE2SSf%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9zZWFyY2hfdGhlbWF0aWM%26psc%3D1&aref=Oc8tkE2SSf#customerReviews
+                            - text: (859)
+                        - generic [ref=e471]:
+                          - generic [ref=e472]: Price, product page
+                          - link "INR 113,967.63" [ref=e473] [cursor=pointer]:
+                            - /url: /sspa/click?ie=UTF8&spc=MTozMjk5MTEzNTc2NTIwMDAyOjE3NzAwOTc4NTU6c3Bfc2VhcmNoX3RoZW1hdGljOjMwMDA3MTA0MzEzMDMwMjo6MDo6&url=%2FMotorola-razr-Unlocked-MPCamera-73-95x170-83x6-99mm%2Fdp%2FB0C2X87QW4%2Fref%3Dsxin_17_pa_sp_search_thematic_sspa%3Fcontent-id%3Damzn1.sym.e1478d11-2c2b-4095-864d-3835610c4789%253Aamzn1.sym.e1478d11-2c2b-4095-864d-3835610c4789%26cv_ct_cx%3Dmobile%2Bsmartphones%2Bunder%2B30000%26keywords%3Dmobile%2Bsmartphones%2Bunder%2B30000%26pd_rd_i%3DB0C2X87QW4%26pd_rd_r%3Dcfb4f9e9-d8ae-44ae-a400-bc9128404b0d%26pd_rd_w%3D0xCwz%26pd_rd_wg%3DJ5ErZ%26pf_rd_p%3De1478d11-2c2b-4095-864d-3835610c4789%26pf_rd_r%3D7KFTJS94KY2TE5D8BP5A%26qid%3D1770097855%26sbo%3DRZvfv%252F%252FHxDF%252BO5021pAnSA%253D%253D%26sr%3D1-1-2c727eeb-987f-452f-86bd-c2978cc9d8b9-spons%26aref%3DOc8tkE2SSf%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9zZWFyY2hfdGhlbWF0aWM%26psc%3D1&aref=Oc8tkE2SSf
+                            - generic [ref=e474]:
+                              - generic [ref=e475]: INR 113,967.63
+                              - generic [ref=e476]:
+                                - text: INR
+                                - generic [ref=e477]:
+                                  - text: 113,967
+                                  - generic [ref=e478]: .
+                                - text: "63"
+                        - button "Add to cart" [ref=e492] [cursor=pointer]
+                  - listitem "2 of 5" [ref=e493]:
+                    - generic [ref=e499]:
+                      - link [ref=e502] [cursor=pointer]:
+                        - /url: /sspa/click?ie=UTF8&spc=MTozMjk5MTEzNTc2NTIwMDAyOjE3NzAwOTc4NTU6c3Bfc2VhcmNoX3RoZW1hdGljOjMwMDgyMTk5OTg5NTEwMjo6MTo6&url=%2FTCL-NXTPAPER-T-Mobile-Smartphone-Paper-Like%2Fdp%2FB0GGGQDY9H%2Fref%3Dsxin_17_pa_sp_search_thematic_sspa%3Fcontent-id%3Damzn1.sym.e1478d11-2c2b-4095-864d-3835610c4789%253Aamzn1.sym.e1478d11-2c2b-4095-864d-3835610c4789%26cv_ct_cx%3Dmobile%2Bsmartphones%2Bunder%2B30000%26keywords%3Dmobile%2Bsmartphones%2Bunder%2B30000%26pd_rd_i%3DB0GGGQDY9H%26pd_rd_r%3Dcfb4f9e9-d8ae-44ae-a400-bc9128404b0d%26pd_rd_w%3D0xCwz%26pd_rd_wg%3DJ5ErZ%26pf_rd_p%3De1478d11-2c2b-4095-864d-3835610c4789%26pf_rd_r%3D7KFTJS94KY2TE5D8BP5A%26qid%3D1770097855%26sbo%3DRZvfv%252F%252FHxDF%252BO5021pAnSA%253D%253D%26sr%3D1-2-2c727eeb-987f-452f-86bd-c2978cc9d8b9-spons%26aref%3DifboM0AUri%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9zZWFyY2hfdGhlbWF0aWM%26psc%3D1&aref=ifboM0AUri
+                        - img [ref=e504]
+                      - generic [ref=e505]:
+                        - group "colors available" [ref=e507]:
+                          - list
+                          - link "+1 other color/pattern" [ref=e509] [cursor=pointer]:
+                            - /url: /sspa/click?ie=UTF8&spc=MTozMjk5MTEzNTc2NTIwMDAyOjE3NzAwOTc4NTU6c3Bfc2VhcmNoX3RoZW1hdGljOjMwMDgyMTk5OTg5NTEwMjo6MTo6&url=%2FTCL-NXTPAPER-T-Mobile-Smartphone-Paper-Like%2Fdp%2FB0GGGQDY9H%2Fref%3Dsxin_17_pa_sp_search_thematic_sspa%3Fcontent-id%3Damzn1.sym.e1478d11-2c2b-4095-864d-3835610c4789%253Aamzn1.sym.e1478d11-2c2b-4095-864d-3835610c4789%26cv_ct_cx%3Dmobile%2Bsmartphones%2Bunder%2B30000%26keywords%3Dmobile%2Bsmartphones%2Bunder%2B30000%26pd_rd_i%3DB0GGGQDY9H%26pd_rd_r%3Dcfb4f9e9-d8ae-44ae-a400-bc9128404b0d%26pd_rd_w%3D0xCwz%26pd_rd_wg%3DJ5ErZ%26pf_rd_p%3De1478d11-2c2b-4095-864d-3835610c4789%26pf_rd_r%3D7KFTJS94KY2TE5D8BP5A%26qid%3D1770097855%26sbo%3DRZvfv%252F%252FHxDF%252BO5021pAnSA%253D%253D%26sr%3D1-2-2c727eeb-987f-452f-86bd-c2978cc9d8b9-spons%26aref%3DifboM0AUri%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9zZWFyY2hfdGhlbWF0aWM%26psc%3D1&aref=ifboM0AUri
+                        - link "Sponsored Ad - TCL 60 XE NXTPAPER 5G Cell Phone, AT&T, T-Mobile & Verizon Unlocked Android Smartphone, 8GB+128GB, 6.8\" 120Hz Paper-Like Display, AI Features, 5010mAh Battery, Advanced Camera System, Space Blue" [ref=e511] [cursor=pointer]:
+                          - /url: /sspa/click?ie=UTF8&spc=MTozMjk5MTEzNTc2NTIwMDAyOjE3NzAwOTc4NTU6c3Bfc2VhcmNoX3RoZW1hdGljOjMwMDgyMTk5OTg5NTEwMjo6MTo6&url=%2FTCL-NXTPAPER-T-Mobile-Smartphone-Paper-Like%2Fdp%2FB0GGGQDY9H%2Fref%3Dsxin_17_pa_sp_search_thematic_sspa%3Fcontent-id%3Damzn1.sym.e1478d11-2c2b-4095-864d-3835610c4789%253Aamzn1.sym.e1478d11-2c2b-4095-864d-3835610c4789%26cv_ct_cx%3Dmobile%2Bsmartphones%2Bunder%2B30000%26keywords%3Dmobile%2Bsmartphones%2Bunder%2B30000%26pd_rd_i%3DB0GGGQDY9H%26pd_rd_r%3Dcfb4f9e9-d8ae-44ae-a400-bc9128404b0d%26pd_rd_w%3D0xCwz%26pd_rd_wg%3DJ5ErZ%26pf_rd_p%3De1478d11-2c2b-4095-864d-3835610c4789%26pf_rd_r%3D7KFTJS94KY2TE5D8BP5A%26qid%3D1770097855%26sbo%3DRZvfv%252F%252FHxDF%252BO5021pAnSA%253D%253D%26sr%3D1-2-2c727eeb-987f-452f-86bd-c2978cc9d8b9-spons%26aref%3DifboM0AUri%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9zZWFyY2hfdGhlbWF0aWM%26psc%3D1&aref=ifboM0AUri
+                          - heading "Sponsored Ad - TCL 60 XE NXTPAPER 5G Cell Phone, AT&T, T-Mobile & Verizon Unlocked Android Smartphone, 8GB+128GB, 6.8\" 120Hz Paper-Like Display, AI Features, 5010mAh Battery, Advanced Camera System, Space Blue" [level=2] [ref=e512]: TCL 60 XE NXTPAPER 5G Cell Phone, AT&T, T-Mobile & Verizon Unlocked Android Smartphone, 8GB+128GB, 6.8" 120Hz Paper-Like Display, AI Features, 5010mAh Battery, Advanced Camera System, Space Blue
+                        - generic [ref=e514]:
+                          - text: "4.2"
+                          - button "4.2 out of 5 stars, rating details" [ref=e516] [cursor=pointer]:
+                            - generic [ref=e518]: 4.2 out of 5 stars
+                          - link "185 ratings" [ref=e522] [cursor=pointer]:
+                            - /url: /sspa/click?ie=UTF8&spc=MTozMjk5MTEzNTc2NTIwMDAyOjE3NzAwOTc4NTU6c3Bfc2VhcmNoX3RoZW1hdGljOjMwMDgyMTk5OTg5NTEwMjo6MTo6&url=%2FTCL-NXTPAPER-T-Mobile-Smartphone-Paper-Like%2Fdp%2FB0GGGQDY9H%2Fref%3Dsxin_17_pa_sp_search_thematic_sspa%3Fcontent-id%3Damzn1.sym.e1478d11-2c2b-4095-864d-3835610c4789%253Aamzn1.sym.e1478d11-2c2b-4095-864d-3835610c4789%26cv_ct_cx%3Dmobile%2Bsmartphones%2Bunder%2B30000%26keywords%3Dmobile%2Bsmartphones%2Bunder%2B30000%26pd_rd_i%3DB0GGGQDY9H%26pd_rd_r%3Dcfb4f9e9-d8ae-44ae-a400-bc9128404b0d%26pd_rd_w%3D0xCwz%26pd_rd_wg%3DJ5ErZ%26pf_rd_p%3De1478d11-2c2b-4095-864d-3835610c4789%26pf_rd_r%3D7KFTJS94KY2TE5D8BP5A%26qid%3D1770097855%26sbo%3DRZvfv%252F%252FHxDF%252BO5021pAnSA%253D%253D%26sr%3D1-2-2c727eeb-987f-452f-86bd-c2978cc9d8b9-spons%26aref%3DifboM0AUri%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9zZWFyY2hfdGhlbWF0aWM%26psc%3D1&aref=ifboM0AUri#customerReviews
+                            - text: (185)
+                        - link "See options" [ref=e529] [cursor=pointer]:
+                          - /url: /sspa/click?ie=UTF8&spc=MTozMjk5MTEzNTc2NTIwMDAyOjE3NzAwOTc4NTU6c3Bfc2VhcmNoX3RoZW1hdGljOjMwMDgyMTk5OTg5NTEwMjo6MTo6&url=%2FTCL-NXTPAPER-T-Mobile-Smartphone-Paper-Like%2Fdp%2FB0GGGQDY9H%2Fref%3Dsxin_17_pa_sp_search_thematic_so_CELLULAR_PHONE%3Fcontent-id%3Damzn1.sym.e1478d11-2c2b-4095-864d-3835610c4789%253Aamzn1.sym.e1478d11-2c2b-4095-864d-3835610c4789%26cv_ct_cx%3Dmobile%2Bsmartphones%2Bunder%2B30000%26keywords%3Dmobile%2Bsmartphones%2Bunder%2B30000%26pd_rd_i%3DB0GGGQDY9H%26pd_rd_r%3Dcfb4f9e9-d8ae-44ae-a400-bc9128404b0d%26pd_rd_w%3D0xCwz%26pd_rd_wg%3DJ5ErZ%26pf_rd_p%3De1478d11-2c2b-4095-864d-3835610c4789%26pf_rd_r%3D7KFTJS94KY2TE5D8BP5A%26qid%3D1770097855%26sbo%3DRZvfv%252F%252FHxDF%252BO5021pAnSA%253D%253D%26sr%3D1-2-2c727eeb-987f-452f-86bd-c2978cc9d8b9-spons%26aref%3DifboM0AUri%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9zZWFyY2hfdGhlbWF0aWM%26psc%3D1&aref=ifboM0AUri
+                  - listitem "3 of 5" [ref=e530]:
+                    - generic [ref=e536]:
+                      - link [ref=e539] [cursor=pointer]:
+                        - /url: /sspa/click?ie=UTF8&spc=MTozMjk5MTEzNTc2NTIwMDAyOjE3NzAwOTc4NTU6c3Bfc2VhcmNoX3RoZW1hdGljOjMwMTExNzU1NDg4OTUwMjo6Mjo6&url=%2FBlackview-Unlocked-Android-Display-Fingerprint%2Fdp%2FB0F9PK9J4F%2Fref%3Dsxin_17_pa_sp_search_thematic_sspa%3Fcontent-id%3Damzn1.sym.e1478d11-2c2b-4095-864d-3835610c4789%253Aamzn1.sym.e1478d11-2c2b-4095-864d-3835610c4789%26cv_ct_cx%3Dmobile%2Bsmartphones%2Bunder%2B30000%26keywords%3Dmobile%2Bsmartphones%2Bunder%2B30000%26pd_rd_i%3DB0F9PK9J4F%26pd_rd_r%3Dcfb4f9e9-d8ae-44ae-a400-bc9128404b0d%26pd_rd_w%3D0xCwz%26pd_rd_wg%3DJ5ErZ%26pf_rd_p%3De1478d11-2c2b-4095-864d-3835610c4789%26pf_rd_r%3D7KFTJS94KY2TE5D8BP5A%26qid%3D1770097855%26sbo%3DRZvfv%252F%252FHxDF%252BO5021pAnSA%253D%253D%26sr%3D1-3-2c727eeb-987f-452f-86bd-c2978cc9d8b9-spons%26aref%3DHxzpm6pPu3%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9zZWFyY2hfdGhlbWF0aWM%26psc%3D1&aref=Hxzpm6pPu3
+                        - img [ref=e541]
+                      - generic [ref=e542]:
+                        - link "Sponsored Ad - Blackview Shark 6 Unlocked Android Phones 5G (2025), Android 15 Cell Phone Unlocked, 6.88\" 120Hz Display, 24GB+128GB/2TB, 16MP+8MP AI Camera, 5000mAh/18W,Fingerprint/Face ID,Dual SIM/GPS/OTG/NFC,Black" [ref=e544] [cursor=pointer]:
+                          - /url: /sspa/click?ie=UTF8&spc=MTozMjk5MTEzNTc2NTIwMDAyOjE3NzAwOTc4NTU6c3Bfc2VhcmNoX3RoZW1hdGljOjMwMTExNzU1NDg4OTUwMjo6Mjo6&url=%2FBlackview-Unlocked-Android-Display-Fingerprint%2Fdp%2FB0F9PK9J4F%2Fref%3Dsxin_17_pa_sp_search_thematic_sspa%3Fcontent-id%3Damzn1.sym.e1478d11-2c2b-4095-864d-3835610c4789%253Aamzn1.sym.e1478d11-2c2b-4095-864d-3835610c4789%26cv_ct_cx%3Dmobile%2Bsmartphones%2Bunder%2B30000%26keywords%3Dmobile%2Bsmartphones%2Bunder%2B30000%26pd_rd_i%3DB0F9PK9J4F%26pd_rd_r%3Dcfb4f9e9-d8ae-44ae-a400-bc9128404b0d%26pd_rd_w%3D0xCwz%26pd_rd_wg%3DJ5ErZ%26pf_rd_p%3De1478d11-2c2b-4095-864d-3835610c4789%26pf_rd_r%3D7KFTJS94KY2TE5D8BP5A%26qid%3D1770097855%26sbo%3DRZvfv%252F%252FHxDF%252BO5021pAnSA%253D%253D%26sr%3D1-3-2c727eeb-987f-452f-86bd-c2978cc9d8b9-spons%26aref%3DHxzpm6pPu3%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9zZWFyY2hfdGhlbWF0aWM%26psc%3D1&aref=Hxzpm6pPu3
+                          - heading "Sponsored Ad - Blackview Shark 6 Unlocked Android Phones 5G (2025), Android 15 Cell Phone Unlocked, 6.88\" 120Hz Display, 24GB+128GB/2TB, 16MP+8MP AI Camera, 5000mAh/18W,Fingerprint/Face ID,Dual SIM/GPS/OTG/NFC,Black" [level=2] [ref=e545]: Blackview Shark 6 Unlocked Android Phones 5G (2025), Android 15 Cell Phone Unlocked, 6.88" 120Hz Display, 24GB+128GB/2TB, 16MP+8MP AI Camera, 5000mAh/18W,Fingerprint/Face ID,Dual SIM/GPS/OTG/NFC,Black
+                        - generic [ref=e547]:
+                          - text: "4.2"
+                          - button "4.2 out of 5 stars, rating details" [ref=e549] [cursor=pointer]:
+                            - generic [ref=e551]: 4.2 out of 5 stars
+                          - link "671 ratings" [ref=e555] [cursor=pointer]:
+                            - /url: /sspa/click?ie=UTF8&spc=MTozMjk5MTEzNTc2NTIwMDAyOjE3NzAwOTc4NTU6c3Bfc2VhcmNoX3RoZW1hdGljOjMwMTExNzU1NDg4OTUwMjo6Mjo6&url=%2FBlackview-Unlocked-Android-Display-Fingerprint%2Fdp%2FB0F9PK9J4F%2Fref%3Dsxin_17_pa_sp_search_thematic_sspa%3Fcontent-id%3Damzn1.sym.e1478d11-2c2b-4095-864d-3835610c4789%253Aamzn1.sym.e1478d11-2c2b-4095-864d-3835610c4789%26cv_ct_cx%3Dmobile%2Bsmartphones%2Bunder%2B30000%26keywords%3Dmobile%2Bsmartphones%2Bunder%2B30000%26pd_rd_i%3DB0F9PK9J4F%26pd_rd_r%3Dcfb4f9e9-d8ae-44ae-a400-bc9128404b0d%26pd_rd_w%3D0xCwz%26pd_rd_wg%3DJ5ErZ%26pf_rd_p%3De1478d11-2c2b-4095-864d-3835610c4789%26pf_rd_r%3D7KFTJS94KY2TE5D8BP5A%26qid%3D1770097855%26sbo%3DRZvfv%252F%252FHxDF%252BO5021pAnSA%253D%253D%26sr%3D1-3-2c727eeb-987f-452f-86bd-c2978cc9d8b9-spons%26aref%3DHxzpm6pPu3%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9zZWFyY2hfdGhlbWF0aWM%26psc%3D1&aref=Hxzpm6pPu3#customerReviews
+                            - text: (671)
+                        - button "Carbon impact" [ref=e562] [cursor=pointer]:
+                          - generic [ref=e563]: Carbon impact
+                        - link "See options" [ref=e571] [cursor=pointer]:
+                          - /url: /sspa/click?ie=UTF8&spc=MTozMjk5MTEzNTc2NTIwMDAyOjE3NzAwOTc4NTU6c3Bfc2VhcmNoX3RoZW1hdGljOjMwMTExNzU1NDg4OTUwMjo6Mjo6&url=%2FBlackview-Unlocked-Android-Display-Fingerprint%2Fdp%2FB0F9PK9J4F%2Fref%3Dsxin_17_pa_sp_search_thematic_so_CELLULAR_PHONE%3Fcontent-id%3Damzn1.sym.e1478d11-2c2b-4095-864d-3835610c4789%253Aamzn1.sym.e1478d11-2c2b-4095-864d-3835610c4789%26cv_ct_cx%3Dmobile%2Bsmartphones%2Bunder%2B30000%26keywords%3Dmobile%2Bsmartphones%2Bunder%2B30000%26pd_rd_i%3DB0F9PK9J4F%26pd_rd_r%3Dcfb4f9e9-d8ae-44ae-a400-bc9128404b0d%26pd_rd_w%3D0xCwz%26pd_rd_wg%3DJ5ErZ%26pf_rd_p%3De1478d11-2c2b-4095-864d-3835610c4789%26pf_rd_r%3D7KFTJS94KY2TE5D8BP5A%26qid%3D1770097855%26sbo%3DRZvfv%252F%252FHxDF%252BO5021pAnSA%253D%253D%26sr%3D1-3-2c727eeb-987f-452f-86bd-c2978cc9d8b9-spons%26aref%3DHxzpm6pPu3%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9zZWFyY2hfdGhlbWF0aWM%26psc%3D1&aref=Hxzpm6pPu3
+                  - listitem "4 of 5" [ref=e572]:
+                    - generic [ref=e578]:
+                      - link [ref=e581] [cursor=pointer]:
+                        - /url: /sspa/click?ie=UTF8&spc=MTozMjk5MTEzNTc2NTIwMDAyOjE3NzAwOTc4NTU6c3Bfc2VhcmNoX3RoZW1hdGljOjMwMTA5MDU3Mzk2NTcwMjo6Mzo6&url=%2FFOSSIBOT-Smartphone-Unlocked-10000mAH-Waterproof%2Fdp%2FB0FR4Q5XSR%2Fref%3Dsxin_17_pa_sp_search_thematic_sspa%3Fcontent-id%3Damzn1.sym.e1478d11-2c2b-4095-864d-3835610c4789%253Aamzn1.sym.e1478d11-2c2b-4095-864d-3835610c4789%26cv_ct_cx%3Dmobile%2Bsmartphones%2Bunder%2B30000%26keywords%3Dmobile%2Bsmartphones%2Bunder%2B30000%26pd_rd_i%3DB0FR4Q5XSR%26pd_rd_r%3Dcfb4f9e9-d8ae-44ae-a400-bc9128404b0d%26pd_rd_w%3D0xCwz%26pd_rd_wg%3DJ5ErZ%26pf_rd_p%3De1478d11-2c2b-4095-864d-3835610c4789%26pf_rd_r%3D7KFTJS94KY2TE5D8BP5A%26qid%3D1770097855%26sbo%3DRZvfv%252F%252FHxDF%252BO5021pAnSA%253D%253D%26sr%3D1-4-2c727eeb-987f-452f-86bd-c2978cc9d8b9-spons%26aref%3DtJ7BMLCHpq%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9zZWFyY2hfdGhlbWF0aWM%26psc%3D1&aref=tJ7BMLCHpq
+                        - img [ref=e583]
+                      - generic [ref=e584]:
+                        - group "colors available" [ref=e586]:
+                          - list
+                          - link "+3 other colors/patterns" [ref=e588] [cursor=pointer]:
+                            - /url: /sspa/click?ie=UTF8&spc=MTozMjk5MTEzNTc2NTIwMDAyOjE3NzAwOTc4NTU6c3Bfc2VhcmNoX3RoZW1hdGljOjMwMTA5MDU3Mzk2NTcwMjo6Mzo6&url=%2FFOSSIBOT-Smartphone-Unlocked-10000mAH-Waterproof%2Fdp%2FB0FR4Q5XSR%2Fref%3Dsxin_17_pa_sp_search_thematic_sspa%3Fcontent-id%3Damzn1.sym.e1478d11-2c2b-4095-864d-3835610c4789%253Aamzn1.sym.e1478d11-2c2b-4095-864d-3835610c4789%26cv_ct_cx%3Dmobile%2Bsmartphones%2Bunder%2B30000%26keywords%3Dmobile%2Bsmartphones%2Bunder%2B30000%26pd_rd_i%3DB0FR4Q5XSR%26pd_rd_r%3Dcfb4f9e9-d8ae-44ae-a400-bc9128404b0d%26pd_rd_w%3D0xCwz%26pd_rd_wg%3DJ5ErZ%26pf_rd_p%3De1478d11-2c2b-4095-864d-3835610c4789%26pf_rd_r%3D7KFTJS94KY2TE5D8BP5A%26qid%3D1770097855%26sbo%3DRZvfv%252F%252FHxDF%252BO5021pAnSA%253D%253D%26sr%3D1-4-2c727eeb-987f-452f-86bd-c2978cc9d8b9-spons%26aref%3DtJ7BMLCHpq%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9zZWFyY2hfdGhlbWF0aWM%26psc%3D1&aref=tJ7BMLCHpq
+                        - link "Sponsored Ad - FOSSIBOT F110 Pro Rugged Smartphone Unlocked 5G Android 15, 128dB Loudest Speaker 20GB+128GB /2TB 10000mAH, 6.7'' HD Display 50MP Rear Camera, IP68/69K Waterproof, NFC/Dual SIM/Widevine L1" [ref=e590] [cursor=pointer]:
+                          - /url: /sspa/click?ie=UTF8&spc=MTozMjk5MTEzNTc2NTIwMDAyOjE3NzAwOTc4NTU6c3Bfc2VhcmNoX3RoZW1hdGljOjMwMTA5MDU3Mzk2NTcwMjo6Mzo6&url=%2FFOSSIBOT-Smartphone-Unlocked-10000mAH-Waterproof%2Fdp%2FB0FR4Q5XSR%2Fref%3Dsxin_17_pa_sp_search_thematic_sspa%3Fcontent-id%3Damzn1.sym.e1478d11-2c2b-4095-864d-3835610c4789%253Aamzn1.sym.e1478d11-2c2b-4095-864d-3835610c4789%26cv_ct_cx%3Dmobile%2Bsmartphones%2Bunder%2B30000%26keywords%3Dmobile%2Bsmartphones%2Bunder%2B30000%26pd_rd_i%3DB0FR4Q5XSR%26pd_rd_r%3Dcfb4f9e9-d8ae-44ae-a400-bc9128404b0d%26pd_rd_w%3D0xCwz%26pd_rd_wg%3DJ5ErZ%26pf_rd_p%3De1478d11-2c2b-4095-864d-3835610c4789%26pf_rd_r%3D7KFTJS94KY2TE5D8BP5A%26qid%3D1770097855%26sbo%3DRZvfv%252F%252FHxDF%252BO5021pAnSA%253D%253D%26sr%3D1-4-2c727eeb-987f-452f-86bd-c2978cc9d8b9-spons%26aref%3DtJ7BMLCHpq%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9zZWFyY2hfdGhlbWF0aWM%26psc%3D1&aref=tJ7BMLCHpq
+                          - heading "Sponsored Ad - FOSSIBOT F110 Pro Rugged Smartphone Unlocked 5G Android 15, 128dB Loudest Speaker 20GB+128GB /2TB 10000mAH, 6.7'' HD Display 50MP Rear Camera, IP68/69K Waterproof, NFC/Dual SIM/Widevine L1" [level=2] [ref=e591]: FOSSIBOT F110 Pro Rugged Smartphone Unlocked 5G Android 15, 128dB Loudest Speaker 20GB+128GB /2TB 10000mAH, 6.7'' HD Display 50MP Rear Camera, IP68/69K Waterproof, NFC/Dual SIM/Widevine L1
+                        - generic [ref=e593]:
+                          - text: "4.1"
+                          - button "4.1 out of 5 stars, rating details" [ref=e595] [cursor=pointer]:
+                            - generic [ref=e597]: 4.1 out of 5 stars
+                          - link "283 ratings" [ref=e601] [cursor=pointer]:
+                            - /url: /sspa/click?ie=UTF8&spc=MTozMjk5MTEzNTc2NTIwMDAyOjE3NzAwOTc4NTU6c3Bfc2VhcmNoX3RoZW1hdGljOjMwMTA5MDU3Mzk2NTcwMjo6Mzo6&url=%2FFOSSIBOT-Smartphone-Unlocked-10000mAH-Waterproof%2Fdp%2FB0FR4Q5XSR%2Fref%3Dsxin_17_pa_sp_search_thematic_sspa%3Fcontent-id%3Damzn1.sym.e1478d11-2c2b-4095-864d-3835610c4789%253Aamzn1.sym.e1478d11-2c2b-4095-864d-3835610c4789%26cv_ct_cx%3Dmobile%2Bsmartphones%2Bunder%2B30000%26keywords%3Dmobile%2Bsmartphones%2Bunder%2B30000%26pd_rd_i%3DB0FR4Q5XSR%26pd_rd_r%3Dcfb4f9e9-d8ae-44ae-a400-bc9128404b0d%26pd_rd_w%3D0xCwz%26pd_rd_wg%3DJ5ErZ%26pf_rd_p%3De1478d11-2c2b-4095-864d-3835610c4789%26pf_rd_r%3D7KFTJS94KY2TE5D8BP5A%26qid%3D1770097855%26sbo%3DRZvfv%252F%252FHxDF%252BO5021pAnSA%253D%253D%26sr%3D1-4-2c727eeb-987f-452f-86bd-c2978cc9d8b9-spons%26aref%3DtJ7BMLCHpq%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9zZWFyY2hfdGhlbWF0aWM%26psc%3D1&aref=tJ7BMLCHpq#customerReviews
+                            - text: (283)
+                        - link "See options" [ref=e608] [cursor=pointer]:
+                          - /url: /sspa/click?ie=UTF8&spc=MTozMjk5MTEzNTc2NTIwMDAyOjE3NzAwOTc4NTU6c3Bfc2VhcmNoX3RoZW1hdGljOjMwMTA5MDU3Mzk2NTcwMjo6Mzo6&url=%2FFOSSIBOT-Smartphone-Unlocked-10000mAH-Waterproof%2Fdp%2FB0FR4Q5XSR%2Fref%3Dsxin_17_pa_sp_search_thematic_so_CELLULAR_PHONE%3Fcontent-id%3Damzn1.sym.e1478d11-2c2b-4095-864d-3835610c4789%253Aamzn1.sym.e1478d11-2c2b-4095-864d-3835610c4789%26cv_ct_cx%3Dmobile%2Bsmartphones%2Bunder%2B30000%26keywords%3Dmobile%2Bsmartphones%2Bunder%2B30000%26pd_rd_i%3DB0FR4Q5XSR%26pd_rd_r%3Dcfb4f9e9-d8ae-44ae-a400-bc9128404b0d%26pd_rd_w%3D0xCwz%26pd_rd_wg%3DJ5ErZ%26pf_rd_p%3De1478d11-2c2b-4095-864d-3835610c4789%26pf_rd_r%3D7KFTJS94KY2TE5D8BP5A%26qid%3D1770097855%26sbo%3DRZvfv%252F%252FHxDF%252BO5021pAnSA%253D%253D%26sr%3D1-4-2c727eeb-987f-452f-86bd-c2978cc9d8b9-spons%26aref%3DtJ7BMLCHpq%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9zZWFyY2hfdGhlbWF0aWM%26psc%3D1&aref=tJ7BMLCHpq
+                  - listitem "5 of 5" [ref=e609]:
+                    - generic [ref=e615]:
+                      - link [ref=e618] [cursor=pointer]:
+                        - /url: /sspa/click?ie=UTF8&spc=MTozMjk5MTEzNTc2NTIwMDAyOjE3NzAwOTc4NTU6c3Bfc2VhcmNoX3RoZW1hdGljOjMwMTA1MDgwNzk1MzIwMjo6NDo6&url=%2FBlackview-Unlocked-Android-Display-Fingerprint%2Fdp%2FB0F9SJFF72%2Fref%3Dsxin_17_pa_sp_search_thematic_sspa%3Fcontent-id%3Damzn1.sym.e1478d11-2c2b-4095-864d-3835610c4789%253Aamzn1.sym.e1478d11-2c2b-4095-864d-3835610c4789%26cv_ct_cx%3Dmobile%2Bsmartphones%2Bunder%2B30000%26keywords%3Dmobile%2Bsmartphones%2Bunder%2B30000%26pd_rd_i%3DB0F9SJFF72%26pd_rd_r%3Dcfb4f9e9-d8ae-44ae-a400-bc9128404b0d%26pd_rd_w%3D0xCwz%26pd_rd_wg%3DJ5ErZ%26pf_rd_p%3De1478d11-2c2b-4095-864d-3835610c4789%26pf_rd_r%3D7KFTJS94KY2TE5D8BP5A%26qid%3D1770097855%26sbo%3DRZvfv%252F%252FHxDF%252BO5021pAnSA%253D%253D%26sr%3D1-5-2c727eeb-987f-452f-86bd-c2978cc9d8b9-spons%26aref%3D5QgZWw4VsH%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9zZWFyY2hfdGhlbWF0aWM%26psc%3D1&aref=5QgZWw4VsH
+                        - img [ref=e620]
+                      - generic [ref=e621]:
+                        - group "colors available" [ref=e623]:
+                          - list
+                          - link "+1 other color/pattern" [ref=e625] [cursor=pointer]:
+                            - /url: /sspa/click?ie=UTF8&spc=MTozMjk5MTEzNTc2NTIwMDAyOjE3NzAwOTc4NTU6c3Bfc2VhcmNoX3RoZW1hdGljOjMwMTA1MDgwNzk1MzIwMjo6NDo6&url=%2FBlackview-Unlocked-Android-Display-Fingerprint%2Fdp%2FB0F9SJFF72%2Fref%3Dsxin_17_pa_sp_search_thematic_sspa%3Fcontent-id%3Damzn1.sym.e1478d11-2c2b-4095-864d-3835610c4789%253Aamzn1.sym.e1478d11-2c2b-4095-864d-3835610c4789%26cv_ct_cx%3Dmobile%2Bsmartphones%2Bunder%2B30000%26keywords%3Dmobile%2Bsmartphones%2Bunder%2B30000%26pd_rd_i%3DB0F9SJFF72%26pd_rd_r%3Dcfb4f9e9-d8ae-44ae-a400-bc9128404b0d%26pd_rd_w%3D0xCwz%26pd_rd_wg%3DJ5ErZ%26pf_rd_p%3De1478d11-2c2b-4095-864d-3835610c4789%26pf_rd_r%3D7KFTJS94KY2TE5D8BP5A%26qid%3D1770097855%26sbo%3DRZvfv%252F%252FHxDF%252BO5021pAnSA%253D%253D%26sr%3D1-5-2c727eeb-987f-452f-86bd-c2978cc9d8b9-spons%26aref%3D5QgZWw4VsH%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9zZWFyY2hfdGhlbWF0aWM%26psc%3D1&aref=5QgZWw4VsH
+                        - link "Sponsored Ad - Blackview Shark 6 Unlocked Android Phones 5G (2025), Android 15 Cell Phone Unlocked, 6.88\" 120Hz Display, 12GB+128GB/2TB, 16MP+8MP AI Camera, 5000mAh/18W,Fingerprint/Face ID,Dual SIM/GPS/OTG/NFC,Black" [ref=e627] [cursor=pointer]:
+                          - /url: /sspa/click?ie=UTF8&spc=MTozMjk5MTEzNTc2NTIwMDAyOjE3NzAwOTc4NTU6c3Bfc2VhcmNoX3RoZW1hdGljOjMwMTA1MDgwNzk1MzIwMjo6NDo6&url=%2FBlackview-Unlocked-Android-Display-Fingerprint%2Fdp%2FB0F9SJFF72%2Fref%3Dsxin_17_pa_sp_search_thematic_sspa%3Fcontent-id%3Damzn1.sym.e1478d11-2c2b-4095-864d-3835610c4789%253Aamzn1.sym.e1478d11-2c2b-4095-864d-3835610c4789%26cv_ct_cx%3Dmobile%2Bsmartphones%2Bunder%2B30000%26keywords%3Dmobile%2Bsmartphones%2Bunder%2B30000%26pd_rd_i%3DB0F9SJFF72%26pd_rd_r%3Dcfb4f9e9-d8ae-44ae-a400-bc9128404b0d%26pd_rd_w%3D0xCwz%26pd_rd_wg%3DJ5ErZ%26pf_rd_p%3De1478d11-2c2b-4095-864d-3835610c4789%26pf_rd_r%3D7KFTJS94KY2TE5D8BP5A%26qid%3D1770097855%26sbo%3DRZvfv%252F%252FHxDF%252BO5021pAnSA%253D%253D%26sr%3D1-5-2c727eeb-987f-452f-86bd-c2978cc9d8b9-spons%26aref%3D5QgZWw4VsH%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9zZWFyY2hfdGhlbWF0aWM%26psc%3D1&aref=5QgZWw4VsH
+                          - heading "Sponsored Ad - Blackview Shark 6 Unlocked Android Phones 5G (2025), Android 15 Cell Phone Unlocked, 6.88\" 120Hz Display, 12GB+128GB/2TB, 16MP+8MP AI Camera, 5000mAh/18W,Fingerprint/Face ID,Dual SIM/GPS/OTG/NFC,Black" [level=2] [ref=e628]: Blackview Shark 6 Unlocked Android Phones 5G (2025), Android 15 Cell Phone Unlocked, 6.88" 120Hz Display, 12GB+128GB/2TB, 16MP+8MP AI Camera, 5000mAh/18W,Fingerprint/Face ID,Dual SIM/GPS/OTG/NFC,Black
+                        - generic [ref=e629]:
+                          - generic [ref=e630]:
+                            - text: "4.3"
+                            - button "4.3 out of 5 stars, rating details" [ref=e632] [cursor=pointer]:
+                              - generic [ref=e634]: 4.3 out of 5 stars
+                            - link "434 ratings" [ref=e638] [cursor=pointer]:
+                              - /url: /sspa/click?ie=UTF8&spc=MTozMjk5MTEzNTc2NTIwMDAyOjE3NzAwOTc4NTU6c3Bfc2VhcmNoX3RoZW1hdGljOjMwMTA1MDgwNzk1MzIwMjo6NDo6&url=%2FBlackview-Unlocked-Android-Display-Fingerprint%2Fdp%2FB0F9SJFF72%2Fref%3Dsxin_17_pa_sp_search_thematic_sspa%3Fcontent-id%3Damzn1.sym.e1478d11-2c2b-4095-864d-3835610c4789%253Aamzn1.sym.e1478d11-2c2b-4095-864d-3835610c4789%26cv_ct_cx%3Dmobile%2Bsmartphones%2Bunder%2B30000%26keywords%3Dmobile%2Bsmartphones%2Bunder%2B30000%26pd_rd_i%3DB0F9SJFF72%26pd_rd_r%3Dcfb4f9e9-d8ae-44ae-a400-bc9128404b0d%26pd_rd_w%3D0xCwz%26pd_rd_wg%3DJ5ErZ%26pf_rd_p%3De1478d11-2c2b-4095-864d-3835610c4789%26pf_rd_r%3D7KFTJS94KY2TE5D8BP5A%26qid%3D1770097855%26sbo%3DRZvfv%252F%252FHxDF%252BO5021pAnSA%253D%253D%26sr%3D1-5-2c727eeb-987f-452f-86bd-c2978cc9d8b9-spons%26aref%3D5QgZWw4VsH%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9zZWFyY2hfdGhlbWF0aWM%26psc%3D1&aref=5QgZWw4VsH#customerReviews
+                              - text: (434)
+                          - generic [ref=e639]: 100+ bought in past month
+                        - button "Carbon impact" [ref=e646] [cursor=pointer]:
+                          - generic [ref=e647]: Carbon impact
+                        - link "See options" [ref=e655] [cursor=pointer]:
+                          - /url: /sspa/click?ie=UTF8&spc=MTozMjk5MTEzNTc2NTIwMDAyOjE3NzAwOTc4NTU6c3Bfc2VhcmNoX3RoZW1hdGljOjMwMTA1MDgwNzk1MzIwMjo6NDo6&url=%2FBlackview-Unlocked-Android-Display-Fingerprint%2Fdp%2FB0F9SJFF72%2Fref%3Dsxin_17_pa_sp_search_thematic_so_CELLULAR_PHONE%3Fcontent-id%3Damzn1.sym.e1478d11-2c2b-4095-864d-3835610c4789%253Aamzn1.sym.e1478d11-2c2b-4095-864d-3835610c4789%26cv_ct_cx%3Dmobile%2Bsmartphones%2Bunder%2B30000%26keywords%3Dmobile%2Bsmartphones%2Bunder%2B30000%26pd_rd_i%3DB0F9SJFF72%26pd_rd_r%3Dcfb4f9e9-d8ae-44ae-a400-bc9128404b0d%26pd_rd_w%3D0xCwz%26pd_rd_wg%3DJ5ErZ%26pf_rd_p%3De1478d11-2c2b-4095-864d-3835610c4789%26pf_rd_r%3D7KFTJS94KY2TE5D8BP5A%26qid%3D1770097855%26sbo%3DRZvfv%252F%252FHxDF%252BO5021pAnSA%253D%253D%26sr%3D1-5-2c727eeb-987f-452f-86bd-c2978cc9d8b9-spons%26aref%3D5QgZWw4VsH%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9zZWFyY2hfdGhlbWF0aWM%26psc%3D1&aref=5QgZWw4VsH
+          - generic [ref=e657]:
+            - heading "More results" [level=2] [ref=e661]
+            - generic:
+              - list
+          - listitem [ref=e662]:
+            - generic [ref=e668]:
+              - link [ref=e674] [cursor=pointer]:
+                - /url: /BLU-All-Day-Battery-Unlocked-Warranty/dp/B0CP4FMLBT/ref=sr_1_5?dib=eyJ2IjoiMSJ9.gL0LtCacLp3csW9qyDhj01-pekOMrL-SHzoBi-5ZUkFWGGjLe5IeuKL7HuXEenFdaqkXs5hbEH4GyLm8WZeDxsvj_h1bmmUOQAsYFbL3LPpma76E7mvSXYo6kH3RZr_xWhlQbjbdPBONdQEuAD-YrIxGISWGJS34KniYReMFVUG6sAIUq7-elNIGmyIgjB4KQFuAgnqQo1iD4nLYAnG-VfxEvQWrsnJLzWxABXNPgWc.XNxD-kFwO9FekVoLfs7gqnVtscbtGayZEaSss4hPqNY&dib_tag=se&keywords=mobile+smartphones+under+30000&qid=1770097855&sr=8-5
+              - generic [ref=e678]:
+                - link "BLU C5L MAX | 2024 | All-Day Battery | GSM Unlocked | 5.7” Display | 16/2GB |US Version | US Warranty | Black" [ref=e680] [cursor=pointer]:
+                  - /url: /BLU-All-Day-Battery-Unlocked-Warranty/dp/B0CP4FMLBT/ref=sr_1_5?dib=eyJ2IjoiMSJ9.gL0LtCacLp3csW9qyDhj01-pekOMrL-SHzoBi-5ZUkFWGGjLe5IeuKL7HuXEenFdaqkXs5hbEH4GyLm8WZeDxsvj_h1bmmUOQAsYFbL3LPpma76E7mvSXYo6kH3RZr_xWhlQbjbdPBONdQEuAD-YrIxGISWGJS34KniYReMFVUG6sAIUq7-elNIGmyIgjB4KQFuAgnqQo1iD4nLYAnG-VfxEvQWrsnJLzWxABXNPgWc.XNxD-kFwO9FekVoLfs7gqnVtscbtGayZEaSss4hPqNY&dib_tag=se&keywords=mobile+smartphones+under+30000&qid=1770097855&sr=8-5
+                  - heading "BLU C5L MAX | 2024 | All-Day Battery | GSM Unlocked | 5.7” Display | 16/2GB |US Version | US Warranty | Black" [level=2] [ref=e681]
+                - generic [ref=e684]:
+                  - generic [ref=e685]: "Options:"
+                  - 'link "Options: 2 sizes" [ref=e686] [cursor=pointer]':
+                    - /url: /BLU-All-Day-Battery-Unlocked-Warranty/dp/B0CP4FMLBT/ref=vo_sr_l_dp?dib=eyJ2IjoiMSJ9.gL0LtCacLp3csW9qyDhj01-pekOMrL-SHzoBi-5ZUkFWGGjLe5IeuKL7HuXEenFdaqkXs5hbEH4GyLm8WZeDxsvj_h1bmmUOQAsYFbL3LPpma76E7mvSXYo6kH3RZr_xWhlQbjbdPBONdQEuAD-YrIxGISWGJS34KniYReMFVUG6sAIUq7-elNIGmyIgjB4KQFuAgnqQo1iD4nLYAnG-VfxEvQWrsnJLzWxABXNPgWc.XNxD-kFwO9FekVoLfs7gqnVtscbtGayZEaSss4hPqNY&dib_tag=se&keywords=mobile+smartphones+under+30000&qid=1770097855&sr=8-5
+                    - generic [ref=e688]: 2 sizes
+                - generic [ref=e689]:
+                  - generic [ref=e690]:
+                    - text: "3.7"
+                    - button "3.7 out of 5 stars, rating details" [ref=e692] [cursor=pointer]:
+                      - generic [ref=e694]: 3.7 out of 5 stars
+                    - link "708 ratings" [ref=e698] [cursor=pointer]:
+                      - /url: /BLU-All-Day-Battery-Unlocked-Warranty/dp/B0CP4FMLBT/ref=sr_1_5?dib=eyJ2IjoiMSJ9.gL0LtCacLp3csW9qyDhj01-pekOMrL-SHzoBi-5ZUkFWGGjLe5IeuKL7HuXEenFdaqkXs5hbEH4GyLm8WZeDxsvj_h1bmmUOQAsYFbL3LPpma76E7mvSXYo6kH3RZr_xWhlQbjbdPBONdQEuAD-YrIxGISWGJS34KniYReMFVUG6sAIUq7-elNIGmyIgjB4KQFuAgnqQo1iD4nLYAnG-VfxEvQWrsnJLzWxABXNPgWc.XNxD-kFwO9FekVoLfs7gqnVtscbtGayZEaSss4hPqNY&dib_tag=se&keywords=mobile+smartphones+under+30000&qid=1770097855&sr=8-5#customerReviews
+                      - text: (708)
+                  - generic [ref=e699]: 500+ bought in past month
+                - generic [ref=e702]:
+                  - link "See options" [ref=e710] [cursor=pointer]:
+                    - /url: /BLU-All-Day-Battery-Unlocked-Warranty/dp/B0CP4FMLBT/ref=sr_1_5_so_CELLULAR_PHONE?dib=eyJ2IjoiMSJ9.gL0LtCacLp3csW9qyDhj01-pekOMrL-SHzoBi-5ZUkFWGGjLe5IeuKL7HuXEenFdaqkXs5hbEH4GyLm8WZeDxsvj_h1bmmUOQAsYFbL3LPpma76E7mvSXYo6kH3RZr_xWhlQbjbdPBONdQEuAD-YrIxGISWGJS34KniYReMFVUG6sAIUq7-elNIGmyIgjB4KQFuAgnqQo1iD4nLYAnG-VfxEvQWrsnJLzWxABXNPgWc.XNxD-kFwO9FekVoLfs7gqnVtscbtGayZEaSss4hPqNY&dib_tag=se&keywords=mobile+smartphones+under+30000&qid=1770097855&sr=8-5
+                  - generic [ref=e712]:
+                    - text: No featured offers available
+                    - text: INR 4,531.28
+                    - link "(3 used & new offers)" [ref=e714] [cursor=pointer]:
+                      - /url: /gp/offer-listing/B0CP4FMLBT/ref=sr_1_5_olp?keywords=mobile+smartphones+under+30000&dib_tag=se&dib=eyJ2IjoiMSJ9.gL0LtCacLp3csW9qyDhj01-pekOMrL-SHzoBi-5ZUkFWGGjLe5IeuKL7HuXEenFdaqkXs5hbEH4GyLm8WZeDxsvj_h1bmmUOQAsYFbL3LPpma76E7mvSXYo6kH3RZr_xWhlQbjbdPBONdQEuAD-YrIxGISWGJS34KniYReMFVUG6sAIUq7-elNIGmyIgjB4KQFuAgnqQo1iD4nLYAnG-VfxEvQWrsnJLzWxABXNPgWc.XNxD-kFwO9FekVoLfs7gqnVtscbtGayZEaSss4hPqNY&qid=1770097855&sr=8-5
+                  - group "colors available" [ref=e716]:
+                    - list [ref=e717]:
+                      - generic [ref=e718]:
+                        - listitem:
+                          - link "BLACK":
+                            - /url: /BLU-All-Day-Battery-Unlocked-Warranty/dp/B0CP4FMLBT/ref=cs_sr_dp_loc_1?dib=eyJ2IjoiMSJ9.gL0LtCacLp3csW9qyDhj01-pekOMrL-SHzoBi-5ZUkFWGGjLe5IeuKL7HuXEenFdaqkXs5hbEH4GyLm8WZeDxsvj_h1bmmUOQAsYFbL3LPpma76E7mvSXYo6kH3RZr_xWhlQbjbdPBONdQEuAD-YrIxGISWGJS34KniYReMFVUG6sAIUq7-elNIGmyIgjB4KQFuAgnqQo1iD4nLYAnG-VfxEvQWrsnJLzWxABXNPgWc.XNxD-kFwO9FekVoLfs7gqnVtscbtGayZEaSss4hPqNY&dib_tag=se&keywords=mobile+smartphones+under+30000&qid=1770097855&sr=8-5
+                      - generic [ref=e721]:
+                        - listitem:
+                          - link "Black":
+                            - /url: /BLU-All-Day-Battery-Unlocked-Warranty/dp/B0DDRNVN62/ref=cs_sr_dp_loc_2?dib=eyJ2IjoiMSJ9.gL0LtCacLp3csW9qyDhj01-pekOMrL-SHzoBi-5ZUkFWGGjLe5IeuKL7HuXEenFdaqkXs5hbEH4GyLm8WZeDxsvj_h1bmmUOQAsYFbL3LPpma76E7mvSXYo6kH3RZr_xWhlQbjbdPBONdQEuAD-YrIxGISWGJS34KniYReMFVUG6sAIUq7-elNIGmyIgjB4KQFuAgnqQo1iD4nLYAnG-VfxEvQWrsnJLzWxABXNPgWc.XNxD-kFwO9FekVoLfs7gqnVtscbtGayZEaSss4hPqNY&dib_tag=se&keywords=mobile+smartphones+under+30000&qid=1770097855&sr=8-5
+                      - generic [ref=e724]:
+                        - listitem:
+                          - link "Blue":
+                            - /url: /BLU-All-Day-Battery-Unlocked-Warranty/dp/B0DDR8WFZW/ref=cs_sr_dp_loc_3?dib=eyJ2IjoiMSJ9.gL0LtCacLp3csW9qyDhj01-pekOMrL-SHzoBi-5ZUkFWGGjLe5IeuKL7HuXEenFdaqkXs5hbEH4GyLm8WZeDxsvj_h1bmmUOQAsYFbL3LPpma76E7mvSXYo6kH3RZr_xWhlQbjbdPBONdQEuAD-YrIxGISWGJS34KniYReMFVUG6sAIUq7-elNIGmyIgjB4KQFuAgnqQo1iD4nLYAnG-VfxEvQWrsnJLzWxABXNPgWc.XNxD-kFwO9FekVoLfs7gqnVtscbtGayZEaSss4hPqNY&dib_tag=se&keywords=mobile+smartphones+under+30000&qid=1770097855&sr=8-5
+          - listitem [ref=e729]:
+            - generic [ref=e735]:
+              - link [ref=e741] [cursor=pointer]:
+                - /url: /CostMvp-S25Ultra-Unlocked-Smartphone-Android/dp/B0FMY4MRJQ/ref=sr_1_6?dib=eyJ2IjoiMSJ9.gL0LtCacLp3csW9qyDhj01-pekOMrL-SHzoBi-5ZUkFWGGjLe5IeuKL7HuXEenFdaqkXs5hbEH4GyLm8WZeDxsvj_h1bmmUOQAsYFbL3LPpma76E7mvSXYo6kH3RZr_xWhlQbjbdPBONdQEuAD-YrIxGISWGJS34KniYReMFVUG6sAIUq7-elNIGmyIgjB4KQFuAgnqQo1iD4nLYAnG-VfxEvQWrsnJLzWxABXNPgWc.XNxD-kFwO9FekVoLfs7gqnVtscbtGayZEaSss4hPqNY&dib_tag=se&keywords=mobile+smartphones+under+30000&qid=1770097855&sr=8-6
+              - generic [ref=e745]:
+                - link "S25Ultra Unlocked Smartphone, Android 12.0 Mobile Phones 6.6'' HD+ Screen, 4GB RAM 32GB ROM/256GB SD, 4G Dual SIM Dual Camera, Face ID+WiFi+BT+FM+GPS+OTG (Black)" [ref=e747] [cursor=pointer]:
+                  - /url: /CostMvp-S25Ultra-Unlocked-Smartphone-Android/dp/B0FMY4MRJQ/ref=sr_1_6?dib=eyJ2IjoiMSJ9.gL0LtCacLp3csW9qyDhj01-pekOMrL-SHzoBi-5ZUkFWGGjLe5IeuKL7HuXEenFdaqkXs5hbEH4GyLm8WZeDxsvj_h1bmmUOQAsYFbL3LPpma76E7mvSXYo6kH3RZr_xWhlQbjbdPBONdQEuAD-YrIxGISWGJS34KniYReMFVUG6sAIUq7-elNIGmyIgjB4KQFuAgnqQo1iD4nLYAnG-VfxEvQWrsnJLzWxABXNPgWc.XNxD-kFwO9FekVoLfs7gqnVtscbtGayZEaSss4hPqNY&dib_tag=se&keywords=mobile+smartphones+under+30000&qid=1770097855&sr=8-6
+                  - heading "S25Ultra Unlocked Smartphone, Android 12.0 Mobile Phones 6.6'' HD+ Screen, 4GB RAM 32GB ROM/256GB SD, 4G Dual SIM Dual Camera, Face ID+WiFi+BT+FM+GPS+OTG (Black)" [level=2] [ref=e748]
+                - generic [ref=e750]:
+                  - text: "3.6"
+                  - button "3.6 out of 5 stars, rating details" [ref=e752] [cursor=pointer]:
+                    - generic [ref=e754]: 3.6 out of 5 stars
+                  - link "10 ratings" [ref=e758] [cursor=pointer]:
+                    - /url: /CostMvp-S25Ultra-Unlocked-Smartphone-Android/dp/B0FMY4MRJQ/ref=sr_1_6?dib=eyJ2IjoiMSJ9.gL0LtCacLp3csW9qyDhj01-pekOMrL-SHzoBi-5ZUkFWGGjLe5IeuKL7HuXEenFdaqkXs5hbEH4GyLm8WZeDxsvj_h1bmmUOQAsYFbL3LPpma76E7mvSXYo6kH3RZr_xWhlQbjbdPBONdQEuAD-YrIxGISWGJS34KniYReMFVUG6sAIUq7-elNIGmyIgjB4KQFuAgnqQo1iD4nLYAnG-VfxEvQWrsnJLzWxABXNPgWc.XNxD-kFwO9FekVoLfs7gqnVtscbtGayZEaSss4hPqNY&dib_tag=se&keywords=mobile+smartphones+under+30000&qid=1770097855&sr=8-6#customerReviews
+                    - text: (10)
+                - generic [ref=e761]:
+                  - link "See options" [ref=e769] [cursor=pointer]:
+                    - /url: /CostMvp-S25Ultra-Unlocked-Smartphone-Android/dp/B0FMY4MRJQ/ref=sr_1_6_so_CELLULAR_PHONE?dib=eyJ2IjoiMSJ9.gL0LtCacLp3csW9qyDhj01-pekOMrL-SHzoBi-5ZUkFWGGjLe5IeuKL7HuXEenFdaqkXs5hbEH4GyLm8WZeDxsvj_h1bmmUOQAsYFbL3LPpma76E7mvSXYo6kH3RZr_xWhlQbjbdPBONdQEuAD-YrIxGISWGJS34KniYReMFVUG6sAIUq7-elNIGmyIgjB4KQFuAgnqQo1iD4nLYAnG-VfxEvQWrsnJLzWxABXNPgWc.XNxD-kFwO9FekVoLfs7gqnVtscbtGayZEaSss4hPqNY&dib_tag=se&keywords=mobile+smartphones+under+30000&qid=1770097855&sr=8-6
+                  - generic [ref=e771]:
+                    - text: No featured offers available
+                    - text: INR 6,406.95
+                    - link "(1 new offer)" [ref=e773] [cursor=pointer]:
+                      - /url: /gp/offer-listing/B0FMY4MRJQ/ref=sr_1_6_olp?keywords=mobile+smartphones+under+30000&dib_tag=se&dib=eyJ2IjoiMSJ9.gL0LtCacLp3csW9qyDhj01-pekOMrL-SHzoBi-5ZUkFWGGjLe5IeuKL7HuXEenFdaqkXs5hbEH4GyLm8WZeDxsvj_h1bmmUOQAsYFbL3LPpma76E7mvSXYo6kH3RZr_xWhlQbjbdPBONdQEuAD-YrIxGISWGJS34KniYReMFVUG6sAIUq7-elNIGmyIgjB4KQFuAgnqQo1iD4nLYAnG-VfxEvQWrsnJLzWxABXNPgWc.XNxD-kFwO9FekVoLfs7gqnVtscbtGayZEaSss4hPqNY&qid=1770097855&sr=8-6
+                  - group "colors available" [ref=e775]:
+                    - list [ref=e776]:
+                      - generic [ref=e777]:
+                        - listitem:
+                          - link "Black":
+                            - /url: /CostMvp-S25Ultra-Unlocked-Smartphone-Android/dp/B0FMY4MRJQ/ref=cs_sr_dp_loc_1?dib=eyJ2IjoiMSJ9.gL0LtCacLp3csW9qyDhj01-pekOMrL-SHzoBi-5ZUkFWGGjLe5IeuKL7HuXEenFdaqkXs5hbEH4GyLm8WZeDxsvj_h1bmmUOQAsYFbL3LPpma76E7mvSXYo6kH3RZr_xWhlQbjbdPBONdQEuAD-YrIxGISWGJS34KniYReMFVUG6sAIUq7-elNIGmyIgjB4KQFuAgnqQo1iD4nLYAnG-VfxEvQWrsnJLzWxABXNPgWc.XNxD-kFwO9FekVoLfs7gqnVtscbtGayZEaSss4hPqNY&dib_tag=se&keywords=mobile+smartphones+under+30000&qid=1770097855&sr=8-6
+                      - generic [ref=e780]:
+                        - listitem:
+                          - link "Blue":
+                            - /url: /CostMvp-S25Ultra-Unlocked-Smartphone-Android/dp/B0FMY6Y5YH/ref=cs_sr_dp_loc_2?dib=eyJ2IjoiMSJ9.gL0LtCacLp3csW9qyDhj01-pekOMrL-SHzoBi-5ZUkFWGGjLe5IeuKL7HuXEenFdaqkXs5hbEH4GyLm8WZeDxsvj_h1bmmUOQAsYFbL3LPpma76E7mvSXYo6kH3RZr_xWhlQbjbdPBONdQEuAD-YrIxGISWGJS34KniYReMFVUG6sAIUq7-elNIGmyIgjB4KQFuAgnqQo1iD4nLYAnG-VfxEvQWrsnJLzWxABXNPgWc.XNxD-kFwO9FekVoLfs7gqnVtscbtGayZEaSss4hPqNY&dib_tag=se&keywords=mobile+smartphones+under+30000&qid=1770097855&sr=8-6
+                      - generic [ref=e783]:
+                        - listitem:
+                          - link "Dark Purple":
+                            - /url: /CostMvp-S25Ultra-Unlocked-Smartphone-Android/dp/B0FMY4J12T/ref=cs_sr_dp_loc_3?dib=eyJ2IjoiMSJ9.gL0LtCacLp3csW9qyDhj01-pekOMrL-SHzoBi-5ZUkFWGGjLe5IeuKL7HuXEenFdaqkXs5hbEH4GyLm8WZeDxsvj_h1bmmUOQAsYFbL3LPpma76E7mvSXYo6kH3RZr_xWhlQbjbdPBONdQEuAD-YrIxGISWGJS34KniYReMFVUG6sAIUq7-elNIGmyIgjB4KQFuAgnqQo1iD4nLYAnG-VfxEvQWrsnJLzWxABXNPgWc.XNxD-kFwO9FekVoLfs7gqnVtscbtGayZEaSss4hPqNY&dib_tag=se&keywords=mobile+smartphones+under+30000&qid=1770097855&sr=8-6
+                      - generic [ref=e786]:
+                        - listitem:
+                          - link "Gold":
+                            - /url: /CostMvp-S25Ultra-Unlocked-Smartphone-Android/dp/B0FMY76KJP/ref=cs_sr_dp_loc_4?dib=eyJ2IjoiMSJ9.gL0LtCacLp3csW9qyDhj01-pekOMrL-SHzoBi-5ZUkFWGGjLe5IeuKL7HuXEenFdaqkXs5hbEH4GyLm8WZeDxsvj_h1bmmUOQAsYFbL3LPpma76E7mvSXYo6kH3RZr_xWhlQbjbdPBONdQEuAD-YrIxGISWGJS34KniYReMFVUG6sAIUq7-elNIGmyIgjB4KQFuAgnqQo1iD4nLYAnG-VfxEvQWrsnJLzWxABXNPgWc.XNxD-kFwO9FekVoLfs7gqnVtscbtGayZEaSss4hPqNY&dib_tag=se&keywords=mobile+smartphones+under+30000&qid=1770097855&sr=8-6
+                      - generic [ref=e789]:
+                        - listitem:
+                          - link "Green":
+                            - /url: /CostMvp-S25Ultra-Unlocked-Smartphone-Android/dp/B0FMY4JQFC/ref=cs_sr_dp_loc_5?dib=eyJ2IjoiMSJ9.gL0LtCacLp3csW9qyDhj01-pekOMrL-SHzoBi-5ZUkFWGGjLe5IeuKL7HuXEenFdaqkXs5hbEH4GyLm8WZeDxsvj_h1bmmUOQAsYFbL3LPpma76E7mvSXYo6kH3RZr_xWhlQbjbdPBONdQEuAD-YrIxGISWGJS34KniYReMFVUG6sAIUq7-elNIGmyIgjB4KQFuAgnqQo1iD4nLYAnG-VfxEvQWrsnJLzWxABXNPgWc.XNxD-kFwO9FekVoLfs7gqnVtscbtGayZEaSss4hPqNY&dib_tag=se&keywords=mobile+smartphones+under+30000&qid=1770097855&sr=8-6
+                      - generic [ref=e792]:
+                        - listitem:
+                          - link "Grey":
+                            - /url: /CostMvp-S25Ultra-Unlocked-Smartphone-Android/dp/B0FMY86GM6/ref=cs_sr_dp_loc_6?dib=eyJ2IjoiMSJ9.gL0LtCacLp3csW9qyDhj01-pekOMrL-SHzoBi-5ZUkFWGGjLe5IeuKL7HuXEenFdaqkXs5hbEH4GyLm8WZeDxsvj_h1bmmUOQAsYFbL3LPpma76E7mvSXYo6kH3RZr_xWhlQbjbdPBONdQEuAD-YrIxGISWGJS34KniYReMFVUG6sAIUq7-elNIGmyIgjB4KQFuAgnqQo1iD4nLYAnG-VfxEvQWrsnJLzWxABXNPgWc.XNxD-kFwO9FekVoLfs7gqnVtscbtGayZEaSss4hPqNY&dib_tag=se&keywords=mobile+smartphones+under+30000&qid=1770097855&sr=8-6
+                    - link "+2 other colors/patterns" [ref=e796] [cursor=pointer]:
+                      - /url: /CostMvp-S25Ultra-Unlocked-Smartphone-Android/dp/B0FMY4MRJQ/ref=cs_sr_dp_loc_n?dib=eyJ2IjoiMSJ9.gL0LtCacLp3csW9qyDhj01-pekOMrL-SHzoBi-5ZUkFWGGjLe5IeuKL7HuXEenFdaqkXs5hbEH4GyLm8WZeDxsvj_h1bmmUOQAsYFbL3LPpma76E7mvSXYo6kH3RZr_xWhlQbjbdPBONdQEuAD-YrIxGISWGJS34KniYReMFVUG6sAIUq7-elNIGmyIgjB4KQFuAgnqQo1iD4nLYAnG-VfxEvQWrsnJLzWxABXNPgWc.XNxD-kFwO9FekVoLfs7gqnVtscbtGayZEaSss4hPqNY&dib_tag=se&keywords=mobile+smartphones+under+30000&qid=1770097855&sr=8-6
+                      - text: "+2"
+          - generic [ref=e799]:
+            - generic:
+              - generic:
+                - list
+          - listitem [ref=e800]:
+            - generic [ref=e808]:
+              - link [ref=e814] [cursor=pointer]:
+                - /url: /sspa/click?ie=UTF8&spc=MToyOTI4MTg1OTMxOTc3OTAxOjE3NzAwOTc4NTU6c3BfbXRmOjMwMDg0MDU5ODk2ODQwMjo6MDo6&url=%2FOEJBK-I25-Ultra-Built-All%2Fdp%2FB0FF56V1NJ%2Fref%3Dsr_1_7_sspa%3Fdib%3DeyJ2IjoiMSJ9.gL0LtCacLp3csW9qyDhj01-pekOMrL-SHzoBi-5ZUkFWGGjLe5IeuKL7HuXEenFdaqkXs5hbEH4GyLm8WZeDxsvj_h1bmmUOQAsYFbL3LPpma76E7mvSXYo6kH3RZr_xWhlQbjbdPBONdQEuAD-YrIxGISWGJS34KniYReMFVUG6sAIUq7-elNIGmyIgjB4KQFuAgnqQo1iD4nLYAnG-VfxEvQWrsnJLzWxABXNPgWc.XNxD-kFwO9FekVoLfs7gqnVtscbtGayZEaSss4hPqNY%26dib_tag%3Dse%26keywords%3Dmobile%2Bsmartphones%2Bunder%2B30000%26qid%3D1770097855%26sr%3D8-7-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9tdGY%26psc%3D1
+              - generic [ref=e818]:
+                - generic [ref=e819]:
+                  - button "View Sponsored information or leave ad feedback" [ref=e822] [cursor=pointer]:
+                    - generic [ref=e823]: Sponsored
+                  - 'link "Sponsored Ad - I25 Ultra: Powerhouse 16GB/512GB, 2-Day 7000mAh Battery, Huge 6.99\" Android 14 Phone w/Built-in Stylus - Your All-in-One Device The Superior Choice (Pink)" [ref=e825] [cursor=pointer]':
+                    - /url: /sspa/click?ie=UTF8&spc=MToyOTI4MTg1OTMxOTc3OTAxOjE3NzAwOTc4NTU6c3BfbXRmOjMwMDg0MDU5ODk2ODQwMjo6MDo6&url=%2FOEJBK-I25-Ultra-Built-All%2Fdp%2FB0FF56V1NJ%2Fref%3Dsr_1_7_sspa%3Fdib%3DeyJ2IjoiMSJ9.gL0LtCacLp3csW9qyDhj01-pekOMrL-SHzoBi-5ZUkFWGGjLe5IeuKL7HuXEenFdaqkXs5hbEH4GyLm8WZeDxsvj_h1bmmUOQAsYFbL3LPpma76E7mvSXYo6kH3RZr_xWhlQbjbdPBONdQEuAD-YrIxGISWGJS34KniYReMFVUG6sAIUq7-elNIGmyIgjB4KQFuAgnqQo1iD4nLYAnG-VfxEvQWrsnJLzWxABXNPgWc.XNxD-kFwO9FekVoLfs7gqnVtscbtGayZEaSss4hPqNY%26dib_tag%3Dse%26keywords%3Dmobile%2Bsmartphones%2Bunder%2B30000%26qid%3D1770097855%26sr%3D8-7-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9tdGY%26psc%3D1
+                    - 'heading "Sponsored Ad - I25 Ultra: Powerhouse 16GB/512GB, 2-Day 7000mAh Battery, Huge 6.99\" Android 14 Phone w/Built-in Stylus - Your All-in-One Device The Superior Choice (Pink)" [level=2] [ref=e826]': "I25 Ultra: Powerhouse 16GB/512GB, 2-Day 7000mAh Battery, Huge 6.99\" Android 14 Phone w/Built-in Stylus - Your All-in-One Device The Superior Choice (Pink)"
+                - generic [ref=e828]:
+                  - text: "4.6"
+                  - button "4.6 out of 5 stars, rating details" [ref=e830] [cursor=pointer]:
+                    - generic [ref=e832]: 4.6 out of 5 stars
+                  - link "9 ratings" [ref=e836] [cursor=pointer]:
+                    - /url: /sspa/click?ie=UTF8&spc=MToyOTI4MTg1OTMxOTc3OTAxOjE3NzAwOTc4NTU6c3BfbXRmOjMwMDg0MDU5ODk2ODQwMjo6MDo6&url=%2FOEJBK-I25-Ultra-Built-All%2Fdp%2FB0FF56V1NJ%2Fref%3Dsr_1_7_sspa%3Fdib%3DeyJ2IjoiMSJ9.gL0LtCacLp3csW9qyDhj01-pekOMrL-SHzoBi-5ZUkFWGGjLe5IeuKL7HuXEenFdaqkXs5hbEH4GyLm8WZeDxsvj_h1bmmUOQAsYFbL3LPpma76E7mvSXYo6kH3RZr_xWhlQbjbdPBONdQEuAD-YrIxGISWGJS34KniYReMFVUG6sAIUq7-elNIGmyIgjB4KQFuAgnqQo1iD4nLYAnG-VfxEvQWrsnJLzWxABXNPgWc.XNxD-kFwO9FekVoLfs7gqnVtscbtGayZEaSss4hPqNY%26dib_tag%3Dse%26keywords%3Dmobile%2Bsmartphones%2Bunder%2B30000%26qid%3D1770097855%26sr%3D8-7-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9tdGY%26psc%3D1#customerReviews
+                    - text: (9)
+                - generic [ref=e839]:
+                  - link "See options" [ref=e847] [cursor=pointer]:
+                    - /url: /sspa/click?ie=UTF8&spc=MToyOTI4MTg1OTMxOTc3OTAxOjE3NzAwOTc4NTU6c3BfbXRmOjMwMDg0MDU5ODk2ODQwMjo6MDo6&url=%2FOEJBK-I25-Ultra-Built-All%2Fdp%2FB0FF56V1NJ%2Fref%3Dsr_1_7_so_CELLULAR_PHONE%3Fdib%3DeyJ2IjoiMSJ9.gL0LtCacLp3csW9qyDhj01-pekOMrL-SHzoBi-5ZUkFWGGjLe5IeuKL7HuXEenFdaqkXs5hbEH4GyLm8WZeDxsvj_h1bmmUOQAsYFbL3LPpma76E7mvSXYo6kH3RZr_xWhlQbjbdPBONdQEuAD-YrIxGISWGJS34KniYReMFVUG6sAIUq7-elNIGmyIgjB4KQFuAgnqQo1iD4nLYAnG-VfxEvQWrsnJLzWxABXNPgWc.XNxD-kFwO9FekVoLfs7gqnVtscbtGayZEaSss4hPqNY%26dib_tag%3Dse%26keywords%3Dmobile%2Bsmartphones%2Bunder%2B30000%26qid%3D1770097855%26sr%3D8-7-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9tdGY%26psc%3D1
+                  - group "colors available" [ref=e849]:
+                    - list
+                    - link "+11 other colors/patterns" [ref=e851] [cursor=pointer]:
+                      - /url: /sspa/click?ie=UTF8&spc=MToyOTI4MTg1OTMxOTc3OTAxOjE3NzAwOTc4NTU6c3BfbXRmOjMwMDg0MDU5ODk2ODQwMjo6MDo6&url=%2FOEJBK-I25-Ultra-Built-All%2Fdp%2FB0FF56V1NJ%2Fref%3Dsr_1_7_sspa%3Fdib%3DeyJ2IjoiMSJ9.gL0LtCacLp3csW9qyDhj01-pekOMrL-SHzoBi-5ZUkFWGGjLe5IeuKL7HuXEenFdaqkXs5hbEH4GyLm8WZeDxsvj_h1bmmUOQAsYFbL3LPpma76E7mvSXYo6kH3RZr_xWhlQbjbdPBONdQEuAD-YrIxGISWGJS34KniYReMFVUG6sAIUq7-elNIGmyIgjB4KQFuAgnqQo1iD4nLYAnG-VfxEvQWrsnJLzWxABXNPgWc.XNxD-kFwO9FekVoLfs7gqnVtscbtGayZEaSss4hPqNY%26dib_tag%3Dse%26keywords%3Dmobile%2Bsmartphones%2Bunder%2B30000%26qid%3D1770097855%26sr%3D8-7-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9tdGY%26psc%3D1
+          - generic [ref=e854]:
+            - generic:
+              - generic:
+                - list
+          - listitem [ref=e855]:
+            - generic [ref=e861]:
+              - link [ref=e867] [cursor=pointer]:
+                - /url: /Stylus-Unlocked-256GB-Camera-Caramel/dp/B0D1ZFS9GH/ref=sr_1_8?dib=eyJ2IjoiMSJ9.gL0LtCacLp3csW9qyDhj01-pekOMrL-SHzoBi-5ZUkFWGGjLe5IeuKL7HuXEenFdaqkXs5hbEH4GyLm8WZeDxsvj_h1bmmUOQAsYFbL3LPpma76E7mvSXYo6kH3RZr_xWhlQbjbdPBONdQEuAD-YrIxGISWGJS34KniYReMFVUG6sAIUq7-elNIGmyIgjB4KQFuAgnqQo1iD4nLYAnG-VfxEvQWrsnJLzWxABXNPgWc.XNxD-kFwO9FekVoLfs7gqnVtscbtGayZEaSss4hPqNY&dib_tag=se&keywords=mobile+smartphones+under+30000&qid=1770097855&sr=8-8
+              - generic [ref=e871]:
+                - link "Motorola Moto G Stylus 5G | 2024 | Unlocked | Made for US 8/256GB | 50MP Camera | Caramel Latte | 2024, Unlocked, Made for US, 50MP Camera" [ref=e873] [cursor=pointer]:
+                  - /url: /Stylus-Unlocked-256GB-Camera-Caramel/dp/B0D1ZFS9GH/ref=sr_1_8?dib=eyJ2IjoiMSJ9.gL0LtCacLp3csW9qyDhj01-pekOMrL-SHzoBi-5ZUkFWGGjLe5IeuKL7HuXEenFdaqkXs5hbEH4GyLm8WZeDxsvj_h1bmmUOQAsYFbL3LPpma76E7mvSXYo6kH3RZr_xWhlQbjbdPBONdQEuAD-YrIxGISWGJS34KniYReMFVUG6sAIUq7-elNIGmyIgjB4KQFuAgnqQo1iD4nLYAnG-VfxEvQWrsnJLzWxABXNPgWc.XNxD-kFwO9FekVoLfs7gqnVtscbtGayZEaSss4hPqNY&dib_tag=se&keywords=mobile+smartphones+under+30000&qid=1770097855&sr=8-8
+                  - heading "Motorola Moto G Stylus 5G | 2024 | Unlocked | Made for US 8/256GB | 50MP Camera | Caramel Latte | 2024, Unlocked, Made for US, 50MP Camera" [level=2] [ref=e874]
+                - generic [ref=e875]:
+                  - generic [ref=e878]: Top Reviewed for Functionality
+                  - generic [ref=e879]:
+                    - text: "4.5"
+                    - button "4.5 out of 5 stars, rating details" [ref=e881] [cursor=pointer]:
+                      - generic [ref=e883]: 4.5 out of 5 stars
+                    - link "2,516 ratings" [ref=e887] [cursor=pointer]:
+                      - /url: /Stylus-Unlocked-256GB-Camera-Caramel/dp/B0D1ZFS9GH/ref=sr_1_8?dib=eyJ2IjoiMSJ9.gL0LtCacLp3csW9qyDhj01-pekOMrL-SHzoBi-5ZUkFWGGjLe5IeuKL7HuXEenFdaqkXs5hbEH4GyLm8WZeDxsvj_h1bmmUOQAsYFbL3LPpma76E7mvSXYo6kH3RZr_xWhlQbjbdPBONdQEuAD-YrIxGISWGJS34KniYReMFVUG6sAIUq7-elNIGmyIgjB4KQFuAgnqQo1iD4nLYAnG-VfxEvQWrsnJLzWxABXNPgWc.XNxD-kFwO9FekVoLfs7gqnVtscbtGayZEaSss4hPqNY&dib_tag=se&keywords=mobile+smartphones+under+30000&qid=1770097855&sr=8-8#customerReviews
+                      - text: (2.5K)
+                  - generic [ref=e888]: 500+ bought in past month
+                - generic [ref=e891]:
+                  - generic [ref=e894]:
+                    - generic [ref=e895]: Price, product page
+                    - link "INR 20,138.10" [ref=e896] [cursor=pointer]:
+                      - /url: /Stylus-Unlocked-256GB-Camera-Caramel/dp/B0D1ZFS9GH/ref=sr_1_8?dib=eyJ2IjoiMSJ9.gL0LtCacLp3csW9qyDhj01-pekOMrL-SHzoBi-5ZUkFWGGjLe5IeuKL7HuXEenFdaqkXs5hbEH4GyLm8WZeDxsvj_h1bmmUOQAsYFbL3LPpma76E7mvSXYo6kH3RZr_xWhlQbjbdPBONdQEuAD-YrIxGISWGJS34KniYReMFVUG6sAIUq7-elNIGmyIgjB4KQFuAgnqQo1iD4nLYAnG-VfxEvQWrsnJLzWxABXNPgWc.XNxD-kFwO9FekVoLfs7gqnVtscbtGayZEaSss4hPqNY&dib_tag=se&keywords=mobile+smartphones+under+30000&qid=1770097855&sr=8-8
+                      - generic [ref=e897]:
+                        - generic [ref=e898]: INR 20,138.10
+                        - generic [ref=e899]:
+                          - text: INR
+                          - generic [ref=e900]:
+                            - text: 20,138
+                            - generic [ref=e901]: .
+                          - text: "10"
+                  - generic [ref=e902]:
+                    - generic [ref=e908]: INR 963.01 delivery Wed, Feb 25
+                    - generic [ref=e911]: Ships to India
+                  - button "Add to cart" [ref=e925] [cursor=pointer]
+                  - group "colors available" [ref=e927]:
+                    - list [ref=e928]:
+                      - generic [ref=e929]:
+                        - listitem:
+                          - link "Caramel Latte":
+                            - /url: /Stylus-Unlocked-256GB-Camera-Caramel/dp/B0D1ZFS9GH/ref=cs_sr_dp_loc_1?dib=eyJ2IjoiMSJ9.gL0LtCacLp3csW9qyDhj01-pekOMrL-SHzoBi-5ZUkFWGGjLe5IeuKL7HuXEenFdaqkXs5hbEH4GyLm8WZeDxsvj_h1bmmUOQAsYFbL3LPpma76E7mvSXYo6kH3RZr_xWhlQbjbdPBONdQEuAD-YrIxGISWGJS34KniYReMFVUG6sAIUq7-elNIGmyIgjB4KQFuAgnqQo1iD4nLYAnG-VfxEvQWrsnJLzWxABXNPgWc.XNxD-kFwO9FekVoLfs7gqnVtscbtGayZEaSss4hPqNY&dib_tag=se&keywords=mobile+smartphones+under+30000&qid=1770097855&sr=8-8
+                      - generic [ref=e932]:
+                        - listitem:
+                          - link "Scarlet Wave":
+                            - /url: /Stylus-Unlocked-256GB-Camera-Caramel/dp/B0D5PFR7DK/ref=cs_sr_dp_loc_2?dib=eyJ2IjoiMSJ9.gL0LtCacLp3csW9qyDhj01-pekOMrL-SHzoBi-5ZUkFWGGjLe5IeuKL7HuXEenFdaqkXs5hbEH4GyLm8WZeDxsvj_h1bmmUOQAsYFbL3LPpma76E7mvSXYo6kH3RZr_xWhlQbjbdPBONdQEuAD-YrIxGISWGJS34KniYReMFVUG6sAIUq7-elNIGmyIgjB4KQFuAgnqQo1iD4nLYAnG-VfxEvQWrsnJLzWxABXNPgWc.XNxD-kFwO9FekVoLfs7gqnVtscbtGayZEaSss4hPqNY&dib_tag=se&keywords=mobile+smartphones+under+30000&qid=1770097855&sr=8-8
+                      - generic [ref=e935]:
+                        - listitem:
+                          - link "Gibraltar Sea":
+                            - /url: /Stylus-Unlocked-256GB-Camera-Caramel/dp/B0DWV55DXH/ref=cs_sr_dp_loc_3?dib=eyJ2IjoiMSJ9.gL0LtCacLp3csW9qyDhj01-pekOMrL-SHzoBi-5ZUkFWGGjLe5IeuKL7HuXEenFdaqkXs5hbEH4GyLm8WZeDxsvj_h1bmmUOQAsYFbL3LPpma76E7mvSXYo6kH3RZr_xWhlQbjbdPBONdQEuAD-YrIxGISWGJS34KniYReMFVUG6sAIUq7-elNIGmyIgjB4KQFuAgnqQo1iD4nLYAnG-VfxEvQWrsnJLzWxABXNPgWc.XNxD-kFwO9FekVoLfs7gqnVtscbtGayZEaSss4hPqNY&dib_tag=se&keywords=mobile+smartphones+under+30000&qid=1770097855&sr=8-8
+                      - generic [ref=e938]:
+                        - listitem:
+                          - link "Surf the Web":
+                            - /url: /Stylus-Unlocked-256GB-Camera-Caramel/dp/B0DXM9HDZJ/ref=cs_sr_dp_loc_4?dib=eyJ2IjoiMSJ9.gL0LtCacLp3csW9qyDhj01-pekOMrL-SHzoBi-5ZUkFWGGjLe5IeuKL7HuXEenFdaqkXs5hbEH4GyLm8WZeDxsvj_h1bmmUOQAsYFbL3LPpma76E7mvSXYo6kH3RZr_xWhlQbjbdPBONdQEuAD-YrIxGISWGJS34KniYReMFVUG6sAIUq7-elNIGmyIgjB4KQFuAgnqQo1iD4nLYAnG-VfxEvQWrsnJLzWxABXNPgWc.XNxD-kFwO9FekVoLfs7gqnVtscbtGayZEaSss4hPqNY&dib_tag=se&keywords=mobile+smartphones+under+30000&qid=1770097855&sr=8-8
+          - listitem [ref=e943]:
+            - generic [ref=e949]:
+              - link [ref=e955] [cursor=pointer]:
+                - /url: /Verizon-Prepaid-Alcatel-Smartphone-Long-Lasting/dp/B0FX95T727/ref=sr_1_9?dib=eyJ2IjoiMSJ9.gL0LtCacLp3csW9qyDhj01-pekOMrL-SHzoBi-5ZUkFWGGjLe5IeuKL7HuXEenFdaqkXs5hbEH4GyLm8WZeDxsvj_h1bmmUOQAsYFbL3LPpma76E7mvSXYo6kH3RZr_xWhlQbjbdPBONdQEuAD-YrIxGISWGJS34KniYReMFVUG6sAIUq7-elNIGmyIgjB4KQFuAgnqQo1iD4nLYAnG-VfxEvQWrsnJLzWxABXNPgWc.XNxD-kFwO9FekVoLfs7gqnVtscbtGayZEaSss4hPqNY&dib_tag=se&keywords=mobile+smartphones+under+30000&qid=1770097855&sr=8-9
+              - generic [ref=e959]:
+                - link "Verizon Prepaid Alcatel T513 5G Smartphone, 64GB, 6.75\" HD+ Display, 13MP Dual Camera, 5010mAh Long-Lasting Battery, Android - Locked to Verizon - Space Gray (NOT Compatible with VERIZON Post Paid)" [ref=e961] [cursor=pointer]:
+                  - /url: /Verizon-Prepaid-Alcatel-Smartphone-Long-Lasting/dp/B0FX95T727/ref=sr_1_9?dib=eyJ2IjoiMSJ9.gL0LtCacLp3csW9qyDhj01-pekOMrL-SHzoBi-5ZUkFWGGjLe5IeuKL7HuXEenFdaqkXs5hbEH4GyLm8WZeDxsvj_h1bmmUOQAsYFbL3LPpma76E7mvSXYo6kH3RZr_xWhlQbjbdPBONdQEuAD-YrIxGISWGJS34KniYReMFVUG6sAIUq7-elNIGmyIgjB4KQFuAgnqQo1iD4nLYAnG-VfxEvQWrsnJLzWxABXNPgWc.XNxD-kFwO9FekVoLfs7gqnVtscbtGayZEaSss4hPqNY&dib_tag=se&keywords=mobile+smartphones+under+30000&qid=1770097855&sr=8-9
+                  - heading "Verizon Prepaid Alcatel T513 5G Smartphone, 64GB, 6.75\" HD+ Display, 13MP Dual Camera, 5010mAh Long-Lasting Battery, Android - Locked to Verizon - Space Gray (NOT Compatible with VERIZON Post Paid)" [level=2] [ref=e962]
+                - generic [ref=e963]:
+                  - generic [ref=e964]:
+                    - text: "5.0"
+                    - button "5.0 out of 5 stars, rating details" [ref=e966] [cursor=pointer]:
+                      - generic [ref=e968]: 5.0 out of 5 stars
+                    - link "8 ratings" [ref=e972] [cursor=pointer]:
+                      - /url: /Verizon-Prepaid-Alcatel-Smartphone-Long-Lasting/dp/B0FX95T727/ref=sr_1_9?dib=eyJ2IjoiMSJ9.gL0LtCacLp3csW9qyDhj01-pekOMrL-SHzoBi-5ZUkFWGGjLe5IeuKL7HuXEenFdaqkXs5hbEH4GyLm8WZeDxsvj_h1bmmUOQAsYFbL3LPpma76E7mvSXYo6kH3RZr_xWhlQbjbdPBONdQEuAD-YrIxGISWGJS34KniYReMFVUG6sAIUq7-elNIGmyIgjB4KQFuAgnqQo1iD4nLYAnG-VfxEvQWrsnJLzWxABXNPgWc.XNxD-kFwO9FekVoLfs7gqnVtscbtGayZEaSss4hPqNY&dib_tag=se&keywords=mobile+smartphones+under+30000&qid=1770097855&sr=8-9#customerReviews
+                      - text: (8)
+                  - generic [ref=e973]: 100+ bought in past month
+                - generic [ref=e976]:
+                  - generic [ref=e979]:
+                    - generic [ref=e980]: Price, product page
+                    - link "INR 3,650.66" [ref=e981] [cursor=pointer]:
+                      - /url: /Verizon-Prepaid-Alcatel-Smartphone-Long-Lasting/dp/B0FX95T727/ref=sr_1_9?dib=eyJ2IjoiMSJ9.gL0LtCacLp3csW9qyDhj01-pekOMrL-SHzoBi-5ZUkFWGGjLe5IeuKL7HuXEenFdaqkXs5hbEH4GyLm8WZeDxsvj_h1bmmUOQAsYFbL3LPpma76E7mvSXYo6kH3RZr_xWhlQbjbdPBONdQEuAD-YrIxGISWGJS34KniYReMFVUG6sAIUq7-elNIGmyIgjB4KQFuAgnqQo1iD4nLYAnG-VfxEvQWrsnJLzWxABXNPgWc.XNxD-kFwO9FekVoLfs7gqnVtscbtGayZEaSss4hPqNY&dib_tag=se&keywords=mobile+smartphones+under+30000&qid=1770097855&sr=8-9
+                      - generic [ref=e982]:
+                        - generic [ref=e983]: INR 3,650.66
+                        - generic [ref=e984]:
+                          - text: INR
+                          - generic [ref=e985]:
+                            - text: 3,650
+                            - generic [ref=e986]: .
+                          - text: "66"
+                  - generic [ref=e987]:
+                    - generic [ref=e993]: INR 1,013.36 delivery Feb 13 - Mar 2
+                    - generic [ref=e996]: Ships to India
+                  - button "Add to cart" [ref=e1010] [cursor=pointer]
+          - listitem [ref=e1013]:
+            - generic [ref=e1019]:
+              - link [ref=e1025] [cursor=pointer]:
+                - /url: /NUU-Basic-Phone-Wide-Angle-Camera/dp/B0DLG4WKKG/ref=sr_1_10?dib=eyJ2IjoiMSJ9.gL0LtCacLp3csW9qyDhj01-pekOMrL-SHzoBi-5ZUkFWGGjLe5IeuKL7HuXEenFdaqkXs5hbEH4GyLm8WZeDxsvj_h1bmmUOQAsYFbL3LPpma76E7mvSXYo6kH3RZr_xWhlQbjbdPBONdQEuAD-YrIxGISWGJS34KniYReMFVUG6sAIUq7-elNIGmyIgjB4KQFuAgnqQo1iD4nLYAnG-VfxEvQWrsnJLzWxABXNPgWc.XNxD-kFwO9FekVoLfs7gqnVtscbtGayZEaSss4hPqNY&dib_tag=se&keywords=mobile+smartphones+under+30000&qid=1770097855&sr=8-10
+              - generic [ref=e1029]:
+                - link "NUU N20 Basic Cell Phone, Wide-Angle Camera, 6GB + (6GB Extended RAM), 128GB Storage, 6.6\" 90Hz HD+ Display, Dual SIM 4G, Octa-Core, Android 15, Unlocked,1 Year US Warranty (Blue)" [ref=e1031] [cursor=pointer]:
+                  - /url: /NUU-Basic-Phone-Wide-Angle-Camera/dp/B0DLG4WKKG/ref=sr_1_10?dib=eyJ2IjoiMSJ9.gL0LtCacLp3csW9qyDhj01-pekOMrL-SHzoBi-5ZUkFWGGjLe5IeuKL7HuXEenFdaqkXs5hbEH4GyLm8WZeDxsvj_h1bmmUOQAsYFbL3LPpma76E7mvSXYo6kH3RZr_xWhlQbjbdPBONdQEuAD-YrIxGISWGJS34KniYReMFVUG6sAIUq7-elNIGmyIgjB4KQFuAgnqQo1iD4nLYAnG-VfxEvQWrsnJLzWxABXNPgWc.XNxD-kFwO9FekVoLfs7gqnVtscbtGayZEaSss4hPqNY&dib_tag=se&keywords=mobile+smartphones+under+30000&qid=1770097855&sr=8-10
+                  - heading "NUU N20 Basic Cell Phone, Wide-Angle Camera, 6GB + (6GB Extended RAM), 128GB Storage, 6.6\" 90Hz HD+ Display, Dual SIM 4G, Octa-Core, Android 15, Unlocked,1 Year US Warranty (Blue)" [level=2] [ref=e1032]
+                - generic [ref=e1033]:
+                  - generic [ref=e1034]:
+                    - text: "4.1"
+                    - button "4.1 out of 5 stars, rating details" [ref=e1036] [cursor=pointer]:
+                      - generic [ref=e1038]: 4.1 out of 5 stars
+                    - link "189 ratings" [ref=e1042] [cursor=pointer]:
+                      - /url: /NUU-Basic-Phone-Wide-Angle-Camera/dp/B0DLG4WKKG/ref=sr_1_10?dib=eyJ2IjoiMSJ9.gL0LtCacLp3csW9qyDhj01-pekOMrL-SHzoBi-5ZUkFWGGjLe5IeuKL7HuXEenFdaqkXs5hbEH4GyLm8WZeDxsvj_h1bmmUOQAsYFbL3LPpma76E7mvSXYo6kH3RZr_xWhlQbjbdPBONdQEuAD-YrIxGISWGJS34KniYReMFVUG6sAIUq7-elNIGmyIgjB4KQFuAgnqQo1iD4nLYAnG-VfxEvQWrsnJLzWxABXNPgWc.XNxD-kFwO9FekVoLfs7gqnVtscbtGayZEaSss4hPqNY&dib_tag=se&keywords=mobile+smartphones+under+30000&qid=1770097855&sr=8-10#customerReviews
+                      - text: (189)
+                  - generic [ref=e1043]: 300+ bought in past month
+                - generic [ref=e1046]:
+                  - link "See options" [ref=e1054] [cursor=pointer]:
+                    - /url: /NUU-Basic-Phone-Wide-Angle-Camera/dp/B0DLG4WKKG/ref=sr_1_10_so_CELLULAR_PHONE?dib=eyJ2IjoiMSJ9.gL0LtCacLp3csW9qyDhj01-pekOMrL-SHzoBi-5ZUkFWGGjLe5IeuKL7HuXEenFdaqkXs5hbEH4GyLm8WZeDxsvj_h1bmmUOQAsYFbL3LPpma76E7mvSXYo6kH3RZr_xWhlQbjbdPBONdQEuAD-YrIxGISWGJS34KniYReMFVUG6sAIUq7-elNIGmyIgjB4KQFuAgnqQo1iD4nLYAnG-VfxEvQWrsnJLzWxABXNPgWc.XNxD-kFwO9FekVoLfs7gqnVtscbtGayZEaSss4hPqNY&dib_tag=se&keywords=mobile+smartphones+under+30000&qid=1770097855&sr=8-10
+                  - generic [ref=e1056]:
+                    - text: No featured offers available
+                    - text: INR 7,322.36
+                    - link "(1 new offer)" [ref=e1058] [cursor=pointer]:
+                      - /url: /gp/offer-listing/B0DLG4WKKG/ref=sr_1_10_olp?keywords=mobile+smartphones+under+30000&dib_tag=se&dib=eyJ2IjoiMSJ9.gL0LtCacLp3csW9qyDhj01-pekOMrL-SHzoBi-5ZUkFWGGjLe5IeuKL7HuXEenFdaqkXs5hbEH4GyLm8WZeDxsvj_h1bmmUOQAsYFbL3LPpma76E7mvSXYo6kH3RZr_xWhlQbjbdPBONdQEuAD-YrIxGISWGJS34KniYReMFVUG6sAIUq7-elNIGmyIgjB4KQFuAgnqQo1iD4nLYAnG-VfxEvQWrsnJLzWxABXNPgWc.XNxD-kFwO9FekVoLfs7gqnVtscbtGayZEaSss4hPqNY&qid=1770097855&sr=8-10
+                  - group "colors available" [ref=e1060]:
+                    - list [ref=e1061]:
+                      - generic [ref=e1062]:
+                        - listitem:
+                          - link "Blue":
+                            - /url: /NUU-Basic-Phone-Wide-Angle-Camera/dp/B0DLG4WKKG/ref=cs_sr_dp_loc_1?dib=eyJ2IjoiMSJ9.gL0LtCacLp3csW9qyDhj01-pekOMrL-SHzoBi-5ZUkFWGGjLe5IeuKL7HuXEenFdaqkXs5hbEH4GyLm8WZeDxsvj_h1bmmUOQAsYFbL3LPpma76E7mvSXYo6kH3RZr_xWhlQbjbdPBONdQEuAD-YrIxGISWGJS34KniYReMFVUG6sAIUq7-elNIGmyIgjB4KQFuAgnqQo1iD4nLYAnG-VfxEvQWrsnJLzWxABXNPgWc.XNxD-kFwO9FekVoLfs7gqnVtscbtGayZEaSss4hPqNY&dib_tag=se&keywords=mobile+smartphones+under+30000&qid=1770097855&sr=8-10
+                      - generic [ref=e1065]:
+                        - listitem:
+                          - link "Green":
+                            - /url: /NUU-Basic-Phone-Wide-Angle-Camera/dp/B0DLGKWNMR/ref=cs_sr_dp_loc_2?dib=eyJ2IjoiMSJ9.gL0LtCacLp3csW9qyDhj01-pekOMrL-SHzoBi-5ZUkFWGGjLe5IeuKL7HuXEenFdaqkXs5hbEH4GyLm8WZeDxsvj_h1bmmUOQAsYFbL3LPpma76E7mvSXYo6kH3RZr_xWhlQbjbdPBONdQEuAD-YrIxGISWGJS34KniYReMFVUG6sAIUq7-elNIGmyIgjB4KQFuAgnqQo1iD4nLYAnG-VfxEvQWrsnJLzWxABXNPgWc.XNxD-kFwO9FekVoLfs7gqnVtscbtGayZEaSss4hPqNY&dib_tag=se&keywords=mobile+smartphones+under+30000&qid=1770097855&sr=8-10
+                      - generic [ref=e1068]:
+                        - listitem:
+                          - link "Pink":
+                            - /url: /NUU-Basic-Phone-Wide-Angle-Camera/dp/B0DLG5C7SD/ref=cs_sr_dp_loc_3?dib=eyJ2IjoiMSJ9.gL0LtCacLp3csW9qyDhj01-pekOMrL-SHzoBi-5ZUkFWGGjLe5IeuKL7HuXEenFdaqkXs5hbEH4GyLm8WZeDxsvj_h1bmmUOQAsYFbL3LPpma76E7mvSXYo6kH3RZr_xWhlQbjbdPBONdQEuAD-YrIxGISWGJS34KniYReMFVUG6sAIUq7-elNIGmyIgjB4KQFuAgnqQo1iD4nLYAnG-VfxEvQWrsnJLzWxABXNPgWc.XNxD-kFwO9FekVoLfs7gqnVtscbtGayZEaSss4hPqNY&dib_tag=se&keywords=mobile+smartphones+under+30000&qid=1770097855&sr=8-10
+                      - generic [ref=e1071]:
+                        - listitem:
+                          - link "Purple":
+                            - /url: /NUU-Basic-Phone-Wide-Angle-Camera/dp/B0DLGHZ3YN/ref=cs_sr_dp_loc_4?dib=eyJ2IjoiMSJ9.gL0LtCacLp3csW9qyDhj01-pekOMrL-SHzoBi-5ZUkFWGGjLe5IeuKL7HuXEenFdaqkXs5hbEH4GyLm8WZeDxsvj_h1bmmUOQAsYFbL3LPpma76E7mvSXYo6kH3RZr_xWhlQbjbdPBONdQEuAD-YrIxGISWGJS34KniYReMFVUG6sAIUq7-elNIGmyIgjB4KQFuAgnqQo1iD4nLYAnG-VfxEvQWrsnJLzWxABXNPgWc.XNxD-kFwO9FekVoLfs7gqnVtscbtGayZEaSss4hPqNY&dib_tag=se&keywords=mobile+smartphones+under+30000&qid=1770097855&sr=8-10
+          - listitem [ref=e1076]:
+            - generic [ref=e1082]:
+              - link [ref=e1088] [cursor=pointer]:
+                - /url: /CostMvp-5-0inch-Android-3500mAh-Battery/dp/B0FX48NN9N/ref=sr_1_11?dib=eyJ2IjoiMSJ9.gL0LtCacLp3csW9qyDhj01-pekOMrL-SHzoBi-5ZUkFWGGjLe5IeuKL7HuXEenFdaqkXs5hbEH4GyLm8WZeDxsvj_h1bmmUOQAsYFbL3LPpma76E7mvSXYo6kH3RZr_xWhlQbjbdPBONdQEuAD-YrIxGISWGJS34KniYReMFVUG6sAIUq7-elNIGmyIgjB4KQFuAgnqQo1iD4nLYAnG-VfxEvQWrsnJLzWxABXNPgWc.XNxD-kFwO9FekVoLfs7gqnVtscbtGayZEaSss4hPqNY&dib_tag=se&keywords=mobile+smartphones+under+30000&qid=1770097855&sr=8-11
+              - generic [ref=e1092]:
+                - link "Cheap 4G Mobile Phone, 5.0inch HD Screen, Dual SIM, 16GB ROM/SD to 128GB, Android 10.0 OS, Dual Camera/3500mAh Big Battery/WiFi/GPS/Face Unlock (Gold)" [ref=e1094] [cursor=pointer]:
+                  - /url: /CostMvp-5-0inch-Android-3500mAh-Battery/dp/B0FX48NN9N/ref=sr_1_11?dib=eyJ2IjoiMSJ9.gL0LtCacLp3csW9qyDhj01-pekOMrL-SHzoBi-5ZUkFWGGjLe5IeuKL7HuXEenFdaqkXs5hbEH4GyLm8WZeDxsvj_h1bmmUOQAsYFbL3LPpma76E7mvSXYo6kH3RZr_xWhlQbjbdPBONdQEuAD-YrIxGISWGJS34KniYReMFVUG6sAIUq7-elNIGmyIgjB4KQFuAgnqQo1iD4nLYAnG-VfxEvQWrsnJLzWxABXNPgWc.XNxD-kFwO9FekVoLfs7gqnVtscbtGayZEaSss4hPqNY&dib_tag=se&keywords=mobile+smartphones+under+30000&qid=1770097855&sr=8-11
+                  - heading "Cheap 4G Mobile Phone, 5.0inch HD Screen, Dual SIM, 16GB ROM/SD to 128GB, Android 10.0 OS, Dual Camera/3500mAh Big Battery/WiFi/GPS/Face Unlock (Gold)" [level=2] [ref=e1095]
+                - generic [ref=e1097]:
+                  - text: "5.0"
+                  - button "5.0 out of 5 stars, rating details" [ref=e1099] [cursor=pointer]:
+                    - generic [ref=e1101]: 5.0 out of 5 stars
+                  - link "22 ratings" [ref=e1105] [cursor=pointer]:
+                    - /url: /CostMvp-5-0inch-Android-3500mAh-Battery/dp/B0FX48NN9N/ref=sr_1_11?dib=eyJ2IjoiMSJ9.gL0LtCacLp3csW9qyDhj01-pekOMrL-SHzoBi-5ZUkFWGGjLe5IeuKL7HuXEenFdaqkXs5hbEH4GyLm8WZeDxsvj_h1bmmUOQAsYFbL3LPpma76E7mvSXYo6kH3RZr_xWhlQbjbdPBONdQEuAD-YrIxGISWGJS34KniYReMFVUG6sAIUq7-elNIGmyIgjB4KQFuAgnqQo1iD4nLYAnG-VfxEvQWrsnJLzWxABXNPgWc.XNxD-kFwO9FekVoLfs7gqnVtscbtGayZEaSss4hPqNY&dib_tag=se&keywords=mobile+smartphones+under+30000&qid=1770097855&sr=8-11#customerReviews
+                    - text: (22)
+                - generic [ref=e1108]:
+                  - link "See options" [ref=e1116] [cursor=pointer]:
+                    - /url: /CostMvp-5-0inch-Android-3500mAh-Battery/dp/B0FX48NN9N/ref=sr_1_11_so_CELLULAR_PHONE?dib=eyJ2IjoiMSJ9.gL0LtCacLp3csW9qyDhj01-pekOMrL-SHzoBi-5ZUkFWGGjLe5IeuKL7HuXEenFdaqkXs5hbEH4GyLm8WZeDxsvj_h1bmmUOQAsYFbL3LPpma76E7mvSXYo6kH3RZr_xWhlQbjbdPBONdQEuAD-YrIxGISWGJS34KniYReMFVUG6sAIUq7-elNIGmyIgjB4KQFuAgnqQo1iD4nLYAnG-VfxEvQWrsnJLzWxABXNPgWc.XNxD-kFwO9FekVoLfs7gqnVtscbtGayZEaSss4hPqNY&dib_tag=se&keywords=mobile+smartphones+under+30000&qid=1770097855&sr=8-11
+                  - generic [ref=e1118]:
+                    - text: No featured offers available
+                    - text: INR 5,033.84
+                    - link "(1 new offer)" [ref=e1120] [cursor=pointer]:
+                      - /url: /gp/offer-listing/B0FX48NN9N/ref=sr_1_11_olp?keywords=mobile+smartphones+under+30000&dib_tag=se&dib=eyJ2IjoiMSJ9.gL0LtCacLp3csW9qyDhj01-pekOMrL-SHzoBi-5ZUkFWGGjLe5IeuKL7HuXEenFdaqkXs5hbEH4GyLm8WZeDxsvj_h1bmmUOQAsYFbL3LPpma76E7mvSXYo6kH3RZr_xWhlQbjbdPBONdQEuAD-YrIxGISWGJS34KniYReMFVUG6sAIUq7-elNIGmyIgjB4KQFuAgnqQo1iD4nLYAnG-VfxEvQWrsnJLzWxABXNPgWc.XNxD-kFwO9FekVoLfs7gqnVtscbtGayZEaSss4hPqNY&qid=1770097855&sr=8-11
+                  - group "colors available" [ref=e1122]:
+                    - list [ref=e1123]:
+                      - generic [ref=e1124]:
+                        - listitem:
+                          - link "Gold":
+                            - /url: /CostMvp-5-0inch-Android-3500mAh-Battery/dp/B0FX48NN9N/ref=cs_sr_dp_loc_1?dib=eyJ2IjoiMSJ9.gL0LtCacLp3csW9qyDhj01-pekOMrL-SHzoBi-5ZUkFWGGjLe5IeuKL7HuXEenFdaqkXs5hbEH4GyLm8WZeDxsvj_h1bmmUOQAsYFbL3LPpma76E7mvSXYo6kH3RZr_xWhlQbjbdPBONdQEuAD-YrIxGISWGJS34KniYReMFVUG6sAIUq7-elNIGmyIgjB4KQFuAgnqQo1iD4nLYAnG-VfxEvQWrsnJLzWxABXNPgWc.XNxD-kFwO9FekVoLfs7gqnVtscbtGayZEaSss4hPqNY&dib_tag=se&keywords=mobile+smartphones+under+30000&qid=1770097855&sr=8-11
+                      - generic [ref=e1127]:
+                        - listitem:
+                          - link "Black":
+                            - /url: /CostMvp-5-0inch-Android-3500mAh-Battery/dp/B0FX47BLM3/ref=cs_sr_dp_loc_2?dib=eyJ2IjoiMSJ9.gL0LtCacLp3csW9qyDhj01-pekOMrL-SHzoBi-5ZUkFWGGjLe5IeuKL7HuXEenFdaqkXs5hbEH4GyLm8WZeDxsvj_h1bmmUOQAsYFbL3LPpma76E7mvSXYo6kH3RZr_xWhlQbjbdPBONdQEuAD-YrIxGISWGJS34KniYReMFVUG6sAIUq7-elNIGmyIgjB4KQFuAgnqQo1iD4nLYAnG-VfxEvQWrsnJLzWxABXNPgWc.XNxD-kFwO9FekVoLfs7gqnVtscbtGayZEaSss4hPqNY&dib_tag=se&keywords=mobile+smartphones+under+30000&qid=1770097855&sr=8-11
+                      - generic [ref=e1130]:
+                        - listitem:
+                          - link "Grey":
+                            - /url: /CostMvp-5-0inch-Android-3500mAh-Battery/dp/B0FX479P4W/ref=cs_sr_dp_loc_3?dib=eyJ2IjoiMSJ9.gL0LtCacLp3csW9qyDhj01-pekOMrL-SHzoBi-5ZUkFWGGjLe5IeuKL7HuXEenFdaqkXs5hbEH4GyLm8WZeDxsvj_h1bmmUOQAsYFbL3LPpma76E7mvSXYo6kH3RZr_xWhlQbjbdPBONdQEuAD-YrIxGISWGJS34KniYReMFVUG6sAIUq7-elNIGmyIgjB4KQFuAgnqQo1iD4nLYAnG-VfxEvQWrsnJLzWxABXNPgWc.XNxD-kFwO9FekVoLfs7gqnVtscbtGayZEaSss4hPqNY&dib_tag=se&keywords=mobile+smartphones+under+30000&qid=1770097855&sr=8-11
+                      - generic [ref=e1133]:
+                        - listitem:
+                          - link "Purple":
+                            - /url: /CostMvp-5-0inch-Android-3500mAh-Battery/dp/B0FX4D3M9T/ref=cs_sr_dp_loc_4?dib=eyJ2IjoiMSJ9.gL0LtCacLp3csW9qyDhj01-pekOMrL-SHzoBi-5ZUkFWGGjLe5IeuKL7HuXEenFdaqkXs5hbEH4GyLm8WZeDxsvj_h1bmmUOQAsYFbL3LPpma76E7mvSXYo6kH3RZr_xWhlQbjbdPBONdQEuAD-YrIxGISWGJS34KniYReMFVUG6sAIUq7-elNIGmyIgjB4KQFuAgnqQo1iD4nLYAnG-VfxEvQWrsnJLzWxABXNPgWc.XNxD-kFwO9FekVoLfs7gqnVtscbtGayZEaSss4hPqNY&dib_tag=se&keywords=mobile+smartphones+under+30000&qid=1770097855&sr=8-11
+          - listitem [ref=e1138]:
+            - generic [ref=e1146]:
+              - link [ref=e1152] [cursor=pointer]:
+                - /url: /sspa/click?ie=UTF8&spc=MToyOTI4MTg1OTMxOTc3OTAxOjE3NzAwOTc4NTU6c3BfbXRmOjMwMDE2NzgxNDEwODUwMjo6MDo6&url=%2FMMY-I24-Ultra-Smartphone-Fingerprint%2Fdp%2FB0F9XD9WR2%2Fref%3Dsr_1_12_sspa%3Fdib%3DeyJ2IjoiMSJ9.gL0LtCacLp3csW9qyDhj01-pekOMrL-SHzoBi-5ZUkFWGGjLe5IeuKL7HuXEenFdaqkXs5hbEH4GyLm8WZeDxsvj_h1bmmUOQAsYFbL3LPpma76E7mvSXYo6kH3RZr_xWhlQbjbdPBONdQEuAD-YrIxGISWGJS34KniYReMFVUG6sAIUq7-elNIGmyIgjB4KQFuAgnqQo1iD4nLYAnG-VfxEvQWrsnJLzWxABXNPgWc.XNxD-kFwO9FekVoLfs7gqnVtscbtGayZEaSss4hPqNY%26dib_tag%3Dse%26keywords%3Dmobile%2Bsmartphones%2Bunder%2B30000%26qid%3D1770097855%26sr%3D8-12-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9tdGY%26psc%3D1
+              - generic [ref=e1156]:
+                - generic [ref=e1157]:
+                  - button "View Sponsored information or leave ad feedback" [ref=e1160] [cursor=pointer]:
+                    - generic [ref=e1161]: Sponsored
+                  - link "Sponsored Ad - MMY I24 Ultra 5G Unlocked Smartphone,16GB+512GB Fully Cell Phone for Android 13, 6.8\" Unlocked Cell Phone, 6800mAh, 48MP+108MP Dual Camera/Dual SIM/Fingerprint Lock/Face (Titanium Gray)" [ref=e1163] [cursor=pointer]:
+                    - /url: /sspa/click?ie=UTF8&spc=MToyOTI4MTg1OTMxOTc3OTAxOjE3NzAwOTc4NTU6c3BfbXRmOjMwMDE2NzgxNDEwODUwMjo6MDo6&url=%2FMMY-I24-Ultra-Smartphone-Fingerprint%2Fdp%2FB0F9XD9WR2%2Fref%3Dsr_1_12_sspa%3Fdib%3DeyJ2IjoiMSJ9.gL0LtCacLp3csW9qyDhj01-pekOMrL-SHzoBi-5ZUkFWGGjLe5IeuKL7HuXEenFdaqkXs5hbEH4GyLm8WZeDxsvj_h1bmmUOQAsYFbL3LPpma76E7mvSXYo6kH3RZr_xWhlQbjbdPBONdQEuAD-YrIxGISWGJS34KniYReMFVUG6sAIUq7-elNIGmyIgjB4KQFuAgnqQo1iD4nLYAnG-VfxEvQWrsnJLzWxABXNPgWc.XNxD-kFwO9FekVoLfs7gqnVtscbtGayZEaSss4hPqNY%26dib_tag%3Dse%26keywords%3Dmobile%2Bsmartphones%2Bunder%2B30000%26qid%3D1770097855%26sr%3D8-12-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9tdGY%26psc%3D1
+                    - heading "Sponsored Ad - MMY I24 Ultra 5G Unlocked Smartphone,16GB+512GB Fully Cell Phone for Android 13, 6.8\" Unlocked Cell Phone, 6800mAh, 48MP+108MP Dual Camera/Dual SIM/Fingerprint Lock/Face (Titanium Gray)" [level=2] [ref=e1164]: MMY I24 Ultra 5G Unlocked Smartphone,16GB+512GB Fully Cell Phone for Android 13, 6.8" Unlocked Cell Phone, 6800mAh, 48MP+108MP Dual Camera/Dual SIM/Fingerprint Lock/Face (Titanium Gray)
+                - generic [ref=e1166]:
+                  - text: "3.9"
+                  - button "3.9 out of 5 stars, rating details" [ref=e1168] [cursor=pointer]:
+                    - generic [ref=e1170]: 3.9 out of 5 stars
+                  - link "45 ratings" [ref=e1174] [cursor=pointer]:
+                    - /url: /sspa/click?ie=UTF8&spc=MToyOTI4MTg1OTMxOTc3OTAxOjE3NzAwOTc4NTU6c3BfbXRmOjMwMDE2NzgxNDEwODUwMjo6MDo6&url=%2FMMY-I24-Ultra-Smartphone-Fingerprint%2Fdp%2FB0F9XD9WR2%2Fref%3Dsr_1_12_sspa%3Fdib%3DeyJ2IjoiMSJ9.gL0LtCacLp3csW9qyDhj01-pekOMrL-SHzoBi-5ZUkFWGGjLe5IeuKL7HuXEenFdaqkXs5hbEH4GyLm8WZeDxsvj_h1bmmUOQAsYFbL3LPpma76E7mvSXYo6kH3RZr_xWhlQbjbdPBONdQEuAD-YrIxGISWGJS34KniYReMFVUG6sAIUq7-elNIGmyIgjB4KQFuAgnqQo1iD4nLYAnG-VfxEvQWrsnJLzWxABXNPgWc.XNxD-kFwO9FekVoLfs7gqnVtscbtGayZEaSss4hPqNY%26dib_tag%3Dse%26keywords%3Dmobile%2Bsmartphones%2Bunder%2B30000%26qid%3D1770097855%26sr%3D8-12-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9tdGY%26psc%3D1#customerReviews
+                    - text: (45)
+                - generic [ref=e1177]:
+                  - link "See options" [ref=e1185] [cursor=pointer]:
+                    - /url: /sspa/click?ie=UTF8&spc=MToyOTI4MTg1OTMxOTc3OTAxOjE3NzAwOTc4NTU6c3BfbXRmOjMwMDE2NzgxNDEwODUwMjo6MDo6&url=%2FMMY-I24-Ultra-Smartphone-Fingerprint%2Fdp%2FB0F9XD9WR2%2Fref%3Dsr_1_12_so_CELLULAR_PHONE%3Fdib%3DeyJ2IjoiMSJ9.gL0LtCacLp3csW9qyDhj01-pekOMrL-SHzoBi-5ZUkFWGGjLe5IeuKL7HuXEenFdaqkXs5hbEH4GyLm8WZeDxsvj_h1bmmUOQAsYFbL3LPpma76E7mvSXYo6kH3RZr_xWhlQbjbdPBONdQEuAD-YrIxGISWGJS34KniYReMFVUG6sAIUq7-elNIGmyIgjB4KQFuAgnqQo1iD4nLYAnG-VfxEvQWrsnJLzWxABXNPgWc.XNxD-kFwO9FekVoLfs7gqnVtscbtGayZEaSss4hPqNY%26dib_tag%3Dse%26keywords%3Dmobile%2Bsmartphones%2Bunder%2B30000%26qid%3D1770097855%26sr%3D8-12-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9tdGY%26psc%3D1
+                  - group "colors available" [ref=e1187]:
+                    - list
+                    - link "+8 other colors/patterns" [ref=e1189] [cursor=pointer]:
+                      - /url: /sspa/click?ie=UTF8&spc=MToyOTI4MTg1OTMxOTc3OTAxOjE3NzAwOTc4NTU6c3BfbXRmOjMwMDE2NzgxNDEwODUwMjo6MDo6&url=%2FMMY-I24-Ultra-Smartphone-Fingerprint%2Fdp%2FB0F9XD9WR2%2Fref%3Dsr_1_12_sspa%3Fdib%3DeyJ2IjoiMSJ9.gL0LtCacLp3csW9qyDhj01-pekOMrL-SHzoBi-5ZUkFWGGjLe5IeuKL7HuXEenFdaqkXs5hbEH4GyLm8WZeDxsvj_h1bmmUOQAsYFbL3LPpma76E7mvSXYo6kH3RZr_xWhlQbjbdPBONdQEuAD-YrIxGISWGJS34KniYReMFVUG6sAIUq7-elNIGmyIgjB4KQFuAgnqQo1iD4nLYAnG-VfxEvQWrsnJLzWxABXNPgWc.XNxD-kFwO9FekVoLfs7gqnVtscbtGayZEaSss4hPqNY%26dib_tag%3Dse%26keywords%3Dmobile%2Bsmartphones%2Bunder%2B30000%26qid%3D1770097855%26sr%3D8-12-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9tdGY%26psc%3D1
+          - listitem [ref=e1192]:
+            - generic [ref=e1198]:
+              - link [ref=e1204] [cursor=pointer]:
+                - /url: /Moto-Unlocked-128GB-Camera-Green/dp/B0CWHXVLXG/ref=sr_1_13?dib=eyJ2IjoiMSJ9.gL0LtCacLp3csW9qyDhj01-pekOMrL-SHzoBi-5ZUkFWGGjLe5IeuKL7HuXEenFdaqkXs5hbEH4GyLm8WZeDxsvj_h1bmmUOQAsYFbL3LPpma76E7mvSXYo6kH3RZr_xWhlQbjbdPBONdQEuAD-YrIxGISWGJS34KniYReMFVUG6sAIUq7-elNIGmyIgjB4KQFuAgnqQo1iD4nLYAnG-VfxEvQWrsnJLzWxABXNPgWc.XNxD-kFwO9FekVoLfs7gqnVtscbtGayZEaSss4hPqNY&dib_tag=se&keywords=mobile+smartphones+under+30000&qid=1770097855&sr=8-13
+              - generic [ref=e1208]:
+                - link "Motorola Moto G 5G | 2024 | Unlocked | Made for US 4/128GB | 50MP Camera | Sage Green" [ref=e1210] [cursor=pointer]:
+                  - /url: /Moto-Unlocked-128GB-Camera-Green/dp/B0CWHXVLXG/ref=sr_1_13?dib=eyJ2IjoiMSJ9.gL0LtCacLp3csW9qyDhj01-pekOMrL-SHzoBi-5ZUkFWGGjLe5IeuKL7HuXEenFdaqkXs5hbEH4GyLm8WZeDxsvj_h1bmmUOQAsYFbL3LPpma76E7mvSXYo6kH3RZr_xWhlQbjbdPBONdQEuAD-YrIxGISWGJS34KniYReMFVUG6sAIUq7-elNIGmyIgjB4KQFuAgnqQo1iD4nLYAnG-VfxEvQWrsnJLzWxABXNPgWc.XNxD-kFwO9FekVoLfs7gqnVtscbtGayZEaSss4hPqNY&dib_tag=se&keywords=mobile+smartphones+under+30000&qid=1770097855&sr=8-13
+                  - heading "Motorola Moto G 5G | 2024 | Unlocked | Made for US 4/128GB | 50MP Camera | Sage Green" [level=2] [ref=e1211]
+                - generic [ref=e1212]:
+                  - generic [ref=e1213]:
+                    - text: "4.3"
+                    - button "4.3 out of 5 stars, rating details" [ref=e1215] [cursor=pointer]:
+                      - generic [ref=e1217]: 4.3 out of 5 stars
+                    - link "4,587 ratings" [ref=e1221] [cursor=pointer]:
+                      - /url: /Moto-Unlocked-128GB-Camera-Green/dp/B0CWHXVLXG/ref=sr_1_13?dib=eyJ2IjoiMSJ9.gL0LtCacLp3csW9qyDhj01-pekOMrL-SHzoBi-5ZUkFWGGjLe5IeuKL7HuXEenFdaqkXs5hbEH4GyLm8WZeDxsvj_h1bmmUOQAsYFbL3LPpma76E7mvSXYo6kH3RZr_xWhlQbjbdPBONdQEuAD-YrIxGISWGJS34KniYReMFVUG6sAIUq7-elNIGmyIgjB4KQFuAgnqQo1iD4nLYAnG-VfxEvQWrsnJLzWxABXNPgWc.XNxD-kFwO9FekVoLfs7gqnVtscbtGayZEaSss4hPqNY&dib_tag=se&keywords=mobile+smartphones+under+30000&qid=1770097855&sr=8-13#customerReviews
+                      - text: (4.5K)
+                  - generic [ref=e1222]: 500+ bought in past month
+                - generic [ref=e1225]:
+                  - generic [ref=e1228]:
+                    - generic [ref=e1229]: Price, product page
+                    - 'link "INR 11,899.41 List: INR 18,307.28 List: INR 18,307.28" [ref=e1230] [cursor=pointer]':
+                      - /url: /Moto-Unlocked-128GB-Camera-Green/dp/B0CWHXVLXG/ref=sr_1_13?dib=eyJ2IjoiMSJ9.gL0LtCacLp3csW9qyDhj01-pekOMrL-SHzoBi-5ZUkFWGGjLe5IeuKL7HuXEenFdaqkXs5hbEH4GyLm8WZeDxsvj_h1bmmUOQAsYFbL3LPpma76E7mvSXYo6kH3RZr_xWhlQbjbdPBONdQEuAD-YrIxGISWGJS34KniYReMFVUG6sAIUq7-elNIGmyIgjB4KQFuAgnqQo1iD4nLYAnG-VfxEvQWrsnJLzWxABXNPgWc.XNxD-kFwO9FekVoLfs7gqnVtscbtGayZEaSss4hPqNY&dib_tag=se&keywords=mobile+smartphones+under+30000&qid=1770097855&sr=8-13
+                      - generic [ref=e1231]:
+                        - generic [ref=e1232]: INR 11,899.41
+                        - generic [ref=e1233]:
+                          - text: INR
+                          - generic [ref=e1234]:
+                            - text: 11,899
+                            - generic [ref=e1235]: .
+                          - text: "41"
+                      - generic [ref=e1236]: "List: INR 18,307.28"
+                      - generic [ref=e1237]:
+                        - text: "List:"
+                        - generic [ref=e1238]:
+                          - generic [ref=e1239]: INR 18,307.28
+                          - text: INR18,307.28
+                  - generic [ref=e1240]:
+                    - generic [ref=e1246]: INR 943.79 delivery Wed, Feb 25
+                    - generic [ref=e1249]: Ships to India
+                  - button "Add to cart" [ref=e1263] [cursor=pointer]
+                  - group "colors available" [ref=e1265]:
+                    - list [ref=e1266]:
+                      - generic [ref=e1267]:
+                        - listitem:
+                          - link "Sage Green":
+                            - /url: /Moto-Unlocked-128GB-Camera-Green/dp/B0CWHXVLXG/ref=cs_sr_dp_loc_1?dib=eyJ2IjoiMSJ9.gL0LtCacLp3csW9qyDhj01-pekOMrL-SHzoBi-5ZUkFWGGjLe5IeuKL7HuXEenFdaqkXs5hbEH4GyLm8WZeDxsvj_h1bmmUOQAsYFbL3LPpma76E7mvSXYo6kH3RZr_xWhlQbjbdPBONdQEuAD-YrIxGISWGJS34KniYReMFVUG6sAIUq7-elNIGmyIgjB4KQFuAgnqQo1iD4nLYAnG-VfxEvQWrsnJLzWxABXNPgWc.XNxD-kFwO9FekVoLfs7gqnVtscbtGayZEaSss4hPqNY&dib_tag=se&keywords=mobile+smartphones+under+30000&qid=1770097855&sr=8-13
+                      - generic [ref=e1270]:
+                        - listitem:
+                          - link "Forest Gray":
+                            - /url: /Moto-Unlocked-128GB-Camera-Green/dp/B0DNRK51QQ/ref=cs_sr_dp_loc_2?dib=eyJ2IjoiMSJ9.gL0LtCacLp3csW9qyDhj01-pekOMrL-SHzoBi-5ZUkFWGGjLe5IeuKL7HuXEenFdaqkXs5hbEH4GyLm8WZeDxsvj_h1bmmUOQAsYFbL3LPpma76E7mvSXYo6kH3RZr_xWhlQbjbdPBONdQEuAD-YrIxGISWGJS34KniYReMFVUG6sAIUq7-elNIGmyIgjB4KQFuAgnqQo1iD4nLYAnG-VfxEvQWrsnJLzWxABXNPgWc.XNxD-kFwO9FekVoLfs7gqnVtscbtGayZEaSss4hPqNY&dib_tag=se&keywords=mobile+smartphones+under+30000&qid=1770097855&sr=8-13
+                      - generic [ref=e1273]:
+                        - listitem:
+                          - link "Leaf Green":
+                            - /url: /Moto-Unlocked-128GB-Camera-Green/dp/B0DP5H8Y82/ref=cs_sr_dp_loc_3?dib=eyJ2IjoiMSJ9.gL0LtCacLp3csW9qyDhj01-pekOMrL-SHzoBi-5ZUkFWGGjLe5IeuKL7HuXEenFdaqkXs5hbEH4GyLm8WZeDxsvj_h1bmmUOQAsYFbL3LPpma76E7mvSXYo6kH3RZr_xWhlQbjbdPBONdQEuAD-YrIxGISWGJS34KniYReMFVUG6sAIUq7-elNIGmyIgjB4KQFuAgnqQo1iD4nLYAnG-VfxEvQWrsnJLzWxABXNPgWc.XNxD-kFwO9FekVoLfs7gqnVtscbtGayZEaSss4hPqNY&dib_tag=se&keywords=mobile+smartphones+under+30000&qid=1770097855&sr=8-13
+                      - generic [ref=e1276]:
+                        - listitem:
+                          - link "Midnight Blue":
+                            - /url: /Moto-Unlocked-128GB-Camera-Green/dp/B0CT6BQV81/ref=cs_sr_dp_loc_4?dib=eyJ2IjoiMSJ9.gL0LtCacLp3csW9qyDhj01-pekOMrL-SHzoBi-5ZUkFWGGjLe5IeuKL7HuXEenFdaqkXs5hbEH4GyLm8WZeDxsvj_h1bmmUOQAsYFbL3LPpma76E7mvSXYo6kH3RZr_xWhlQbjbdPBONdQEuAD-YrIxGISWGJS34KniYReMFVUG6sAIUq7-elNIGmyIgjB4KQFuAgnqQo1iD4nLYAnG-VfxEvQWrsnJLzWxABXNPgWc.XNxD-kFwO9FekVoLfs7gqnVtscbtGayZEaSss4hPqNY&dib_tag=se&keywords=mobile+smartphones+under+30000&qid=1770097855&sr=8-13
+                      - generic [ref=e1279]:
+                        - listitem:
+                          - link "Pale Lilac":
+                            - /url: /Moto-Unlocked-128GB-Camera-Green/dp/B0CVR23QCR/ref=cs_sr_dp_loc_5?dib=eyJ2IjoiMSJ9.gL0LtCacLp3csW9qyDhj01-pekOMrL-SHzoBi-5ZUkFWGGjLe5IeuKL7HuXEenFdaqkXs5hbEH4GyLm8WZeDxsvj_h1bmmUOQAsYFbL3LPpma76E7mvSXYo6kH3RZr_xWhlQbjbdPBONdQEuAD-YrIxGISWGJS34KniYReMFVUG6sAIUq7-elNIGmyIgjB4KQFuAgnqQo1iD4nLYAnG-VfxEvQWrsnJLzWxABXNPgWc.XNxD-kFwO9FekVoLfs7gqnVtscbtGayZEaSss4hPqNY&dib_tag=se&keywords=mobile+smartphones+under+30000&qid=1770097855&sr=8-13
+                      - generic [ref=e1282]:
+                        - listitem:
+                          - link "Sapphire Blue":
+                            - /url: /Moto-Unlocked-128GB-Camera-Green/dp/B0CP6DDN1H/ref=cs_sr_dp_loc_6?dib=eyJ2IjoiMSJ9.gL0LtCacLp3csW9qyDhj01-pekOMrL-SHzoBi-5ZUkFWGGjLe5IeuKL7HuXEenFdaqkXs5hbEH4GyLm8WZeDxsvj_h1bmmUOQAsYFbL3LPpma76E7mvSXYo6kH3RZr_xWhlQbjbdPBONdQEuAD-YrIxGISWGJS34KniYReMFVUG6sAIUq7-elNIGmyIgjB4KQFuAgnqQo1iD4nLYAnG-VfxEvQWrsnJLzWxABXNPgWc.XNxD-kFwO9FekVoLfs7gqnVtscbtGayZEaSss4hPqNY&dib_tag=se&keywords=mobile+smartphones+under+30000&qid=1770097855&sr=8-13
+                    - link "+1 other color/pattern" [ref=e1286] [cursor=pointer]:
+                      - /url: /Moto-Unlocked-128GB-Camera-Green/dp/B0CWHXVLXG/ref=cs_sr_dp_loc_n?dib=eyJ2IjoiMSJ9.gL0LtCacLp3csW9qyDhj01-pekOMrL-SHzoBi-5ZUkFWGGjLe5IeuKL7HuXEenFdaqkXs5hbEH4GyLm8WZeDxsvj_h1bmmUOQAsYFbL3LPpma76E7mvSXYo6kH3RZr_xWhlQbjbdPBONdQEuAD-YrIxGISWGJS34KniYReMFVUG6sAIUq7-elNIGmyIgjB4KQFuAgnqQo1iD4nLYAnG-VfxEvQWrsnJLzWxABXNPgWc.XNxD-kFwO9FekVoLfs7gqnVtscbtGayZEaSss4hPqNY&dib_tag=se&keywords=mobile+smartphones+under+30000&qid=1770097855&sr=8-13
+                      - text: "+1"
+          - listitem [ref=e1289]:
+            - generic [ref=e1295]:
+              - link [ref=e1301] [cursor=pointer]:
+                - /url: /TracFone-Motorola-Activation-Promotion-Smartphone/dp/B0F7M5FSRT/ref=sr_1_14?dib=eyJ2IjoiMSJ9.gL0LtCacLp3csW9qyDhj01-pekOMrL-SHzoBi-5ZUkFWGGjLe5IeuKL7HuXEenFdaqkXs5hbEH4GyLm8WZeDxsvj_h1bmmUOQAsYFbL3LPpma76E7mvSXYo6kH3RZr_xWhlQbjbdPBONdQEuAD-YrIxGISWGJS34KniYReMFVUG6sAIUq7-elNIGmyIgjB4KQFuAgnqQo1iD4nLYAnG-VfxEvQWrsnJLzWxABXNPgWc.XNxD-kFwO9FekVoLfs7gqnVtscbtGayZEaSss4hPqNY&dib_tag=se&keywords=mobile+smartphones+under+30000&qid=1770097855&sr=8-14
+              - generic [ref=e1305]:
+                - link "Tracfone Motorola Moto g 5G (2024) [Activation Promotion] Locked Prepaid Smartphone, 128GB, Gray - Includes $20 Unlimited Talk, Text, & 4GB Data 30-Day Plan" [ref=e1307] [cursor=pointer]:
+                  - /url: /TracFone-Motorola-Activation-Promotion-Smartphone/dp/B0F7M5FSRT/ref=sr_1_14?dib=eyJ2IjoiMSJ9.gL0LtCacLp3csW9qyDhj01-pekOMrL-SHzoBi-5ZUkFWGGjLe5IeuKL7HuXEenFdaqkXs5hbEH4GyLm8WZeDxsvj_h1bmmUOQAsYFbL3LPpma76E7mvSXYo6kH3RZr_xWhlQbjbdPBONdQEuAD-YrIxGISWGJS34KniYReMFVUG6sAIUq7-elNIGmyIgjB4KQFuAgnqQo1iD4nLYAnG-VfxEvQWrsnJLzWxABXNPgWc.XNxD-kFwO9FekVoLfs7gqnVtscbtGayZEaSss4hPqNY&dib_tag=se&keywords=mobile+smartphones+under+30000&qid=1770097855&sr=8-14
+                  - heading "Tracfone Motorola Moto g 5G (2024) [Activation Promotion] Locked Prepaid Smartphone, 128GB, Gray - Includes $20 Unlimited Talk, Text, & 4GB Data 30-Day Plan" [level=2] [ref=e1308]
+                - generic [ref=e1309]:
+                  - generic [ref=e1312]: Top Reviewed for Functionality
+                  - generic [ref=e1313]:
+                    - text: "4.3"
+                    - button "4.3 out of 5 stars, rating details" [ref=e1315] [cursor=pointer]:
+                      - generic [ref=e1317]: 4.3 out of 5 stars
+                    - link "272 ratings" [ref=e1321] [cursor=pointer]:
+                      - /url: /TracFone-Motorola-Activation-Promotion-Smartphone/dp/B0F7M5FSRT/ref=sr_1_14?dib=eyJ2IjoiMSJ9.gL0LtCacLp3csW9qyDhj01-pekOMrL-SHzoBi-5ZUkFWGGjLe5IeuKL7HuXEenFdaqkXs5hbEH4GyLm8WZeDxsvj_h1bmmUOQAsYFbL3LPpma76E7mvSXYo6kH3RZr_xWhlQbjbdPBONdQEuAD-YrIxGISWGJS34KniYReMFVUG6sAIUq7-elNIGmyIgjB4KQFuAgnqQo1iD4nLYAnG-VfxEvQWrsnJLzWxABXNPgWc.XNxD-kFwO9FekVoLfs7gqnVtscbtGayZEaSss4hPqNY&dib_tag=se&keywords=mobile+smartphones+under+30000&qid=1770097855&sr=8-14#customerReviews
+                      - text: (272)
+                  - generic [ref=e1322]: 1K+ bought in past month
+                - generic [ref=e1325]:
+                  - generic [ref=e1328]:
+                    - generic [ref=e1329]: Price, product page
+                    - link "INR 4,576.13" [ref=e1330] [cursor=pointer]:
+                      - /url: /TracFone-Motorola-Activation-Promotion-Smartphone/dp/B0F7M5FSRT/ref=sr_1_14?dib=eyJ2IjoiMSJ9.gL0LtCacLp3csW9qyDhj01-pekOMrL-SHzoBi-5ZUkFWGGjLe5IeuKL7HuXEenFdaqkXs5hbEH4GyLm8WZeDxsvj_h1bmmUOQAsYFbL3LPpma76E7mvSXYo6kH3RZr_xWhlQbjbdPBONdQEuAD-YrIxGISWGJS34KniYReMFVUG6sAIUq7-elNIGmyIgjB4KQFuAgnqQo1iD4nLYAnG-VfxEvQWrsnJLzWxABXNPgWc.XNxD-kFwO9FekVoLfs7gqnVtscbtGayZEaSss4hPqNY&dib_tag=se&keywords=mobile+smartphones+under+30000&qid=1770097855&sr=8-14
+                      - generic [ref=e1331]:
+                        - generic [ref=e1332]: INR 4,576.13
+                        - generic [ref=e1333]:
+                          - text: INR
+                          - generic [ref=e1334]:
+                            - text: 4,576
+                            - generic [ref=e1335]: .
+                          - text: "13"
+                  - generic [ref=e1336]:
+                    - generic [ref=e1342]: INR 1,000.54 delivery Wed, Feb 25
+                    - generic [ref=e1345]: Ships to India
+                  - button "Add to cart" [ref=e1359] [cursor=pointer]
+          - listitem [ref=e1362]:
+            - generic [ref=e1368]:
+              - link [ref=e1374] [cursor=pointer]:
+                - /url: /Verizon-Prepaid-Motorola-Moto-Sapphire/dp/B0F6G9LJQB/ref=sr_1_15?dib=eyJ2IjoiMSJ9.gL0LtCacLp3csW9qyDhj01-pekOMrL-SHzoBi-5ZUkFWGGjLe5IeuKL7HuXEenFdaqkXs5hbEH4GyLm8WZeDxsvj_h1bmmUOQAsYFbL3LPpma76E7mvSXYo6kH3RZr_xWhlQbjbdPBONdQEuAD-YrIxGISWGJS34KniYReMFVUG6sAIUq7-elNIGmyIgjB4KQFuAgnqQo1iD4nLYAnG-VfxEvQWrsnJLzWxABXNPgWc.XNxD-kFwO9FekVoLfs7gqnVtscbtGayZEaSss4hPqNY&dib_tag=se&keywords=mobile+smartphones+under+30000&qid=1770097855&sr=8-15
+              - generic [ref=e1378]:
+                - link "Verizon Prepaid Motorola moto g Play 2024, 64GB, Sapphire Blue - Prepaid Smartphone, 6.5\" 90Hz HD+ Display, 50MP Camera System, Long-Lasting 5000mAh Battery - Locked - NOT COMPATIBLE WITH VZ POST PAID" [ref=e1380] [cursor=pointer]:
+                  - /url: /Verizon-Prepaid-Motorola-Moto-Sapphire/dp/B0F6G9LJQB/ref=sr_1_15?dib=eyJ2IjoiMSJ9.gL0LtCacLp3csW9qyDhj01-pekOMrL-SHzoBi-5ZUkFWGGjLe5IeuKL7HuXEenFdaqkXs5hbEH4GyLm8WZeDxsvj_h1bmmUOQAsYFbL3LPpma76E7mvSXYo6kH3RZr_xWhlQbjbdPBONdQEuAD-YrIxGISWGJS34KniYReMFVUG6sAIUq7-elNIGmyIgjB4KQFuAgnqQo1iD4nLYAnG-VfxEvQWrsnJLzWxABXNPgWc.XNxD-kFwO9FekVoLfs7gqnVtscbtGayZEaSss4hPqNY&dib_tag=se&keywords=mobile+smartphones+under+30000&qid=1770097855&sr=8-15
+                  - heading "Verizon Prepaid Motorola moto g Play 2024, 64GB, Sapphire Blue - Prepaid Smartphone, 6.5\" 90Hz HD+ Display, 50MP Camera System, Long-Lasting 5000mAh Battery - Locked - NOT COMPATIBLE WITH VZ POST PAID" [level=2] [ref=e1381]
+                - generic [ref=e1382]:
+                  - generic [ref=e1383]:
+                    - text: "3.2"
+                    - button "3.2 out of 5 stars, rating details" [ref=e1385] [cursor=pointer]:
+                      - generic [ref=e1387]: 3.2 out of 5 stars
+                    - link "35 ratings" [ref=e1391] [cursor=pointer]:
+                      - /url: /Verizon-Prepaid-Motorola-Moto-Sapphire/dp/B0F6G9LJQB/ref=sr_1_15?dib=eyJ2IjoiMSJ9.gL0LtCacLp3csW9qyDhj01-pekOMrL-SHzoBi-5ZUkFWGGjLe5IeuKL7HuXEenFdaqkXs5hbEH4GyLm8WZeDxsvj_h1bmmUOQAsYFbL3LPpma76E7mvSXYo6kH3RZr_xWhlQbjbdPBONdQEuAD-YrIxGISWGJS34KniYReMFVUG6sAIUq7-elNIGmyIgjB4KQFuAgnqQo1iD4nLYAnG-VfxEvQWrsnJLzWxABXNPgWc.XNxD-kFwO9FekVoLfs7gqnVtscbtGayZEaSss4hPqNY&dib_tag=se&keywords=mobile+smartphones+under+30000&qid=1770097855&sr=8-15#customerReviews
+                      - text: (35)
+                  - generic [ref=e1392]: 300+ bought in past month
+                - generic [ref=e1395]:
+                  - generic [ref=e1398]:
+                    - generic [ref=e1399]: Price, product page
+                    - link "INR 2,735.25" [ref=e1400] [cursor=pointer]:
+                      - /url: /Verizon-Prepaid-Motorola-Moto-Sapphire/dp/B0F6G9LJQB/ref=sr_1_15?dib=eyJ2IjoiMSJ9.gL0LtCacLp3csW9qyDhj01-pekOMrL-SHzoBi-5ZUkFWGGjLe5IeuKL7HuXEenFdaqkXs5hbEH4GyLm8WZeDxsvj_h1bmmUOQAsYFbL3LPpma76E7mvSXYo6kH3RZr_xWhlQbjbdPBONdQEuAD-YrIxGISWGJS34KniYReMFVUG6sAIUq7-elNIGmyIgjB4KQFuAgnqQo1iD4nLYAnG-VfxEvQWrsnJLzWxABXNPgWc.XNxD-kFwO9FekVoLfs7gqnVtscbtGayZEaSss4hPqNY&dib_tag=se&keywords=mobile+smartphones+under+30000&qid=1770097855&sr=8-15
+                      - generic [ref=e1401]:
+                        - generic [ref=e1402]: INR 2,735.25
+                        - generic [ref=e1403]:
+                          - text: INR
+                          - generic [ref=e1404]:
+                            - text: 2,735
+                            - generic [ref=e1405]: .
+                          - text: "25"
+                  - generic [ref=e1406]:
+                    - generic [ref=e1412]: INR 1,008.78 delivery Feb 16 - Mar 5
+                    - generic [ref=e1415]: Ships to India
+                  - button "Add to cart" [ref=e1429] [cursor=pointer]
+          - listitem [ref=e1432]:
+            - generic [ref=e1438]:
+              - link [ref=e1444] [cursor=pointer]:
+                - /url: /FOXX-New-Unlocked-Smartphone-Android/dp/B0FJXJLLWD/ref=sr_1_16?dib=eyJ2IjoiMSJ9.gL0LtCacLp3csW9qyDhj01-pekOMrL-SHzoBi-5ZUkFWGGjLe5IeuKL7HuXEenFdaqkXs5hbEH4GyLm8WZeDxsvj_h1bmmUOQAsYFbL3LPpma76E7mvSXYo6kH3RZr_xWhlQbjbdPBONdQEuAD-YrIxGISWGJS34KniYReMFVUG6sAIUq7-elNIGmyIgjB4KQFuAgnqQo1iD4nLYAnG-VfxEvQWrsnJLzWxABXNPgWc.XNxD-kFwO9FekVoLfs7gqnVtscbtGayZEaSss4hPqNY&dib_tag=se&keywords=mobile+smartphones+under+30000&qid=1770097855&sr=8-16
+              - generic [ref=e1448]:
+                - link "New Unlocked 4G Smartphone Android 13 Go Edition - 5.5\" Display, 2GB+16GB (1TB Expandable) Storage, 2000mAh Battery, 2MP Main + 0.3MP Auxiliary Camera, Dual SIM, 3.5mm Headphone Jack" [ref=e1450] [cursor=pointer]:
+                  - /url: /FOXX-New-Unlocked-Smartphone-Android/dp/B0FJXJLLWD/ref=sr_1_16?dib=eyJ2IjoiMSJ9.gL0LtCacLp3csW9qyDhj01-pekOMrL-SHzoBi-5ZUkFWGGjLe5IeuKL7HuXEenFdaqkXs5hbEH4GyLm8WZeDxsvj_h1bmmUOQAsYFbL3LPpma76E7mvSXYo6kH3RZr_xWhlQbjbdPBONdQEuAD-YrIxGISWGJS34KniYReMFVUG6sAIUq7-elNIGmyIgjB4KQFuAgnqQo1iD4nLYAnG-VfxEvQWrsnJLzWxABXNPgWc.XNxD-kFwO9FekVoLfs7gqnVtscbtGayZEaSss4hPqNY&dib_tag=se&keywords=mobile+smartphones+under+30000&qid=1770097855&sr=8-16
+                  - heading "New Unlocked 4G Smartphone Android 13 Go Edition - 5.5\" Display, 2GB+16GB (1TB Expandable) Storage, 2000mAh Battery, 2MP Main + 0.3MP Auxiliary Camera, Dual SIM, 3.5mm Headphone Jack" [level=2] [ref=e1451]
+                - generic [ref=e1452]:
+                  - generic [ref=e1453]:
+                    - text: "3.5"
+                    - button "3.5 out of 5 stars, rating details" [ref=e1455] [cursor=pointer]:
+                      - generic [ref=e1457]: 3.5 out of 5 stars
+                    - link "3 ratings" [ref=e1461] [cursor=pointer]:
+                      - /url: /FOXX-New-Unlocked-Smartphone-Android/dp/B0FJXJLLWD/ref=sr_1_16?dib=eyJ2IjoiMSJ9.gL0LtCacLp3csW9qyDhj01-pekOMrL-SHzoBi-5ZUkFWGGjLe5IeuKL7HuXEenFdaqkXs5hbEH4GyLm8WZeDxsvj_h1bmmUOQAsYFbL3LPpma76E7mvSXYo6kH3RZr_xWhlQbjbdPBONdQEuAD-YrIxGISWGJS34KniYReMFVUG6sAIUq7-elNIGmyIgjB4KQFuAgnqQo1iD4nLYAnG-VfxEvQWrsnJLzWxABXNPgWc.XNxD-kFwO9FekVoLfs7gqnVtscbtGayZEaSss4hPqNY&dib_tag=se&keywords=mobile+smartphones+under+30000&qid=1770097855&sr=8-16#customerReviews
+                      - text: (3)
+                  - generic [ref=e1462]: 100+ bought in past month
+                - generic [ref=e1465]:
+                  - link "See options" [ref=e1473] [cursor=pointer]:
+                    - /url: /FOXX-New-Unlocked-Smartphone-Android/dp/B0FJXJLLWD/ref=sr_1_16_so_CELLULAR_PHONE?dib=eyJ2IjoiMSJ9.gL0LtCacLp3csW9qyDhj01-pekOMrL-SHzoBi-5ZUkFWGGjLe5IeuKL7HuXEenFdaqkXs5hbEH4GyLm8WZeDxsvj_h1bmmUOQAsYFbL3LPpma76E7mvSXYo6kH3RZr_xWhlQbjbdPBONdQEuAD-YrIxGISWGJS34KniYReMFVUG6sAIUq7-elNIGmyIgjB4KQFuAgnqQo1iD4nLYAnG-VfxEvQWrsnJLzWxABXNPgWc.XNxD-kFwO9FekVoLfs7gqnVtscbtGayZEaSss4hPqNY&dib_tag=se&keywords=mobile+smartphones+under+30000&qid=1770097855&sr=8-16
+                  - generic [ref=e1475]:
+                    - text: No featured offers available
+                    - text: INR 6,078.32
+                    - link "(1 new offer)" [ref=e1477] [cursor=pointer]:
+                      - /url: /gp/offer-listing/B0FJXJLLWD/ref=sr_1_16_olp?keywords=mobile+smartphones+under+30000&dib_tag=se&dib=eyJ2IjoiMSJ9.gL0LtCacLp3csW9qyDhj01-pekOMrL-SHzoBi-5ZUkFWGGjLe5IeuKL7HuXEenFdaqkXs5hbEH4GyLm8WZeDxsvj_h1bmmUOQAsYFbL3LPpma76E7mvSXYo6kH3RZr_xWhlQbjbdPBONdQEuAD-YrIxGISWGJS34KniYReMFVUG6sAIUq7-elNIGmyIgjB4KQFuAgnqQo1iD4nLYAnG-VfxEvQWrsnJLzWxABXNPgWc.XNxD-kFwO9FekVoLfs7gqnVtscbtGayZEaSss4hPqNY&qid=1770097855&sr=8-16
+          - listitem [ref=e1480]:
+            - generic [ref=e1488]:
+              - link [ref=e1494] [cursor=pointer]:
+                - /url: /sspa/click?ie=UTF8&spc=MToyOTI4MTg1OTMxOTc3OTAxOjE3NzAwOTc4NTU6c3BfbXRmOjMwMTEyODI2NjA4NjcwMjo6MDo6&url=%2FBDWJW-I25-Ultra-Smartphone-Performance%2Fdp%2FB0FPMCPHZ6%2Fref%3Dsr_1_17_sspa%3Fdib%3DeyJ2IjoiMSJ9.gL0LtCacLp3csW9qyDhj01-pekOMrL-SHzoBi-5ZUkFWGGjLe5IeuKL7HuXEenFdaqkXs5hbEH4GyLm8WZeDxsvj_h1bmmUOQAsYFbL3LPpma76E7mvSXYo6kH3RZr_xWhlQbjbdPBONdQEuAD-YrIxGISWGJS34KniYReMFVUG6sAIUq7-elNIGmyIgjB4KQFuAgnqQo1iD4nLYAnG-VfxEvQWrsnJLzWxABXNPgWc.XNxD-kFwO9FekVoLfs7gqnVtscbtGayZEaSss4hPqNY%26dib_tag%3Dse%26keywords%3Dmobile%2Bsmartphones%2Bunder%2B30000%26qid%3D1770097855%26sr%3D8-17-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9tdGY%26psc%3D1
+              - generic [ref=e1498]:
+                - generic [ref=e1499]:
+                  - button "View Sponsored information or leave ad feedback" [ref=e1502] [cursor=pointer]:
+                    - generic [ref=e1503]: Sponsored
+                  - link "Sponsored Ad - I25 Ultra Smartphone 16GB+512GB Android 14 Smartphone, 6.99\" FHD+ Display, 7000mAh Battery, 108MP+68MP Dual Camera, Built-in Pen Stylus, Fast Performance Large Memory (Black)" [ref=e1505] [cursor=pointer]:
+                    - /url: /sspa/click?ie=UTF8&spc=MToyOTI4MTg1OTMxOTc3OTAxOjE3NzAwOTc4NTU6c3BfbXRmOjMwMTEyODI2NjA4NjcwMjo6MDo6&url=%2FBDWJW-I25-Ultra-Smartphone-Performance%2Fdp%2FB0FPMCPHZ6%2Fref%3Dsr_1_17_sspa%3Fdib%3DeyJ2IjoiMSJ9.gL0LtCacLp3csW9qyDhj01-pekOMrL-SHzoBi-5ZUkFWGGjLe5IeuKL7HuXEenFdaqkXs5hbEH4GyLm8WZeDxsvj_h1bmmUOQAsYFbL3LPpma76E7mvSXYo6kH3RZr_xWhlQbjbdPBONdQEuAD-YrIxGISWGJS34KniYReMFVUG6sAIUq7-elNIGmyIgjB4KQFuAgnqQo1iD4nLYAnG-VfxEvQWrsnJLzWxABXNPgWc.XNxD-kFwO9FekVoLfs7gqnVtscbtGayZEaSss4hPqNY%26dib_tag%3Dse%26keywords%3Dmobile%2Bsmartphones%2Bunder%2B30000%26qid%3D1770097855%26sr%3D8-17-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9tdGY%26psc%3D1
+                    - heading "Sponsored Ad - I25 Ultra Smartphone 16GB+512GB Android 14 Smartphone, 6.99\" FHD+ Display, 7000mAh Battery, 108MP+68MP Dual Camera, Built-in Pen Stylus, Fast Performance Large Memory (Black)" [level=2] [ref=e1506]: I25 Ultra Smartphone 16GB+512GB Android 14 Smartphone, 6.99" FHD+ Display, 7000mAh Battery, 108MP+68MP Dual Camera, Built-in Pen Stylus, Fast Performance Large Memory (Black)
+                - generic [ref=e1508]:
+                  - text: "4.6"
+                  - button "4.6 out of 5 stars, rating details" [ref=e1510] [cursor=pointer]:
+                    - generic [ref=e1512]: 4.6 out of 5 stars
+                  - link "17 ratings" [ref=e1516] [cursor=pointer]:
+                    - /url: /sspa/click?ie=UTF8&spc=MToyOTI4MTg1OTMxOTc3OTAxOjE3NzAwOTc4NTU6c3BfbXRmOjMwMTEyODI2NjA4NjcwMjo6MDo6&url=%2FBDWJW-I25-Ultra-Smartphone-Performance%2Fdp%2FB0FPMCPHZ6%2Fref%3Dsr_1_17_sspa%3Fdib%3DeyJ2IjoiMSJ9.gL0LtCacLp3csW9qyDhj01-pekOMrL-SHzoBi-5ZUkFWGGjLe5IeuKL7HuXEenFdaqkXs5hbEH4GyLm8WZeDxsvj_h1bmmUOQAsYFbL3LPpma76E7mvSXYo6kH3RZr_xWhlQbjbdPBONdQEuAD-YrIxGISWGJS34KniYReMFVUG6sAIUq7-elNIGmyIgjB4KQFuAgnqQo1iD4nLYAnG-VfxEvQWrsnJLzWxABXNPgWc.XNxD-kFwO9FekVoLfs7gqnVtscbtGayZEaSss4hPqNY%26dib_tag%3Dse%26keywords%3Dmobile%2Bsmartphones%2Bunder%2B30000%26qid%3D1770097855%26sr%3D8-17-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9tdGY%26psc%3D1#customerReviews
+                    - text: (17)
+                - generic [ref=e1519]:
+                  - link "See options" [ref=e1527] [cursor=pointer]:
+                    - /url: /sspa/click?ie=UTF8&spc=MToyOTI4MTg1OTMxOTc3OTAxOjE3NzAwOTc4NTU6c3BfbXRmOjMwMTEyODI2NjA4NjcwMjo6MDo6&url=%2FBDWJW-I25-Ultra-Smartphone-Performance%2Fdp%2FB0FPMCPHZ6%2Fref%3Dsr_1_17_so_CELLULAR_PHONE%3Fdib%3DeyJ2IjoiMSJ9.gL0LtCacLp3csW9qyDhj01-pekOMrL-SHzoBi-5ZUkFWGGjLe5IeuKL7HuXEenFdaqkXs5hbEH4GyLm8WZeDxsvj_h1bmmUOQAsYFbL3LPpma76E7mvSXYo6kH3RZr_xWhlQbjbdPBONdQEuAD-YrIxGISWGJS34KniYReMFVUG6sAIUq7-elNIGmyIgjB4KQFuAgnqQo1iD4nLYAnG-VfxEvQWrsnJLzWxABXNPgWc.XNxD-kFwO9FekVoLfs7gqnVtscbtGayZEaSss4hPqNY%26dib_tag%3Dse%26keywords%3Dmobile%2Bsmartphones%2Bunder%2B30000%26qid%3D1770097855%26sr%3D8-17-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9tdGY%26psc%3D1
+                  - group "colors available" [ref=e1529]:
+                    - list
+                    - link "+12 other colors/patterns" [ref=e1531] [cursor=pointer]:
+                      - /url: /sspa/click?ie=UTF8&spc=MToyOTI4MTg1OTMxOTc3OTAxOjE3NzAwOTc4NTU6c3BfbXRmOjMwMTEyODI2NjA4NjcwMjo6MDo6&url=%2FBDWJW-I25-Ultra-Smartphone-Performance%2Fdp%2FB0FPMCPHZ6%2Fref%3Dsr_1_17_sspa%3Fdib%3DeyJ2IjoiMSJ9.gL0LtCacLp3csW9qyDhj01-pekOMrL-SHzoBi-5ZUkFWGGjLe5IeuKL7HuXEenFdaqkXs5hbEH4GyLm8WZeDxsvj_h1bmmUOQAsYFbL3LPpma76E7mvSXYo6kH3RZr_xWhlQbjbdPBONdQEuAD-YrIxGISWGJS34KniYReMFVUG6sAIUq7-elNIGmyIgjB4KQFuAgnqQo1iD4nLYAnG-VfxEvQWrsnJLzWxABXNPgWc.XNxD-kFwO9FekVoLfs7gqnVtscbtGayZEaSss4hPqNY%26dib_tag%3Dse%26keywords%3Dmobile%2Bsmartphones%2Bunder%2B30000%26qid%3D1770097855%26sr%3D8-17-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9tdGY%26psc%3D1
+          - listitem [ref=e1534]:
+            - generic [ref=e1540]:
+              - link [ref=e1546] [cursor=pointer]:
+                - /url: /OUKITEL-C61-Unlocked-Smartphone-Fingerprint/dp/B0F4KFBBK8/ref=sr_1_18?dib=eyJ2IjoiMSJ9.gL0LtCacLp3csW9qyDhj01-pekOMrL-SHzoBi-5ZUkFWGGjLe5IeuKL7HuXEenFdaqkXs5hbEH4GyLm8WZeDxsvj_h1bmmUOQAsYFbL3LPpma76E7mvSXYo6kH3RZr_xWhlQbjbdPBONdQEuAD-YrIxGISWGJS34KniYReMFVUG6sAIUq7-elNIGmyIgjB4KQFuAgnqQo1iD4nLYAnG-VfxEvQWrsnJLzWxABXNPgWc.XNxD-kFwO9FekVoLfs7gqnVtscbtGayZEaSss4hPqNY&dib_tag=se&keywords=mobile+smartphones+under+30000&qid=1770097855&sr=8-18
+              - generic [ref=e1550]:
+                - link "OUKITEL C61 Unlocked Cell Phone 2025- Android 15, 6.88\" Display Smartphone, 16GB+128GB/1TB, 5150mAh Battery Phone, 13MP Camera, 4G Dual Sim Mobile Phones, Fingerprint/Face Unlock/GPS/BT5.0, Purple" [ref=e1552] [cursor=pointer]:
+                  - /url: /OUKITEL-C61-Unlocked-Smartphone-Fingerprint/dp/B0F4KFBBK8/ref=sr_1_18?dib=eyJ2IjoiMSJ9.gL0LtCacLp3csW9qyDhj01-pekOMrL-SHzoBi-5ZUkFWGGjLe5IeuKL7HuXEenFdaqkXs5hbEH4GyLm8WZeDxsvj_h1bmmUOQAsYFbL3LPpma76E7mvSXYo6kH3RZr_xWhlQbjbdPBONdQEuAD-YrIxGISWGJS34KniYReMFVUG6sAIUq7-elNIGmyIgjB4KQFuAgnqQo1iD4nLYAnG-VfxEvQWrsnJLzWxABXNPgWc.XNxD-kFwO9FekVoLfs7gqnVtscbtGayZEaSss4hPqNY&dib_tag=se&keywords=mobile+smartphones+under+30000&qid=1770097855&sr=8-18
+                  - heading "OUKITEL C61 Unlocked Cell Phone 2025- Android 15, 6.88\" Display Smartphone, 16GB+128GB/1TB, 5150mAh Battery Phone, 13MP Camera, 4G Dual Sim Mobile Phones, Fingerprint/Face Unlock/GPS/BT5.0, Purple" [level=2] [ref=e1553]
+                - generic [ref=e1556]:
+                  - generic [ref=e1557]: "Options:"
+                  - 'link "Options: 2 sizes" [ref=e1558] [cursor=pointer]':
+                    - /url: /OUKITEL-C61-Unlocked-Smartphone-Fingerprint/dp/B0F4KFBBK8/ref=vo_sr_l_dp?dib=eyJ2IjoiMSJ9.gL0LtCacLp3csW9qyDhj01-pekOMrL-SHzoBi-5ZUkFWGGjLe5IeuKL7HuXEenFdaqkXs5hbEH4GyLm8WZeDxsvj_h1bmmUOQAsYFbL3LPpma76E7mvSXYo6kH3RZr_xWhlQbjbdPBONdQEuAD-YrIxGISWGJS34KniYReMFVUG6sAIUq7-elNIGmyIgjB4KQFuAgnqQo1iD4nLYAnG-VfxEvQWrsnJLzWxABXNPgWc.XNxD-kFwO9FekVoLfs7gqnVtscbtGayZEaSss4hPqNY&dib_tag=se&keywords=mobile+smartphones+under+30000&qid=1770097855&sr=8-18
+                    - generic [ref=e1560]: 2 sizes
+                - generic [ref=e1562]:
+                  - text: "4.0"
+                  - button "4.0 out of 5 stars, rating details" [ref=e1564] [cursor=pointer]:
+                    - generic [ref=e1566]: 4.0 out of 5 stars
+                  - link "226 ratings" [ref=e1570] [cursor=pointer]:
+                    - /url: /OUKITEL-C61-Unlocked-Smartphone-Fingerprint/dp/B0F4KFBBK8/ref=sr_1_18?dib=eyJ2IjoiMSJ9.gL0LtCacLp3csW9qyDhj01-pekOMrL-SHzoBi-5ZUkFWGGjLe5IeuKL7HuXEenFdaqkXs5hbEH4GyLm8WZeDxsvj_h1bmmUOQAsYFbL3LPpma76E7mvSXYo6kH3RZr_xWhlQbjbdPBONdQEuAD-YrIxGISWGJS34KniYReMFVUG6sAIUq7-elNIGmyIgjB4KQFuAgnqQo1iD4nLYAnG-VfxEvQWrsnJLzWxABXNPgWc.XNxD-kFwO9FekVoLfs7gqnVtscbtGayZEaSss4hPqNY&dib_tag=se&keywords=mobile+smartphones+under+30000&qid=1770097855&sr=8-18#customerReviews
+                    - text: (226)
+                - generic [ref=e1573]:
+                  - link "See options" [ref=e1581] [cursor=pointer]:
+                    - /url: /OUKITEL-C61-Unlocked-Smartphone-Fingerprint/dp/B0F4KFBBK8/ref=sr_1_18_so_CELLULAR_PHONE?dib=eyJ2IjoiMSJ9.gL0LtCacLp3csW9qyDhj01-pekOMrL-SHzoBi-5ZUkFWGGjLe5IeuKL7HuXEenFdaqkXs5hbEH4GyLm8WZeDxsvj_h1bmmUOQAsYFbL3LPpma76E7mvSXYo6kH3RZr_xWhlQbjbdPBONdQEuAD-YrIxGISWGJS34KniYReMFVUG6sAIUq7-elNIGmyIgjB4KQFuAgnqQo1iD4nLYAnG-VfxEvQWrsnJLzWxABXNPgWc.XNxD-kFwO9FekVoLfs7gqnVtscbtGayZEaSss4hPqNY&dib_tag=se&keywords=mobile+smartphones+under+30000&qid=1770097855&sr=8-18
+                  - generic [ref=e1583]:
+                    - text: No featured offers available
+                    - text: INR 10,617.84
+                    - link "(1 new offer)" [ref=e1585] [cursor=pointer]:
+                      - /url: /gp/offer-listing/B0F4KFBBK8/ref=sr_1_18_olp?keywords=mobile+smartphones+under+30000&dib_tag=se&dib=eyJ2IjoiMSJ9.gL0LtCacLp3csW9qyDhj01-pekOMrL-SHzoBi-5ZUkFWGGjLe5IeuKL7HuXEenFdaqkXs5hbEH4GyLm8WZeDxsvj_h1bmmUOQAsYFbL3LPpma76E7mvSXYo6kH3RZr_xWhlQbjbdPBONdQEuAD-YrIxGISWGJS34KniYReMFVUG6sAIUq7-elNIGmyIgjB4KQFuAgnqQo1iD4nLYAnG-VfxEvQWrsnJLzWxABXNPgWc.XNxD-kFwO9FekVoLfs7gqnVtscbtGayZEaSss4hPqNY&qid=1770097855&sr=8-18
+                  - group "colors available" [ref=e1587]:
+                    - list [ref=e1588]:
+                      - generic [ref=e1589]:
+                        - listitem:
+                          - link "Purple":
+                            - /url: /OUKITEL-C61-Unlocked-Smartphone-Fingerprint/dp/B0F4KFBBK8/ref=cs_sr_dp_loc_1?dib=eyJ2IjoiMSJ9.gL0LtCacLp3csW9qyDhj01-pekOMrL-SHzoBi-5ZUkFWGGjLe5IeuKL7HuXEenFdaqkXs5hbEH4GyLm8WZeDxsvj_h1bmmUOQAsYFbL3LPpma76E7mvSXYo6kH3RZr_xWhlQbjbdPBONdQEuAD-YrIxGISWGJS34KniYReMFVUG6sAIUq7-elNIGmyIgjB4KQFuAgnqQo1iD4nLYAnG-VfxEvQWrsnJLzWxABXNPgWc.XNxD-kFwO9FekVoLfs7gqnVtscbtGayZEaSss4hPqNY&dib_tag=se&keywords=mobile+smartphones+under+30000&qid=1770097855&sr=8-18
+                      - generic [ref=e1592]:
+                        - listitem:
+                          - link "Black":
+                            - /url: /OUKITEL-C61-Unlocked-Smartphone-Fingerprint/dp/B0F4KC18DZ/ref=cs_sr_dp_loc_2?dib=eyJ2IjoiMSJ9.gL0LtCacLp3csW9qyDhj01-pekOMrL-SHzoBi-5ZUkFWGGjLe5IeuKL7HuXEenFdaqkXs5hbEH4GyLm8WZeDxsvj_h1bmmUOQAsYFbL3LPpma76E7mvSXYo6kH3RZr_xWhlQbjbdPBONdQEuAD-YrIxGISWGJS34KniYReMFVUG6sAIUq7-elNIGmyIgjB4KQFuAgnqQo1iD4nLYAnG-VfxEvQWrsnJLzWxABXNPgWc.XNxD-kFwO9FekVoLfs7gqnVtscbtGayZEaSss4hPqNY&dib_tag=se&keywords=mobile+smartphones+under+30000&qid=1770097855&sr=8-18
+                      - generic [ref=e1595]:
+                        - listitem:
+                          - link "Blue":
+                            - /url: /OUKITEL-C61-Unlocked-Smartphone-Fingerprint/dp/B0F4KFM57L/ref=cs_sr_dp_loc_3?dib=eyJ2IjoiMSJ9.gL0LtCacLp3csW9qyDhj01-pekOMrL-SHzoBi-5ZUkFWGGjLe5IeuKL7HuXEenFdaqkXs5hbEH4GyLm8WZeDxsvj_h1bmmUOQAsYFbL3LPpma76E7mvSXYo6kH3RZr_xWhlQbjbdPBONdQEuAD-YrIxGISWGJS34KniYReMFVUG6sAIUq7-elNIGmyIgjB4KQFuAgnqQo1iD4nLYAnG-VfxEvQWrsnJLzWxABXNPgWc.XNxD-kFwO9FekVoLfs7gqnVtscbtGayZEaSss4hPqNY&dib_tag=se&keywords=mobile+smartphones+under+30000&qid=1770097855&sr=8-18
+                      - generic [ref=e1598]:
+                        - listitem:
+                          - link "Gold":
+                            - /url: /OUKITEL-C61-Unlocked-Smartphone-Fingerprint/dp/B0F4KDLF6Z/ref=cs_sr_dp_loc_4?dib=eyJ2IjoiMSJ9.gL0LtCacLp3csW9qyDhj01-pekOMrL-SHzoBi-5ZUkFWGGjLe5IeuKL7HuXEenFdaqkXs5hbEH4GyLm8WZeDxsvj_h1bmmUOQAsYFbL3LPpma76E7mvSXYo6kH3RZr_xWhlQbjbdPBONdQEuAD-YrIxGISWGJS34KniYReMFVUG6sAIUq7-elNIGmyIgjB4KQFuAgnqQo1iD4nLYAnG-VfxEvQWrsnJLzWxABXNPgWc.XNxD-kFwO9FekVoLfs7gqnVtscbtGayZEaSss4hPqNY&dib_tag=se&keywords=mobile+smartphones+under+30000&qid=1770097855&sr=8-18
+                      - generic [ref=e1601]:
+                        - listitem:
+                          - link "Orange":
+                            - /url: /OUKITEL-C61-Unlocked-Smartphone-Fingerprint/dp/B0G7SVYG9Z/ref=cs_sr_dp_loc_5?dib=eyJ2IjoiMSJ9.gL0LtCacLp3csW9qyDhj01-pekOMrL-SHzoBi-5ZUkFWGGjLe5IeuKL7HuXEenFdaqkXs5hbEH4GyLm8WZeDxsvj_h1bmmUOQAsYFbL3LPpma76E7mvSXYo6kH3RZr_xWhlQbjbdPBONdQEuAD-YrIxGISWGJS34KniYReMFVUG6sAIUq7-elNIGmyIgjB4KQFuAgnqQo1iD4nLYAnG-VfxEvQWrsnJLzWxABXNPgWc.XNxD-kFwO9FekVoLfs7gqnVtscbtGayZEaSss4hPqNY&dib_tag=se&keywords=mobile+smartphones+under+30000&qid=1770097855&sr=8-18
+                      - generic [ref=e1604]:
+                        - listitem:
+                          - link "Silver":
+                            - /url: /OUKITEL-C61-Unlocked-Smartphone-Fingerprint/dp/B0G521PRLX/ref=cs_sr_dp_loc_6?dib=eyJ2IjoiMSJ9.gL0LtCacLp3csW9qyDhj01-pekOMrL-SHzoBi-5ZUkFWGGjLe5IeuKL7HuXEenFdaqkXs5hbEH4GyLm8WZeDxsvj_h1bmmUOQAsYFbL3LPpma76E7mvSXYo6kH3RZr_xWhlQbjbdPBONdQEuAD-YrIxGISWGJS34KniYReMFVUG6sAIUq7-elNIGmyIgjB4KQFuAgnqQo1iD4nLYAnG-VfxEvQWrsnJLzWxABXNPgWc.XNxD-kFwO9FekVoLfs7gqnVtscbtGayZEaSss4hPqNY&dib_tag=se&keywords=mobile+smartphones+under+30000&qid=1770097855&sr=8-18
+          - listitem [ref=e1609]:
+            - generic [ref=e1615]:
+              - link [ref=e1621] [cursor=pointer]:
+                - /url: /NUU-Unlocked-T-Mobile-Octa-Core-Parental/dp/B0DLGVDL2C/ref=sr_1_19?dib=eyJ2IjoiMSJ9.gL0LtCacLp3csW9qyDhj01-pekOMrL-SHzoBi-5ZUkFWGGjLe5IeuKL7HuXEenFdaqkXs5hbEH4GyLm8WZeDxsvj_h1bmmUOQAsYFbL3LPpma76E7mvSXYo6kH3RZr_xWhlQbjbdPBONdQEuAD-YrIxGISWGJS34KniYReMFVUG6sAIUq7-elNIGmyIgjB4KQFuAgnqQo1iD4nLYAnG-VfxEvQWrsnJLzWxABXNPgWc.XNxD-kFwO9FekVoLfs7gqnVtscbtGayZEaSss4hPqNY&dib_tag=se&keywords=mobile+smartphones+under+30000&qid=1770097855&sr=8-19
+              - generic [ref=e1625]:
+                - link "NUU N30 Cell Phone Unlocked for T-Mobile, Mint, Metro, Qlink, Tello 6GB/128GB, Teen Phone, Dual SIM 4G, Octa-Core 6.7\" 90Hz HD+, Any Parental APP, Unlocked Android Phones, Purple, 1 Year US Warranty" [ref=e1627] [cursor=pointer]:
+                  - /url: /NUU-Unlocked-T-Mobile-Octa-Core-Parental/dp/B0DLGVDL2C/ref=sr_1_19?dib=eyJ2IjoiMSJ9.gL0LtCacLp3csW9qyDhj01-pekOMrL-SHzoBi-5ZUkFWGGjLe5IeuKL7HuXEenFdaqkXs5hbEH4GyLm8WZeDxsvj_h1bmmUOQAsYFbL3LPpma76E7mvSXYo6kH3RZr_xWhlQbjbdPBONdQEuAD-YrIxGISWGJS34KniYReMFVUG6sAIUq7-elNIGmyIgjB4KQFuAgnqQo1iD4nLYAnG-VfxEvQWrsnJLzWxABXNPgWc.XNxD-kFwO9FekVoLfs7gqnVtscbtGayZEaSss4hPqNY&dib_tag=se&keywords=mobile+smartphones+under+30000&qid=1770097855&sr=8-19
+                  - heading "NUU N30 Cell Phone Unlocked for T-Mobile, Mint, Metro, Qlink, Tello 6GB/128GB, Teen Phone, Dual SIM 4G, Octa-Core 6.7\" 90Hz HD+, Any Parental APP, Unlocked Android Phones, Purple, 1 Year US Warranty" [level=2] [ref=e1628]
+                - generic [ref=e1629]:
+                  - generic [ref=e1630]:
+                    - text: "4.3"
+                    - button "4.3 out of 5 stars, rating details" [ref=e1632] [cursor=pointer]:
+                      - generic [ref=e1634]: 4.3 out of 5 stars
+                    - link "213 ratings" [ref=e1638] [cursor=pointer]:
+                      - /url: /NUU-Unlocked-T-Mobile-Octa-Core-Parental/dp/B0DLGVDL2C/ref=sr_1_19?dib=eyJ2IjoiMSJ9.gL0LtCacLp3csW9qyDhj01-pekOMrL-SHzoBi-5ZUkFWGGjLe5IeuKL7HuXEenFdaqkXs5hbEH4GyLm8WZeDxsvj_h1bmmUOQAsYFbL3LPpma76E7mvSXYo6kH3RZr_xWhlQbjbdPBONdQEuAD-YrIxGISWGJS34KniYReMFVUG6sAIUq7-elNIGmyIgjB4KQFuAgnqQo1iD4nLYAnG-VfxEvQWrsnJLzWxABXNPgWc.XNxD-kFwO9FekVoLfs7gqnVtscbtGayZEaSss4hPqNY&dib_tag=se&keywords=mobile+smartphones+under+30000&qid=1770097855&sr=8-19#customerReviews
+                      - text: (213)
+                  - generic [ref=e1639]: 100+ bought in past month
+                - generic [ref=e1642]:
+                  - link "See options" [ref=e1650] [cursor=pointer]:
+                    - /url: /NUU-Unlocked-T-Mobile-Octa-Core-Parental/dp/B0DLGVDL2C/ref=sr_1_19_so_CELLULAR_PHONE?dib=eyJ2IjoiMSJ9.gL0LtCacLp3csW9qyDhj01-pekOMrL-SHzoBi-5ZUkFWGGjLe5IeuKL7HuXEenFdaqkXs5hbEH4GyLm8WZeDxsvj_h1bmmUOQAsYFbL3LPpma76E7mvSXYo6kH3RZr_xWhlQbjbdPBONdQEuAD-YrIxGISWGJS34KniYReMFVUG6sAIUq7-elNIGmyIgjB4KQFuAgnqQo1iD4nLYAnG-VfxEvQWrsnJLzWxABXNPgWc.XNxD-kFwO9FekVoLfs7gqnVtscbtGayZEaSss4hPqNY&dib_tag=se&keywords=mobile+smartphones+under+30000&qid=1770097855&sr=8-19
+                  - generic [ref=e1652]:
+                    - text: No featured offers available
+                    - text: INR 9,153.18
+                    - link "(1 new offer)" [ref=e1654] [cursor=pointer]:
+                      - /url: /gp/offer-listing/B0DLGVDL2C/ref=sr_1_19_olp?keywords=mobile+smartphones+under+30000&dib_tag=se&dib=eyJ2IjoiMSJ9.gL0LtCacLp3csW9qyDhj01-pekOMrL-SHzoBi-5ZUkFWGGjLe5IeuKL7HuXEenFdaqkXs5hbEH4GyLm8WZeDxsvj_h1bmmUOQAsYFbL3LPpma76E7mvSXYo6kH3RZr_xWhlQbjbdPBONdQEuAD-YrIxGISWGJS34KniYReMFVUG6sAIUq7-elNIGmyIgjB4KQFuAgnqQo1iD4nLYAnG-VfxEvQWrsnJLzWxABXNPgWc.XNxD-kFwO9FekVoLfs7gqnVtscbtGayZEaSss4hPqNY&qid=1770097855&sr=8-19
+          - listitem [ref=e1657]:
+            - generic [ref=e1663]:
+              - link [ref=e1669] [cursor=pointer]:
+                - /url: /NUU-Basic-Phone-Wide-Angle-Camera/dp/B0DLGKWNMR/ref=sr_1_20?dib=eyJ2IjoiMSJ9.gL0LtCacLp3csW9qyDhj01-pekOMrL-SHzoBi-5ZUkFWGGjLe5IeuKL7HuXEenFdaqkXs5hbEH4GyLm8WZeDxsvj_h1bmmUOQAsYFbL3LPpma76E7mvSXYo6kH3RZr_xWhlQbjbdPBONdQEuAD-YrIxGISWGJS34KniYReMFVUG6sAIUq7-elNIGmyIgjB4KQFuAgnqQo1iD4nLYAnG-VfxEvQWrsnJLzWxABXNPgWc.XNxD-kFwO9FekVoLfs7gqnVtscbtGayZEaSss4hPqNY&dib_tag=se&keywords=mobile+smartphones+under+30000&qid=1770097855&sr=8-20
+              - generic [ref=e1673]:
+                - link "NUU N20 Basic Cell Phone, Wide-Angle Camera, 6GB + (6GB Extended RAM), 128GB Storage, 6.6\" 90Hz HD+ Display, Dual SIM 4G, Octa-Core, Android 15, Unlocked,1 Year US Warranty (Green)" [ref=e1675] [cursor=pointer]:
+                  - /url: /NUU-Basic-Phone-Wide-Angle-Camera/dp/B0DLGKWNMR/ref=sr_1_20?dib=eyJ2IjoiMSJ9.gL0LtCacLp3csW9qyDhj01-pekOMrL-SHzoBi-5ZUkFWGGjLe5IeuKL7HuXEenFdaqkXs5hbEH4GyLm8WZeDxsvj_h1bmmUOQAsYFbL3LPpma76E7mvSXYo6kH3RZr_xWhlQbjbdPBONdQEuAD-YrIxGISWGJS34KniYReMFVUG6sAIUq7-elNIGmyIgjB4KQFuAgnqQo1iD4nLYAnG-VfxEvQWrsnJLzWxABXNPgWc.XNxD-kFwO9FekVoLfs7gqnVtscbtGayZEaSss4hPqNY&dib_tag=se&keywords=mobile+smartphones+under+30000&qid=1770097855&sr=8-20
+                  - heading "NUU N20 Basic Cell Phone, Wide-Angle Camera, 6GB + (6GB Extended RAM), 128GB Storage, 6.6\" 90Hz HD+ Display, Dual SIM 4G, Octa-Core, Android 15, Unlocked,1 Year US Warranty (Green)" [level=2] [ref=e1676]
+                - generic [ref=e1677]:
+                  - generic [ref=e1678]:
+                    - text: "4.1"
+                    - button "4.1 out of 5 stars, rating details" [ref=e1680] [cursor=pointer]:
+                      - generic [ref=e1682]: 4.1 out of 5 stars
+                    - link "189 ratings" [ref=e1686] [cursor=pointer]:
+                      - /url: /NUU-Basic-Phone-Wide-Angle-Camera/dp/B0DLGKWNMR/ref=sr_1_20?dib=eyJ2IjoiMSJ9.gL0LtCacLp3csW9qyDhj01-pekOMrL-SHzoBi-5ZUkFWGGjLe5IeuKL7HuXEenFdaqkXs5hbEH4GyLm8WZeDxsvj_h1bmmUOQAsYFbL3LPpma76E7mvSXYo6kH3RZr_xWhlQbjbdPBONdQEuAD-YrIxGISWGJS34KniYReMFVUG6sAIUq7-elNIGmyIgjB4KQFuAgnqQo1iD4nLYAnG-VfxEvQWrsnJLzWxABXNPgWc.XNxD-kFwO9FekVoLfs7gqnVtscbtGayZEaSss4hPqNY&dib_tag=se&keywords=mobile+smartphones+under+30000&qid=1770097855&sr=8-20#customerReviews
+                      - text: (189)
+                  - generic [ref=e1687]: 100+ bought in past month
+                - generic [ref=e1690]:
+                  - link "See options" [ref=e1698] [cursor=pointer]:
+                    - /url: /NUU-Basic-Phone-Wide-Angle-Camera/dp/B0DLGKWNMR/ref=sr_1_20_so_CELLULAR_PHONE?dib=eyJ2IjoiMSJ9.gL0LtCacLp3csW9qyDhj01-pekOMrL-SHzoBi-5ZUkFWGGjLe5IeuKL7HuXEenFdaqkXs5hbEH4GyLm8WZeDxsvj_h1bmmUOQAsYFbL3LPpma76E7mvSXYo6kH3RZr_xWhlQbjbdPBONdQEuAD-YrIxGISWGJS34KniYReMFVUG6sAIUq7-elNIGmyIgjB4KQFuAgnqQo1iD4nLYAnG-VfxEvQWrsnJLzWxABXNPgWc.XNxD-kFwO9FekVoLfs7gqnVtscbtGayZEaSss4hPqNY&dib_tag=se&keywords=mobile+smartphones+under+30000&qid=1770097855&sr=8-20
+                  - generic [ref=e1700]:
+                    - text: No featured offers available
+                    - text: INR 7,322.36
+                    - link "(1 new offer)" [ref=e1702] [cursor=pointer]:
+                      - /url: /gp/offer-listing/B0DLGKWNMR/ref=sr_1_20_olp?keywords=mobile+smartphones+under+30000&dib_tag=se&dib=eyJ2IjoiMSJ9.gL0LtCacLp3csW9qyDhj01-pekOMrL-SHzoBi-5ZUkFWGGjLe5IeuKL7HuXEenFdaqkXs5hbEH4GyLm8WZeDxsvj_h1bmmUOQAsYFbL3LPpma76E7mvSXYo6kH3RZr_xWhlQbjbdPBONdQEuAD-YrIxGISWGJS34KniYReMFVUG6sAIUq7-elNIGmyIgjB4KQFuAgnqQo1iD4nLYAnG-VfxEvQWrsnJLzWxABXNPgWc.XNxD-kFwO9FekVoLfs7gqnVtscbtGayZEaSss4hPqNY&qid=1770097855&sr=8-20
+                  - group "colors available" [ref=e1704]:
+                    - list [ref=e1705]:
+                      - generic [ref=e1706]:
+                        - listitem:
+                          - link "Green":
+                            - /url: /NUU-Basic-Phone-Wide-Angle-Camera/dp/B0DLGKWNMR/ref=cs_sr_dp_loc_1?dib=eyJ2IjoiMSJ9.gL0LtCacLp3csW9qyDhj01-pekOMrL-SHzoBi-5ZUkFWGGjLe5IeuKL7HuXEenFdaqkXs5hbEH4GyLm8WZeDxsvj_h1bmmUOQAsYFbL3LPpma76E7mvSXYo6kH3RZr_xWhlQbjbdPBONdQEuAD-YrIxGISWGJS34KniYReMFVUG6sAIUq7-elNIGmyIgjB4KQFuAgnqQo1iD4nLYAnG-VfxEvQWrsnJLzWxABXNPgWc.XNxD-kFwO9FekVoLfs7gqnVtscbtGayZEaSss4hPqNY&dib_tag=se&keywords=mobile+smartphones+under+30000&qid=1770097855&sr=8-20
+                      - generic [ref=e1709]:
+                        - listitem:
+                          - link "Blue":
+                            - /url: /NUU-Basic-Phone-Wide-Angle-Camera/dp/B0DLG4WKKG/ref=cs_sr_dp_loc_2?dib=eyJ2IjoiMSJ9.gL0LtCacLp3csW9qyDhj01-pekOMrL-SHzoBi-5ZUkFWGGjLe5IeuKL7HuXEenFdaqkXs5hbEH4GyLm8WZeDxsvj_h1bmmUOQAsYFbL3LPpma76E7mvSXYo6kH3RZr_xWhlQbjbdPBONdQEuAD-YrIxGISWGJS34KniYReMFVUG6sAIUq7-elNIGmyIgjB4KQFuAgnqQo1iD4nLYAnG-VfxEvQWrsnJLzWxABXNPgWc.XNxD-kFwO9FekVoLfs7gqnVtscbtGayZEaSss4hPqNY&dib_tag=se&keywords=mobile+smartphones+under+30000&qid=1770097855&sr=8-20
+                      - generic [ref=e1712]:
+                        - listitem:
+                          - link "Pink":
+                            - /url: /NUU-Basic-Phone-Wide-Angle-Camera/dp/B0DLG5C7SD/ref=cs_sr_dp_loc_3?dib=eyJ2IjoiMSJ9.gL0LtCacLp3csW9qyDhj01-pekOMrL-SHzoBi-5ZUkFWGGjLe5IeuKL7HuXEenFdaqkXs5hbEH4GyLm8WZeDxsvj_h1bmmUOQAsYFbL3LPpma76E7mvSXYo6kH3RZr_xWhlQbjbdPBONdQEuAD-YrIxGISWGJS34KniYReMFVUG6sAIUq7-elNIGmyIgjB4KQFuAgnqQo1iD4nLYAnG-VfxEvQWrsnJLzWxABXNPgWc.XNxD-kFwO9FekVoLfs7gqnVtscbtGayZEaSss4hPqNY&dib_tag=se&keywords=mobile+smartphones+under+30000&qid=1770097855&sr=8-20
+                      - generic [ref=e1715]:
+                        - listitem:
+                          - link "Purple":
+                            - /url: /NUU-Basic-Phone-Wide-Angle-Camera/dp/B0DLGHZ3YN/ref=cs_sr_dp_loc_4?dib=eyJ2IjoiMSJ9.gL0LtCacLp3csW9qyDhj01-pekOMrL-SHzoBi-5ZUkFWGGjLe5IeuKL7HuXEenFdaqkXs5hbEH4GyLm8WZeDxsvj_h1bmmUOQAsYFbL3LPpma76E7mvSXYo6kH3RZr_xWhlQbjbdPBONdQEuAD-YrIxGISWGJS34KniYReMFVUG6sAIUq7-elNIGmyIgjB4KQFuAgnqQo1iD4nLYAnG-VfxEvQWrsnJLzWxABXNPgWc.XNxD-kFwO9FekVoLfs7gqnVtscbtGayZEaSss4hPqNY&dib_tag=se&keywords=mobile+smartphones+under+30000&qid=1770097855&sr=8-20
+          - listitem [ref=e1720]:
+            - generic [ref=e1726]:
+              - link [ref=e1732] [cursor=pointer]:
+                - /url: /Smartphone-Unlocked-Processor-ProScaler-Manufacturer/dp/B0DP3DFXXM/ref=sr_1_21?dib=eyJ2IjoiMSJ9.gL0LtCacLp3csW9qyDhj01-pekOMrL-SHzoBi-5ZUkFWGGjLe5IeuKL7HuXEenFdaqkXs5hbEH4GyLm8WZeDxsvj_h1bmmUOQAsYFbL3LPpma76E7mvSXYo6kH3RZr_xWhlQbjbdPBONdQEuAD-YrIxGISWGJS34KniYReMFVUG6sAIUq7-elNIGmyIgjB4KQFuAgnqQo1iD4nLYAnG-VfxEvQWrsnJLzWxABXNPgWc.XNxD-kFwO9FekVoLfs7gqnVtscbtGayZEaSss4hPqNY&dib_tag=se&keywords=mobile+smartphones+under+30000&qid=1770097855&sr=8-21
+              - generic [ref=e1736]:
+                - link "Samsung Galaxy S25 Cell Phone, 256GB Smartphone, Unlocked Android, AI Night Mode Camera, Snapdragon 8 Elite Fast Processor, ProScaler Display, 4000mAh Battery, 2025, US 1 Yr Warranty, Mint" [ref=e1738] [cursor=pointer]:
+                  - /url: /Smartphone-Unlocked-Processor-ProScaler-Manufacturer/dp/B0DP3DFXXM/ref=sr_1_21?dib=eyJ2IjoiMSJ9.gL0LtCacLp3csW9qyDhj01-pekOMrL-SHzoBi-5ZUkFWGGjLe5IeuKL7HuXEenFdaqkXs5hbEH4GyLm8WZeDxsvj_h1bmmUOQAsYFbL3LPpma76E7mvSXYo6kH3RZr_xWhlQbjbdPBONdQEuAD-YrIxGISWGJS34KniYReMFVUG6sAIUq7-elNIGmyIgjB4KQFuAgnqQo1iD4nLYAnG-VfxEvQWrsnJLzWxABXNPgWc.XNxD-kFwO9FekVoLfs7gqnVtscbtGayZEaSss4hPqNY&dib_tag=se&keywords=mobile+smartphones+under+30000&qid=1770097855&sr=8-21
+                  - heading "Samsung Galaxy S25 Cell Phone, 256GB Smartphone, Unlocked Android, AI Night Mode Camera, Snapdragon 8 Elite Fast Processor, ProScaler Display, 4000mAh Battery, 2025, US 1 Yr Warranty, Mint" [level=2] [ref=e1739]
+                - generic [ref=e1742]:
+                  - generic [ref=e1743]: "Options:"
+                  - 'link "Options: 3 sizes" [ref=e1744] [cursor=pointer]':
+                    - /url: /Smartphone-Unlocked-Processor-ProScaler-Manufacturer/dp/B0DP3DFXXM/ref=vo_sr_l_dp?dib=eyJ2IjoiMSJ9.gL0LtCacLp3csW9qyDhj01-pekOMrL-SHzoBi-5ZUkFWGGjLe5IeuKL7HuXEenFdaqkXs5hbEH4GyLm8WZeDxsvj_h1bmmUOQAsYFbL3LPpma76E7mvSXYo6kH3RZr_xWhlQbjbdPBONdQEuAD-YrIxGISWGJS34KniYReMFVUG6sAIUq7-elNIGmyIgjB4KQFuAgnqQo1iD4nLYAnG-VfxEvQWrsnJLzWxABXNPgWc.XNxD-kFwO9FekVoLfs7gqnVtscbtGayZEaSss4hPqNY&dib_tag=se&keywords=mobile+smartphones+under+30000&qid=1770097855&sr=8-21
+                    - generic [ref=e1746]: 3 sizes
+                - generic [ref=e1747]:
+                  - generic [ref=e1750]: Top Reviewed for Functionality
+                  - generic [ref=e1751]:
+                    - text: "4.6"
+                    - button "4.6 out of 5 stars, rating details" [ref=e1753] [cursor=pointer]:
+                      - generic [ref=e1755]: 4.6 out of 5 stars
+                    - link "4,614 ratings" [ref=e1759] [cursor=pointer]:
+                      - /url: /Smartphone-Unlocked-Processor-ProScaler-Manufacturer/dp/B0DP3DFXXM/ref=sr_1_21?dib=eyJ2IjoiMSJ9.gL0LtCacLp3csW9qyDhj01-pekOMrL-SHzoBi-5ZUkFWGGjLe5IeuKL7HuXEenFdaqkXs5hbEH4GyLm8WZeDxsvj_h1bmmUOQAsYFbL3LPpma76E7mvSXYo6kH3RZr_xWhlQbjbdPBONdQEuAD-YrIxGISWGJS34KniYReMFVUG6sAIUq7-elNIGmyIgjB4KQFuAgnqQo1iD4nLYAnG-VfxEvQWrsnJLzWxABXNPgWc.XNxD-kFwO9FekVoLfs7gqnVtscbtGayZEaSss4hPqNY&dib_tag=se&keywords=mobile+smartphones+under+30000&qid=1770097855&sr=8-21#customerReviews
+                      - text: (4.6K)
+                  - generic [ref=e1760]: 100+ bought in past month
+                - generic [ref=e1763]:
+                  - generic "Currently unavailable." [ref=e1767]
+                  - button "Energy efficiency +2 more" [ref=e1774] [cursor=pointer]:
+                    - generic [ref=e1775]: Energy efficiency +2 more
+                  - link "See options" [ref=e1782] [cursor=pointer]:
+                    - /url: /Smartphone-Unlocked-Processor-ProScaler-Manufacturer/dp/B0DP3DFXXM/ref=sr_1_21_so_CELLULAR_PHONE?dib=eyJ2IjoiMSJ9.gL0LtCacLp3csW9qyDhj01-pekOMrL-SHzoBi-5ZUkFWGGjLe5IeuKL7HuXEenFdaqkXs5hbEH4GyLm8WZeDxsvj_h1bmmUOQAsYFbL3LPpma76E7mvSXYo6kH3RZr_xWhlQbjbdPBONdQEuAD-YrIxGISWGJS34KniYReMFVUG6sAIUq7-elNIGmyIgjB4KQFuAgnqQo1iD4nLYAnG-VfxEvQWrsnJLzWxABXNPgWc.XNxD-kFwO9FekVoLfs7gqnVtscbtGayZEaSss4hPqNY&dib_tag=se&keywords=mobile+smartphones+under+30000&qid=1770097855&sr=8-21
+                  - group "colors available" [ref=e1784]:
+                    - list
+                    - link "+9 other colors/patterns" [ref=e1786] [cursor=pointer]:
+                      - /url: /Smartphone-Unlocked-Processor-ProScaler-Manufacturer/dp/B0DP3DFXXM/ref=cs_sr_dp_loc?dib=eyJ2IjoiMSJ9.gL0LtCacLp3csW9qyDhj01-pekOMrL-SHzoBi-5ZUkFWGGjLe5IeuKL7HuXEenFdaqkXs5hbEH4GyLm8WZeDxsvj_h1bmmUOQAsYFbL3LPpma76E7mvSXYo6kH3RZr_xWhlQbjbdPBONdQEuAD-YrIxGISWGJS34KniYReMFVUG6sAIUq7-elNIGmyIgjB4KQFuAgnqQo1iD4nLYAnG-VfxEvQWrsnJLzWxABXNPgWc.XNxD-kFwO9FekVoLfs7gqnVtscbtGayZEaSss4hPqNY&dib_tag=se&keywords=mobile+smartphones+under+30000&qid=1770097855&sr=8-21
+          - listitem [ref=e1789]:
+            - generic [ref=e1797]:
+              - link [ref=e1803] [cursor=pointer]:
+                - /url: /sspa/click?ie=UTF8&spc=MToyOTI4MTg1OTMxOTc3OTAxOjE3NzAwOTc4NTU6c3BfYnRmOjMwMDg1NjAxOTM4OTYwMjo6MDo6&url=%2FUIOUOR-I25-Ultra-Built-Performance%2Fdp%2FB0G2YMHKRZ%2Fref%3Dsr_1_22_sspa%3Fdib%3DeyJ2IjoiMSJ9.gL0LtCacLp3csW9qyDhj01-pekOMrL-SHzoBi-5ZUkFWGGjLe5IeuKL7HuXEenFdaqkXs5hbEH4GyLm8WZeDxsvj_h1bmmUOQAsYFbL3LPpma76E7mvSXYo6kH3RZr_xWhlQbjbdPBONdQEuAD-YrIxGISWGJS34KniYReMFVUG6sAIUq7-elNIGmyIgjB4KQFuAgnqQo1iD4nLYAnG-VfxEvQWrsnJLzWxABXNPgWc.XNxD-kFwO9FekVoLfs7gqnVtscbtGayZEaSss4hPqNY%26dib_tag%3Dse%26keywords%3Dmobile%2Bsmartphones%2Bunder%2B30000%26qid%3D1770097855%26sr%3D8-22-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9idGY%26psc%3D1
+              - generic [ref=e1807]:
+                - generic [ref=e1808]:
+                  - button "View Sponsored information or leave ad feedback" [ref=e1811] [cursor=pointer]:
+                    - generic [ref=e1812]: Sponsored
+                  - 'link "Sponsored Ad - I25 Ultra: 6.99\" FHD+ Android 14 Smartphone | 12GB+512GB | 108MP+68MP Camera | 7000mAh Battery | Built-in Stylus Pen | Blazing Fast Performance (Rose)" [ref=e1814] [cursor=pointer]':
+                    - /url: /sspa/click?ie=UTF8&spc=MToyOTI4MTg1OTMxOTc3OTAxOjE3NzAwOTc4NTU6c3BfYnRmOjMwMDg1NjAxOTM4OTYwMjo6MDo6&url=%2FUIOUOR-I25-Ultra-Built-Performance%2Fdp%2FB0G2YMHKRZ%2Fref%3Dsr_1_22_sspa%3Fdib%3DeyJ2IjoiMSJ9.gL0LtCacLp3csW9qyDhj01-pekOMrL-SHzoBi-5ZUkFWGGjLe5IeuKL7HuXEenFdaqkXs5hbEH4GyLm8WZeDxsvj_h1bmmUOQAsYFbL3LPpma76E7mvSXYo6kH3RZr_xWhlQbjbdPBONdQEuAD-YrIxGISWGJS34KniYReMFVUG6sAIUq7-elNIGmyIgjB4KQFuAgnqQo1iD4nLYAnG-VfxEvQWrsnJLzWxABXNPgWc.XNxD-kFwO9FekVoLfs7gqnVtscbtGayZEaSss4hPqNY%26dib_tag%3Dse%26keywords%3Dmobile%2Bsmartphones%2Bunder%2B30000%26qid%3D1770097855%26sr%3D8-22-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9idGY%26psc%3D1
+                    - 'heading "Sponsored Ad - I25 Ultra: 6.99\" FHD+ Android 14 Smartphone | 12GB+512GB | 108MP+68MP Camera | 7000mAh Battery | Built-in Stylus Pen | Blazing Fast Performance (Rose)" [level=2] [ref=e1815]': "I25 Ultra: 6.99\" FHD+ Android 14 Smartphone | 12GB+512GB | 108MP+68MP Camera | 7000mAh Battery | Built-in Stylus Pen | Blazing Fast Performance (Rose)"
+                - generic [ref=e1816]:
+                  - generic [ref=e1817]:
+                    - text: "4.0"
+                    - button "4.0 out of 5 stars, rating details" [ref=e1819] [cursor=pointer]:
+                      - generic [ref=e1821]: 4.0 out of 5 stars
+                    - link "10 ratings" [ref=e1825] [cursor=pointer]:
+                      - /url: /sspa/click?ie=UTF8&spc=MToyOTI4MTg1OTMxOTc3OTAxOjE3NzAwOTc4NTU6c3BfYnRmOjMwMDg1NjAxOTM4OTYwMjo6MDo6&url=%2FUIOUOR-I25-Ultra-Built-Performance%2Fdp%2FB0G2YMHKRZ%2Fref%3Dsr_1_22_sspa%3Fdib%3DeyJ2IjoiMSJ9.gL0LtCacLp3csW9qyDhj01-pekOMrL-SHzoBi-5ZUkFWGGjLe5IeuKL7HuXEenFdaqkXs5hbEH4GyLm8WZeDxsvj_h1bmmUOQAsYFbL3LPpma76E7mvSXYo6kH3RZr_xWhlQbjbdPBONdQEuAD-YrIxGISWGJS34KniYReMFVUG6sAIUq7-elNIGmyIgjB4KQFuAgnqQo1iD4nLYAnG-VfxEvQWrsnJLzWxABXNPgWc.XNxD-kFwO9FekVoLfs7gqnVtscbtGayZEaSss4hPqNY%26dib_tag%3Dse%26keywords%3Dmobile%2Bsmartphones%2Bunder%2B30000%26qid%3D1770097855%26sr%3D8-22-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9idGY%26psc%3D1#customerReviews
+                      - text: (10)
+                  - generic [ref=e1826]: New on Amazon in past month
+                - generic [ref=e1829]:
+                  - link "See options" [ref=e1837] [cursor=pointer]:
+                    - /url: /sspa/click?ie=UTF8&spc=MToyOTI4MTg1OTMxOTc3OTAxOjE3NzAwOTc4NTU6c3BfYnRmOjMwMDg1NjAxOTM4OTYwMjo6MDo6&url=%2FUIOUOR-I25-Ultra-Built-Performance%2Fdp%2FB0G2YMHKRZ%2Fref%3Dsr_1_22_so_CELLULAR_PHONE%3Fdib%3DeyJ2IjoiMSJ9.gL0LtCacLp3csW9qyDhj01-pekOMrL-SHzoBi-5ZUkFWGGjLe5IeuKL7HuXEenFdaqkXs5hbEH4GyLm8WZeDxsvj_h1bmmUOQAsYFbL3LPpma76E7mvSXYo6kH3RZr_xWhlQbjbdPBONdQEuAD-YrIxGISWGJS34KniYReMFVUG6sAIUq7-elNIGmyIgjB4KQFuAgnqQo1iD4nLYAnG-VfxEvQWrsnJLzWxABXNPgWc.XNxD-kFwO9FekVoLfs7gqnVtscbtGayZEaSss4hPqNY%26dib_tag%3Dse%26keywords%3Dmobile%2Bsmartphones%2Bunder%2B30000%26qid%3D1770097855%26sr%3D8-22-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9idGY%26psc%3D1
+                  - group "colors available" [ref=e1839]:
+                    - list
+                    - link "+12 other colors/patterns" [ref=e1841] [cursor=pointer]:
+                      - /url: /sspa/click?ie=UTF8&spc=MToyOTI4MTg1OTMxOTc3OTAxOjE3NzAwOTc4NTU6c3BfYnRmOjMwMDg1NjAxOTM4OTYwMjo6MDo6&url=%2FUIOUOR-I25-Ultra-Built-Performance%2Fdp%2FB0G2YMHKRZ%2Fref%3Dsr_1_22_sspa%3Fdib%3DeyJ2IjoiMSJ9.gL0LtCacLp3csW9qyDhj01-pekOMrL-SHzoBi-5ZUkFWGGjLe5IeuKL7HuXEenFdaqkXs5hbEH4GyLm8WZeDxsvj_h1bmmUOQAsYFbL3LPpma76E7mvSXYo6kH3RZr_xWhlQbjbdPBONdQEuAD-YrIxGISWGJS34KniYReMFVUG6sAIUq7-elNIGmyIgjB4KQFuAgnqQo1iD4nLYAnG-VfxEvQWrsnJLzWxABXNPgWc.XNxD-kFwO9FekVoLfs7gqnVtscbtGayZEaSss4hPqNY%26dib_tag%3Dse%26keywords%3Dmobile%2Bsmartphones%2Bunder%2B30000%26qid%3D1770097855%26sr%3D8-22-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9idGY%26psc%3D1
+          - generic [ref=e1851]:
+            - link "Sponsored video, click to navigate to featured product page." [ref=e1855] [cursor=pointer]:
+              - /url: https://aax-us-east-retail-direct.amazon.com/x/c/JDinOKcT7hnUfkoB-x70TssAAAGcIg3NlAEAAAH2AQBvbm9fdHhuX2JpZDYgICBvbm9fdHhuX2ltcDEgICCi5JC2/clv1c_ek-YBfv3VcbW3jI2m8Vz-l3hjIM5b0WlHQ8Xsvq2yr3reBPYP1_wVaI_6zk07GnuN0DsFhcbSNsSdZ-08mBLiA-x8fkKqojxbArE7_di7Yo-qJdmEJNPk_yY4PNS0mpDp2-H_rZqKGqkWUimBvWR0cHPYFyZhG3KuGwQLjcpxp4zgVtPNtP03-rLD36iNBrshM0z3q4Oh-cplWM2M07U3jkJCUZ7EFoz1DqfGnrtHskeesveB6XR3Z_UWqgs5gl6rmFH_vDU2rrUwjbzhCjyzZeRDaRzs_7CZoKnziHXYmKZEuE7S0uanT7vhZTBlBdW_tpVsPRNbpioyJ388Tg6Awv-brIbWWtE1Stp5R6M-qjkJS-cGuaRP6Ep74WPuNThojPvZeorhw7Yrve54wr6FyMF9hjGkMnobvOyWkDELnbS3t_1mapRdI4Kc81O4WVJMpSI6sk1tiHqDgxTsNE8Xigr31aVYy6cs2Rt_CGv_kFOXF0jswMdWss7db4v_y4R-tYFB0Mz_NmLJ3QhYVIsdkeBMzRhuprjaYisckP7suuvb4PDjfSGBhWJcj1-BRkjO-NUBV9eb4l2IYt-d6t3DwCqDCPP4QmUiS0G6RwkER3lSFzObyxGqYZN5Q0ffycbwBMjB4szmgdUCFhHtDYQGCg6_dhC0DfQ0_PqjvK1kQ6YTxWaidss1FGM6V8If4Qv-_6JBHzoF1R9L69syC1wE2rHj4Lf2JA82cjDRZElYck6-lXU0jBDCrKSDSdeya6jw2GMGQIcgxLGXUfdpHWPcy_rf_06-iBKgX5eolnLEbx9nEHZwGliRX1mangFxNYbW2Es7SbaLx04ptCkvjRczcehDoKXmnEyh200h2PAskCBu7yqQe04TRgq7SG2VuLClXlUl5U4itZnMPa33qLhfsQ0E8T3TEtGWhOi433tNgmcNwjvzUCiknLhb2auwO1x-VbALUKjRJTVrg8MAmQxIYPAfNxtgFiJv_5plsmAXF4v58dBy_8VS0bTLTNsG9PZ4SqpROV_t_1ttjlvuA4fU4NPoF4iTsO8dJJpPe3ngMmSE2UBUcnimiyicIsZH9psALI0lIbN3pfoZvHTOAXB_Sx-M1XVfdpc9GuCwdp101ts3SOhQpwCyNvKSMA1vEY9pAGTvVnmFnZV6ReAadY7w7l1ZHMnlXJxCnU3bD7gC7ts5lpUWd0LuNj32oj01jkmYoNKGp5K112mXHekKS0jLNTxDlU8IBY_rSmkiSlKkvbVRcLGONjsWLFfUgkNSiymDYjf6C6BEDwGJ1vmlUpSOodEMZysFT4wLj_-QXj5BR_0xZKGgnKsQiLqruHIvlfTQsiZsvXM6dyovxDkXYBysjd36L8Z_R3WV6IJqXRnXfFortfbHohvODtoIWCo1OP8iwZUeqN2PbHyzbTlH0f4pOUMFEaS-emyVVY_Xs71rgf2TdBmSJDp24kKPokzpEDatvjj95DbIRaa2rIG44TKBVOEEDdpX9T-kp4a5cCWamhervfmpVCPbuXI0shSHg55UAePQVxWZVZm4bLKpUyokItt1LtTSfLPYfmoHCu51kyksGUOtclGWifn/https://www.amazon.com/dp/B07GWZ5TDN?pd_rd_i=B07GWZ5TDN&pf_rd_p=37132d36-da68-4ed0-8d23-842f0825e4d6&pf_rd_r=7KFTJS94KY2TE5D8BP5A&pd_rd_wg=pksWg&pd_rd_w=X9xIG&pd_rd_r=021449f0-a980-4898-825c-c2a4c21fafec
+              - generic "Sponsored video, click to navigate to featured product page." [ref=e1856]
+            - generic [ref=e1864]:
+              - link [ref=e1870] [cursor=pointer]:
+                - /url: https://aax-us-east-retail-direct.amazon.com/x/c/JDinOKcT7hnUfkoB-x70TssAAAGcIg3NlAEAAAH2AQBvbm9fdHhuX2JpZDYgICBvbm9fdHhuX2ltcDEgICCi5JC2/clv1c_ek-YBfv3VcbW3jI2m8Vz-l3hjIM5b0WlHQ8Xsvq2yr3reBPYP1_wVaI_6zk07GnuN0DsFhcbSNsSdZ-08mBLiA-x8fkKqojxbArE7_di7Yo-qJdmEJNPk_yY4PNS0mpDp2-H_rZqKGqkWUimBvWR0cHPYFyZhG3KuGwQLjcpxp4zgVtPNtP03-rLD36iNBrshM0z3q4Oh-cplWM2M07U3jkJCUZ7EFoz1DqfGnrtHskeesveB6XR3Z_UWqgs5gl6rmFH_vDU2rrUwjbzhCjyzZeRDaRzs_7CZoKnziHXYmKZEuE7S0uanT7vhZTBlBdW_tpVsPRNbpioyJ388Tg6Awv-brIbWWtE1Stp5R6M-qjkJS-cGuaRP6Ep74WPuNThojPvZeorhw7Yrve54wr6FyMF9hjGkMnobvOyWkDELnbS3t_1mapRdI4Kc81O4WVJMpSI6sk1tiHqDgxTsNE8Xigr31aVYy6cs2Rt_CGv_kFOXF0jswMdWss7db4v_y4R-tYFB0Mz_NmLJ3QhYVIsdkeBMzRhuprjaYisckP7suuvb4PDjfSGBhWJcj1-BRkjO-NUBV9eb4l2IYt-d6t3DwCqDCPP4QmUiS0G6RwkER3lSFzObyxGqYZN5Q0ffycbwBMjB4szmgdUCFhHtDYQGCg6_dhC0DfQ0_PqjvK1kQ6YTxWaidss1FGM6V8If4Qv-_6JBHzoF1R9L69syC1wE2rHj4Lf2JA82cjDRZElYck6-lXU0jBDCrKSDSdeya6jw2GMGQIcgxLGXUfdpHWPcy_rf_06-iBKgX5eolnLEbx9nEHZwGliRX1mangFxNYbW2Es7SbaLx04ptCkvjRczcehDoKXmnEyh200h2PAskCBu7yqQe04TRgq7SG2VuLClXlUl5U4itZnMPa33qLhfsQ0E8T3TEtGWhOi433tNgmcNwjvzUCiknLhb2auwO1x-VbALUKjRJTVrg8MAmQxIYPAfNxtgFiJv_5plsmAXF4v58dBy_8VS0bTLTNsG9PZ4SqpROV_t_1ttjlvuA4fU4NPoF4iTsO8dJJpPe3ngMmSE2UBUcnimiyicIsZH9psALI0lIbN3pfoZvHTOAXB_Sx-M1XVfdpc9GuCwdp101ts3SOhQpwCyNvKSMA1vEY9pAGTvVnmFnZV6ReAadY7w7l1ZHMnlXJxCnU3bD7gC7ts5lpUWd0LuNj32oj01jkmYoNKGp5K112mXHekKS0jLNTxDlU8IBY_rSmkiSlKkvbVRcLGONjsWLFfUgkNSiymDYjf6C6BEDwGJ1vmlUpSOodEMZysFT4wLj_-QXj5BR_0xZKGgnKsQiLqruHIvlfTQsiZsvXM6dyovxDkXYBysjd36L8Z_R3WV6IJqXRnXfFortfbHohvODtoIWCo1OP8iwZUeqN2PbHyzbTlH0f4pOUMFEaS-emyVVY_Xs71rgf2TdBmSJDp24kKPokzpEDatvjj95DbIRaa2rIG44TKBVOEEDdpX9T-kp4a5cCWamhervfmpVCPbuXI0shSHg55UAePQVxWZVZm4bLKpUyokItt1LtTSfLPYfmoHCu51kyksGUOtclGWifn/https://www.amazon.com/Magnetic-Universal-Compatible-Smartphones-Bestrix/dp/B07GWZ5TDN/ref=sxbs_sbv_search_btf?content-id=amzn1.sym.37132d36-da68-4ed0-8d23-842f0825e4d6%3Aamzn1.sym.37132d36-da68-4ed0-8d23-842f0825e4d6&cv_ct_cx=mobile+smartphones+under+30000&keywords=mobile+smartphones+under+30000&pd_rd_i=B07GWZ5TDN&pd_rd_r=021449f0-a980-4898-825c-c2a4c21fafec&pd_rd_w=X9xIG&pd_rd_wg=pksWg&pf_rd_p=37132d36-da68-4ed0-8d23-842f0825e4d6&pf_rd_r=7KFTJS94KY2TE5D8BP5A&qid=1770097855&sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D&sr=1-1-a61ee601-6e56-4862-a8a2-1d3da5a5406f
+              - generic [ref=e1874]:
+                - generic [ref=e1875]:
+                  - generic [ref=e1878] [cursor=pointer]: Sponsored
+                  - link "Bestrix Magnetic Phone Car Mount Magnetic Car Cell Phone Holder | Magnet Car Phone Holder Compatible with All Smartphones" [ref=e1880] [cursor=pointer]:
+                    - /url: https://aax-us-east-retail-direct.amazon.com/x/c/JDinOKcT7hnUfkoB-x70TssAAAGcIg3NlAEAAAH2AQBvbm9fdHhuX2JpZDYgICBvbm9fdHhuX2ltcDEgICCi5JC2/clv1c_ek-YBfv3VcbW3jI2m8Vz-l3hjIM5b0WlHQ8Xsvq2yr3reBPYP1_wVaI_6zk07GnuN0DsFhcbSNsSdZ-08mBLiA-x8fkKqojxbArE7_di7Yo-qJdmEJNPk_yY4PNS0mpDp2-H_rZqKGqkWUimBvWR0cHPYFyZhG3KuGwQLjcpxp4zgVtPNtP03-rLD36iNBrshM0z3q4Oh-cplWM2M07U3jkJCUZ7EFoz1DqfGnrtHskeesveB6XR3Z_UWqgs5gl6rmFH_vDU2rrUwjbzhCjyzZeRDaRzs_7CZoKnziHXYmKZEuE7S0uanT7vhZTBlBdW_tpVsPRNbpioyJ388Tg6Awv-brIbWWtE1Stp5R6M-qjkJS-cGuaRP6Ep74WPuNThojPvZeorhw7Yrve54wr6FyMF9hjGkMnobvOyWkDELnbS3t_1mapRdI4Kc81O4WVJMpSI6sk1tiHqDgxTsNE8Xigr31aVYy6cs2Rt_CGv_kFOXF0jswMdWss7db4v_y4R-tYFB0Mz_NmLJ3QhYVIsdkeBMzRhuprjaYisckP7suuvb4PDjfSGBhWJcj1-BRkjO-NUBV9eb4l2IYt-d6t3DwCqDCPP4QmUiS0G6RwkER3lSFzObyxGqYZN5Q0ffycbwBMjB4szmgdUCFhHtDYQGCg6_dhC0DfQ0_PqjvK1kQ6YTxWaidss1FGM6V8If4Qv-_6JBHzoF1R9L69syC1wE2rHj4Lf2JA82cjDRZElYck6-lXU0jBDCrKSDSdeya6jw2GMGQIcgxLGXUfdpHWPcy_rf_06-iBKgX5eolnLEbx9nEHZwGliRX1mangFxNYbW2Es7SbaLx04ptCkvjRczcehDoKXmnEyh200h2PAskCBu7yqQe04TRgq7SG2VuLClXlUl5U4itZnMPa33qLhfsQ0E8T3TEtGWhOi433tNgmcNwjvzUCiknLhb2auwO1x-VbALUKjRJTVrg8MAmQxIYPAfNxtgFiJv_5plsmAXF4v58dBy_8VS0bTLTNsG9PZ4SqpROV_t_1ttjlvuA4fU4NPoF4iTsO8dJJpPe3ngMmSE2UBUcnimiyicIsZH9psALI0lIbN3pfoZvHTOAXB_Sx-M1XVfdpc9GuCwdp101ts3SOhQpwCyNvKSMA1vEY9pAGTvVnmFnZV6ReAadY7w7l1ZHMnlXJxCnU3bD7gC7ts5lpUWd0LuNj32oj01jkmYoNKGp5K112mXHekKS0jLNTxDlU8IBY_rSmkiSlKkvbVRcLGONjsWLFfUgkNSiymDYjf6C6BEDwGJ1vmlUpSOodEMZysFT4wLj_-QXj5BR_0xZKGgnKsQiLqruHIvlfTQsiZsvXM6dyovxDkXYBysjd36L8Z_R3WV6IJqXRnXfFortfbHohvODtoIWCo1OP8iwZUeqN2PbHyzbTlH0f4pOUMFEaS-emyVVY_Xs71rgf2TdBmSJDp24kKPokzpEDatvjj95DbIRaa2rIG44TKBVOEEDdpX9T-kp4a5cCWamhervfmpVCPbuXI0shSHg55UAePQVxWZVZm4bLKpUyokItt1LtTSfLPYfmoHCu51kyksGUOtclGWifn/https://www.amazon.com/Magnetic-Universal-Compatible-Smartphones-Bestrix/dp/B07GWZ5TDN/ref=sxbs_sbv_search_btf?content-id=amzn1.sym.37132d36-da68-4ed0-8d23-842f0825e4d6%3Aamzn1.sym.37132d36-da68-4ed0-8d23-842f0825e4d6&cv_ct_cx=mobile+smartphones+under+30000&keywords=mobile+smartphones+under+30000&pd_rd_i=B07GWZ5TDN&pd_rd_r=021449f0-a980-4898-825c-c2a4c21fafec&pd_rd_w=X9xIG&pd_rd_wg=pksWg&pf_rd_p=37132d36-da68-4ed0-8d23-842f0825e4d6&pf_rd_r=7KFTJS94KY2TE5D8BP5A&qid=1770097855&sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D&sr=1-1-a61ee601-6e56-4862-a8a2-1d3da5a5406f
+                    - heading "Bestrix Magnetic Phone Car Mount Magnetic Car Cell Phone Holder | Magnet Car Phone Holder Compatible with All Smartphones" [level=2] [ref=e1881]
+                - generic [ref=e1882]:
+                  - generic [ref=e1883]:
+                    - text: "4.4"
+                    - button "4.4 out of 5 stars, rating details" [ref=e1885] [cursor=pointer]:
+                      - generic [ref=e1887]: 4.4 out of 5 stars
+                    - link "10,841 ratings" [ref=e1891] [cursor=pointer]:
+                      - /url: https://aax-us-east-retail-direct.amazon.com/x/c/JDinOKcT7hnUfkoB-x70TssAAAGcIg3NlAEAAAH2AQBvbm9fdHhuX2JpZDYgICBvbm9fdHhuX2ltcDEgICCi5JC2/clv1c_ek-YBfv3VcbW3jI2m8Vz-l3hjIM5b0WlHQ8Xsvq2yr3reBPYP1_wVaI_6zk07GnuN0DsFhcbSNsSdZ-08mBLiA-x8fkKqojxbArE7_di7Yo-qJdmEJNPk_yY4PNS0mpDp2-H_rZqKGqkWUimBvWR0cHPYFyZhG3KuGwQLjcpxp4zgVtPNtP03-rLD36iNBrshM0z3q4Oh-cplWM2M07U3jkJCUZ7EFoz1DqfGnrtHskeesveB6XR3Z_UWqgs5gl6rmFH_vDU2rrUwjbzhCjyzZeRDaRzs_7CZoKnziHXYmKZEuE7S0uanT7vhZTBlBdW_tpVsPRNbpioyJ388Tg6Awv-brIbWWtE1Stp5R6M-qjkJS-cGuaRP6Ep74WPuNThojPvZeorhw7Yrve54wr6FyMF9hjGkMnobvOyWkDELnbS3t_1mapRdI4Kc81O4WVJMpSI6sk1tiHqDgxTsNE8Xigr31aVYy6cs2Rt_CGv_kFOXF0jswMdWss7db4v_y4R-tYFB0Mz_NmLJ3QhYVIsdkeBMzRhuprjaYisckP7suuvb4PDjfSGBhWJcj1-BRkjO-NUBV9eb4l2IYt-d6t3DwCqDCPP4QmUiS0G6RwkER3lSFzObyxGqYZN5Q0ffycbwBMjB4szmgdUCFhHtDYQGCg6_dhC0DfQ0_PqjvK1kQ6YTxWaidss1FGM6V8If4Qv-_6JBHzoF1R9L69syC1wE2rHj4Lf2JA82cjDRZElYck6-lXU0jBDCrKSDSdeya6jw2GMGQIcgxLGXUfdpHWPcy_rf_06-iBKgX5eolnLEbx9nEHZwGliRX1mangFxNYbW2Es7SbaLx04ptCkvjRczcehDoKXmnEyh200h2PAskCBu7yqQe04TRgq7SG2VuLClXlUl5U4itZnMPa33qLhfsQ0E8T3TEtGWhOi433tNgmcNwjvzUCiknLhb2auwO1x-VbALUKjRJTVrg8MAmQxIYPAfNxtgFiJv_5plsmAXF4v58dBy_8VS0bTLTNsG9PZ4SqpROV_t_1ttjlvuA4fU4NPoF4iTsO8dJJpPe3ngMmSE2UBUcnimiyicIsZH9psALI0lIbN3pfoZvHTOAXB_Sx-M1XVfdpc9GuCwdp101ts3SOhQpwCyNvKSMA1vEY9pAGTvVnmFnZV6ReAadY7w7l1ZHMnlXJxCnU3bD7gC7ts5lpUWd0LuNj32oj01jkmYoNKGp5K112mXHekKS0jLNTxDlU8IBY_rSmkiSlKkvbVRcLGONjsWLFfUgkNSiymDYjf6C6BEDwGJ1vmlUpSOodEMZysFT4wLj_-QXj5BR_0xZKGgnKsQiLqruHIvlfTQsiZsvXM6dyovxDkXYBysjd36L8Z_R3WV6IJqXRnXfFortfbHohvODtoIWCo1OP8iwZUeqN2PbHyzbTlH0f4pOUMFEaS-emyVVY_Xs71rgf2TdBmSJDp24kKPokzpEDatvjj95DbIRaa2rIG44TKBVOEEDdpX9T-kp4a5cCWamhervfmpVCPbuXI0shSHg55UAePQVxWZVZm4bLKpUyokItt1LtTSfLPYfmoHCu51kyksGUOtclGWifn/https://www.amazon.com/Magnetic-Universal-Compatible-Smartphones-Bestrix/dp/B07GWZ5TDN/ref=sxbs_sbv_search_btf?content-id=amzn1.sym.37132d36-da68-4ed0-8d23-842f0825e4d6%3Aamzn1.sym.37132d36-da68-4ed0-8d23-842f0825e4d6&cv_ct_cx=mobile+smartphones+under+30000&keywords=mobile+smartphones+under+30000&pd_rd_i=B07GWZ5TDN&pd_rd_r=021449f0-a980-4898-825c-c2a4c21fafec&pd_rd_w=X9xIG&pd_rd_wg=pksWg&pf_rd_p=37132d36-da68-4ed0-8d23-842f0825e4d6&pf_rd_r=7KFTJS94KY2TE5D8BP5A&qid=1770097855&sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D&sr=1-1-a61ee601-6e56-4862-a8a2-1d3da5a5406f#customerReviews
+                      - text: (10.8K)
+                  - generic [ref=e1892]: 200+ bought in past month
+          - navigation "pagination" [ref=e1899]:
+            - list [ref=e1901]:
+              - listitem [ref=e1902]:
+                - button "Previous" [disabled] [ref=e1904]:
+                  - img [ref=e1905]
+                  - text: Previous
+              - listitem [ref=e1907]:
+                - button "Page 1" [ref=e1909]: "1"
+              - listitem [ref=e1910]:
+                - button "Go to page 2" [ref=e1912] [cursor=pointer]: "2"
+              - listitem [ref=e1913]:
+                - button "Go to page 3" [ref=e1915] [cursor=pointer]: "3"
+              - button [disabled] [ref=e1916]:
+                - img [ref=e1917]: ...
+              - button "13" [disabled] [ref=e1919]
+              - listitem [ref=e1920]:
+                - button "Go to next page, page 2" [ref=e1922] [cursor=pointer]:
+                  - text: Next
+                  - img [ref=e1923]
+          - generic [ref=e1927]:
+            - link "Sponsored ad from YQODSZ. \"Privacy Case for Z Fold 7.\" Shop YQODSZ." [ref=e1928] [cursor=pointer]:
+              - /url: https://aax-us-east-retail-direct.amazon.com/x/c/JKpvO22MVxBnhljVXZI8sJwAAAGcIg3ONgEAAAH2AQBvbm9fdHhuX2JpZDQgICBvbm9fdHhuX2ltcDIgICDVg0On/clv1c_ek-wBHfWbUbU3ka5n6ePiYCao2GIEgMGZuQfTodsi84rBm8O6IQAwJpw0eOMb9b2I_SLyAC_H6Rr7YBuLgiJkLD-o8JV4RKGEj3snGNpzY4u6JW_LauYeQDNYvx59sIRVtqfKUXxpOmR9sj_9rYxel37sH3dkFreggTwAbepw583PatdGcO5xscmRNT8PZ7o7jo-09ZcSh2gNcW-tdPG4GraKnp2lQ_20NrmWA8tf_ncZoaarBtV3fXUCoRjAC24KuDRUB996D9oc5ReusN8asA5EWjNTxQ_2j26CRZPNQTOIhRE4VcQAXA1kwtpEXBVQzkO895AAAEfVuczgWdf2kpsyjTK16n4BWa6u2pO1OBZnNKS_IN4DS8WJIljIK5yB3a6YhijJDnRFqr19Mdf8mFfOzSQhUSgfL4H7jPlCTDvoJFYtRtcqOwOCN7DhP7scPPnexfo7jmUvzTTBH1dbcVjfpJstO3hupGPdbLPDhUbYdMLYYWquqlxdd__FqZhDJwsE0q7_CJJgaqvZm-DcULL0T-XshysvhNsroxI_FSoQC5nmDC1Yk-hhGWsdPp2FxI1VKDVGMCSXYIRu9xiXVOOgRdEGQEd_LX_lTi2ug1KdYNGf0Coy7Hkjc1R1LjmNFrNK2atUF6wppmQQqJNnIo5cJc6WlBlc5nFWI-uM_0ZKvAIDfqVLy_qsCkNbPwIJhZyPndqTb9AD9j2EzJCbt3lBQ31Dg9a80GE-zDeZQLpQq-jV_Q6D_EkiKJ4Z9xYyR7A4AVVtUpK7wBalQbdwNcHpsiB7JEvUNeSVLhzEbq59QgfURpNcfJCmPTvM6dHBKiUQOsonbM3H3q_pede4K-5IbYLVtqvF0s4qbd0tHPtTnRKNpxPxapKYz2mKmVFMOO9BRaiKxUtjdr2wTKcvGMi-eFiTGoadBjSEY1EToh6uebo3vAfiFjvLPDFbND22RXZtxSoZizGoVOFMfUEYPA3VoCbkvZ3wc_MgksgFOBoTw8eqOQjB_QE2TKGdkpB4DMuOGQN5KsMA1zeuI7bXfCSp8RYMMT7XYidszwNhiiS5t1OOuJKCJ6m_sGH2IqNP_ns3gGg8mgoc2EMN8A9A7EVcE7a6Rp7sy-FHl5-bxKfoypTXoVftL6l_0YzAjupveJXPt8riMIMY2mj1vBJV-hQaIFf5EHdfnQ3e9tRr6i3Fpr3XArZVD0ftw-KUQxM8DOHNYL8KuNi70w5k7DikHkOLd-ls5mAp-EAf1OeVR2vm297C1EHy8GpbZvLFHKwY2cvYoO0LyPAlOWz4NkTf23IsvStliWuJV8OK4rrm2Nrxm8h-JHrzh9iy395BCJb5rMEeArbf8OaPQxxzT0jJLmkph2HpS73rVJCiL2pLovMhwNjq-yv0jTM8ky6d6xOdMeW5Hn_ts4FF6rp0HPnU2oezRcnds7DrKAY1PHGLVNkpysoRV9i11n2WbBHaNbY7zgz436T5X7syNBi1bK6-T-VqIVvNwBKCgr5MvLI_SpVPYDTJP-0beeeBQtBYiT7P53xSFIokZ-E-TAbaFUJlXdmJfKu5FluqTwm2u8FKXSxY3BGerZBIdnkvElWBkKhSRRa9Cz5B59k0Se_pLCT-tOdS4Ju2i8Tl-HKrMeUwXOYkfnNZjB-BbFIyjBp__KJ-KCFecUZwjqCi5iXDtmf-xhbk1wQ4fuyvXWC-Doqz-b6odajMRl9RlKKeTqgwdWFmryHAQ/https://www.amazon.com/stores/page/BE3F919F-0D16-442C-B402-820D9E6D70D4/?_encoding=UTF8&store_ref=SB_A03120252ZT8GXLKF2966-A04796822HGVK12J0Q8Q9&pd_rd_plhdr=t&aaxitk=bf473936f617b411ee2b8f70dc247a09&hsa_cr_id=0&lp_asins=B0FK9W21WP%2CB0FGTQ9N7Q%2CB0FK5TJTFH&lp_query=mobile%20smartphones%20under%2030000&lp_slot=desktop-hsa-3psl&ref_=sbx_s_3psl_sbcd3_bkgd&pd_rd_w=jCZq0&content-id=amzn1.sym.c76b3f09-06ab-4a24-90d3-cc188524b311%3Aamzn1.sym.c76b3f09-06ab-4a24-90d3-cc188524b311&pf_rd_p=c76b3f09-06ab-4a24-90d3-cc188524b311&pf_rd_r=7KFTJS94KY2TE5D8BP5A&pd_rd_wg=EgBT6&pd_rd_r=0d7c36f3-b0f1-49c3-b217-2c3b3e325f9c
+            - generic [ref=e1929]:
+              - generic [ref=e1931]:
+                - generic [ref=e1932]:
+                  - link "YQODSZ":
+                    - /url: https://aax-us-east-retail-direct.amazon.com/x/c/JKpvO22MVxBnhljVXZI8sJwAAAGcIg3ONgEAAAH2AQBvbm9fdHhuX2JpZDQgICBvbm9fdHhuX2ltcDIgICDVg0On/clv1c_ek-wBHfWbUbU3ka5n6ePiYCao2GIEgMGZuQfTodsi84rBm8O6IQAwJpw0eOMb9b2I_SLyAC_H6Rr7YBuLgiJkLD-o8JV4RKGEj3snGNpzY4u6JW_LauYeQDNYvx59sIRVtqfKUXxpOmR9sj_9rYxel37sH3dkFreggTwAbepw583PatdGcO5xscmRNT8PZ7o7jo-09ZcSh2gNcW-tdPG4GraKnp2lQ_20NrmWA8tf_ncZoaarBtV3fXUCoRjAC24KuDRUB996D9oc5ReusN8asA5EWjNTxQ_2j26CRZPNQTOIhRE4VcQAXA1kwtpEXBVQzkO895AAAEfVuczgWdf2kpsyjTK16n4BWa6u2pO1OBZnNKS_IN4DS8WJIljIK5yB3a6YhijJDnRFqr19Mdf8mFfOzSQhUSgfL4H7jPlCTDvoJFYtRtcqOwOCN7DhP7scPPnexfo7jmUvzTTBH1dbcVjfpJstO3hupGPdbLPDhUbYdMLYYWquqlxdd__FqZhDJwsE0q7_CJJgaqvZm-DcULL0T-XshysvhNsroxI_FSoQC5nmDC1Yk-hhGWsdPp2FxI1VKDVGMCSXYIRu9xiXVOOgRdEGQEd_LX_lTi2ug1KdYNGf0Coy7Hkjc1R1LjmNFrNK2atUF6wppmQQqJNnIo5cJc6WlBlc5nFWI-uM_0ZKvAIDfqVLy_qsCkNbPwIJhZyPndqTb9AD9j2EzJCbt3lBQ31Dg9a80GE-zDeZQLpQq-jV_Q6D_EkiKJ4Z9xYyR7A4AVVtUpK7wBalQbdwNcHpsiB7JEvUNeSVLhzEbq59QgfURpNcfJCmPTvM6dHBKiUQOsonbM3H3q_pede4K-5IbYLVtqvF0s4qbd0tHPtTnRKNpxPxapKYz2mKmVFMOO9BRaiKxUtjdr2wTKcvGMi-eFiTGoadBjSEY1EToh6uebo3vAfiFjvLPDFbND22RXZtxSoZizGoVOFMfUEYPA3VoCbkvZ3wc_MgksgFOBoTw8eqOQjB_QE2TKGdkpB4DMuOGQN5KsMA1zeuI7bXfCSp8RYMMT7XYidszwNhiiS5t1OOuJKCJ6m_sGH2IqNP_ns3gGg8mgoc2EMN8A9A7EVcE7a6Rp7sy-FHl5-bxKfoypTXoVftL6l_0YzAjupveJXPt8riMIMY2mj1vBJV-hQaIFf5EHdfnQ3e9tRr6i3Fpr3XArZVD0ftw-KUQxM8DOHNYL8KuNi70w5k7DikHkOLd-ls5mAp-EAf1OeVR2vm297C1EHy8GpbZvLFHKwY2cvYoO0LyPAlOWz4NkTf23IsvStliWuJV8OK4rrm2Nrxm8h-JHrzh9iy395BCJb5rMEeArbf8OaPQxxzT0jJLmkph2HpS73rVJCiL2pLovMhwNjq-yv0jTM8ky6d6xOdMeW5Hn_ts4FF6rp0HPnU2oezRcnds7DrKAY1PHGLVNkpysoRV9i11n2WbBHaNbY7zgz436T5X7syNBi1bK6-T-VqIVvNwBKCgr5MvLI_SpVPYDTJP-0beeeBQtBYiT7P53xSFIokZ-E-TAbaFUJlXdmJfKu5FluqTwm2u8FKXSxY3BGerZBIdnkvElWBkKhSRRa9Cz5B59k0Se_pLCT-tOdS4Ju2i8Tl-HKrMeUwXOYkfnNZjB-BbFIyjBp__KJ-KCFecUZwjqCi5iXDtmf-xhbk1wQ4fuyvXWC-Doqz-b6odajMRl9RlKKeTqgwdWFmryHAQ/https://www.amazon.com/stores/page/BE3F919F-0D16-442C-B402-820D9E6D70D4/?_encoding=UTF8&store_ref=SB_A03120252ZT8GXLKF2966-A04796822HGVK12J0Q8Q9&pd_rd_plhdr=t&aaxitk=bf473936f617b411ee2b8f70dc247a09&hsa_cr_id=0&lp_asins=B0FK9W21WP%2CB0FGTQ9N7Q%2CB0FK5TJTFH&lp_query=mobile%20smartphones%20under%2030000&lp_slot=desktop-hsa-3psl&ref_=sbx_s_3psl_sbcd3_logo&pd_rd_w=jCZq0&content-id=amzn1.sym.c76b3f09-06ab-4a24-90d3-cc188524b311%3Aamzn1.sym.c76b3f09-06ab-4a24-90d3-cc188524b311&pf_rd_p=c76b3f09-06ab-4a24-90d3-cc188524b311&pf_rd_r=7KFTJS94KY2TE5D8BP5A&pd_rd_wg=EgBT6&pd_rd_r=0d7c36f3-b0f1-49c3-b217-2c3b3e325f9c
+                    - generic:
+                      - img "YQODSZ"
+                - generic [ref=e1934]:
+                  - link "Privacy Case for Z Fold 7" [ref=e1935] [cursor=pointer]:
+                    - /url: https://aax-us-east-retail-direct.amazon.com/x/c/JKpvO22MVxBnhljVXZI8sJwAAAGcIg3ONgEAAAH2AQBvbm9fdHhuX2JpZDQgICBvbm9fdHhuX2ltcDIgICDVg0On/clv1c_ek-wBHfWbUbU3ka5n6ePiYCao2GIEgMGZuQfTodsi84rBm8O6IQAwJpw0eOMb9b2I_SLyAC_H6Rr7YBuLgiJkLD-o8JV4RKGEj3snGNpzY4u6JW_LauYeQDNYvx59sIRVtqfKUXxpOmR9sj_9rYxel37sH3dkFreggTwAbepw583PatdGcO5xscmRNT8PZ7o7jo-09ZcSh2gNcW-tdPG4GraKnp2lQ_20NrmWA8tf_ncZoaarBtV3fXUCoRjAC24KuDRUB996D9oc5ReusN8asA5EWjNTxQ_2j26CRZPNQTOIhRE4VcQAXA1kwtpEXBVQzkO895AAAEfVuczgWdf2kpsyjTK16n4BWa6u2pO1OBZnNKS_IN4DS8WJIljIK5yB3a6YhijJDnRFqr19Mdf8mFfOzSQhUSgfL4H7jPlCTDvoJFYtRtcqOwOCN7DhP7scPPnexfo7jmUvzTTBH1dbcVjfpJstO3hupGPdbLPDhUbYdMLYYWquqlxdd__FqZhDJwsE0q7_CJJgaqvZm-DcULL0T-XshysvhNsroxI_FSoQC5nmDC1Yk-hhGWsdPp2FxI1VKDVGMCSXYIRu9xiXVOOgRdEGQEd_LX_lTi2ug1KdYNGf0Coy7Hkjc1R1LjmNFrNK2atUF6wppmQQqJNnIo5cJc6WlBlc5nFWI-uM_0ZKvAIDfqVLy_qsCkNbPwIJhZyPndqTb9AD9j2EzJCbt3lBQ31Dg9a80GE-zDeZQLpQq-jV_Q6D_EkiKJ4Z9xYyR7A4AVVtUpK7wBalQbdwNcHpsiB7JEvUNeSVLhzEbq59QgfURpNcfJCmPTvM6dHBKiUQOsonbM3H3q_pede4K-5IbYLVtqvF0s4qbd0tHPtTnRKNpxPxapKYz2mKmVFMOO9BRaiKxUtjdr2wTKcvGMi-eFiTGoadBjSEY1EToh6uebo3vAfiFjvLPDFbND22RXZtxSoZizGoVOFMfUEYPA3VoCbkvZ3wc_MgksgFOBoTw8eqOQjB_QE2TKGdkpB4DMuOGQN5KsMA1zeuI7bXfCSp8RYMMT7XYidszwNhiiS5t1OOuJKCJ6m_sGH2IqNP_ns3gGg8mgoc2EMN8A9A7EVcE7a6Rp7sy-FHl5-bxKfoypTXoVftL6l_0YzAjupveJXPt8riMIMY2mj1vBJV-hQaIFf5EHdfnQ3e9tRr6i3Fpr3XArZVD0ftw-KUQxM8DOHNYL8KuNi70w5k7DikHkOLd-ls5mAp-EAf1OeVR2vm297C1EHy8GpbZvLFHKwY2cvYoO0LyPAlOWz4NkTf23IsvStliWuJV8OK4rrm2Nrxm8h-JHrzh9iy395BCJb5rMEeArbf8OaPQxxzT0jJLmkph2HpS73rVJCiL2pLovMhwNjq-yv0jTM8ky6d6xOdMeW5Hn_ts4FF6rp0HPnU2oezRcnds7DrKAY1PHGLVNkpysoRV9i11n2WbBHaNbY7zgz436T5X7syNBi1bK6-T-VqIVvNwBKCgr5MvLI_SpVPYDTJP-0beeeBQtBYiT7P53xSFIokZ-E-TAbaFUJlXdmJfKu5FluqTwm2u8FKXSxY3BGerZBIdnkvElWBkKhSRRa9Cz5B59k0Se_pLCT-tOdS4Ju2i8Tl-HKrMeUwXOYkfnNZjB-BbFIyjBp__KJ-KCFecUZwjqCi5iXDtmf-xhbk1wQ4fuyvXWC-Doqz-b6odajMRl9RlKKeTqgwdWFmryHAQ/https://www.amazon.com/stores/page/BE3F919F-0D16-442C-B402-820D9E6D70D4/?_encoding=UTF8&store_ref=SB_A03120252ZT8GXLKF2966-A04796822HGVK12J0Q8Q9&pd_rd_plhdr=t&aaxitk=bf473936f617b411ee2b8f70dc247a09&hsa_cr_id=0&lp_asins=B0FK9W21WP%2CB0FGTQ9N7Q%2CB0FK5TJTFH&lp_query=mobile%20smartphones%20under%2030000&lp_slot=desktop-hsa-3psl&ref_=sbx_s_3psl_sbcd3_hl&pd_rd_w=jCZq0&content-id=amzn1.sym.c76b3f09-06ab-4a24-90d3-cc188524b311%3Aamzn1.sym.c76b3f09-06ab-4a24-90d3-cc188524b311&pf_rd_p=c76b3f09-06ab-4a24-90d3-cc188524b311&pf_rd_r=7KFTJS94KY2TE5D8BP5A&pd_rd_wg=EgBT6&pd_rd_r=0d7c36f3-b0f1-49c3-b217-2c3b3e325f9c
+                    - generic [ref=e1937]: Privacy Case for Z Fold 7
+                  - generic [ref=e1938]:
+                    - button "Leave feedback on Sponsored ad" [ref=e1942] [cursor=pointer]: Sponsored
+                    - generic [ref=e1944]: "|"
+                    - generic [ref=e1945]: Highly bought brand in this category
+                    - generic [ref=e1946]: "|"
+                    - link "Shop now" [ref=e1948] [cursor=pointer]:
+                      - /url: https://aax-us-east-retail-direct.amazon.com/x/c/JKpvO22MVxBnhljVXZI8sJwAAAGcIg3ONgEAAAH2AQBvbm9fdHhuX2JpZDQgICBvbm9fdHhuX2ltcDIgICDVg0On/clv1c_ek-wBHfWbUbU3ka5n6ePiYCao2GIEgMGZuQfTodsi84rBm8O6IQAwJpw0eOMb9b2I_SLyAC_H6Rr7YBuLgiJkLD-o8JV4RKGEj3snGNpzY4u6JW_LauYeQDNYvx59sIRVtqfKUXxpOmR9sj_9rYxel37sH3dkFreggTwAbepw583PatdGcO5xscmRNT8PZ7o7jo-09ZcSh2gNcW-tdPG4GraKnp2lQ_20NrmWA8tf_ncZoaarBtV3fXUCoRjAC24KuDRUB996D9oc5ReusN8asA5EWjNTxQ_2j26CRZPNQTOIhRE4VcQAXA1kwtpEXBVQzkO895AAAEfVuczgWdf2kpsyjTK16n4BWa6u2pO1OBZnNKS_IN4DS8WJIljIK5yB3a6YhijJDnRFqr19Mdf8mFfOzSQhUSgfL4H7jPlCTDvoJFYtRtcqOwOCN7DhP7scPPnexfo7jmUvzTTBH1dbcVjfpJstO3hupGPdbLPDhUbYdMLYYWquqlxdd__FqZhDJwsE0q7_CJJgaqvZm-DcULL0T-XshysvhNsroxI_FSoQC5nmDC1Yk-hhGWsdPp2FxI1VKDVGMCSXYIRu9xiXVOOgRdEGQEd_LX_lTi2ug1KdYNGf0Coy7Hkjc1R1LjmNFrNK2atUF6wppmQQqJNnIo5cJc6WlBlc5nFWI-uM_0ZKvAIDfqVLy_qsCkNbPwIJhZyPndqTb9AD9j2EzJCbt3lBQ31Dg9a80GE-zDeZQLpQq-jV_Q6D_EkiKJ4Z9xYyR7A4AVVtUpK7wBalQbdwNcHpsiB7JEvUNeSVLhzEbq59QgfURpNcfJCmPTvM6dHBKiUQOsonbM3H3q_pede4K-5IbYLVtqvF0s4qbd0tHPtTnRKNpxPxapKYz2mKmVFMOO9BRaiKxUtjdr2wTKcvGMi-eFiTGoadBjSEY1EToh6uebo3vAfiFjvLPDFbND22RXZtxSoZizGoVOFMfUEYPA3VoCbkvZ3wc_MgksgFOBoTw8eqOQjB_QE2TKGdkpB4DMuOGQN5KsMA1zeuI7bXfCSp8RYMMT7XYidszwNhiiS5t1OOuJKCJ6m_sGH2IqNP_ns3gGg8mgoc2EMN8A9A7EVcE7a6Rp7sy-FHl5-bxKfoypTXoVftL6l_0YzAjupveJXPt8riMIMY2mj1vBJV-hQaIFf5EHdfnQ3e9tRr6i3Fpr3XArZVD0ftw-KUQxM8DOHNYL8KuNi70w5k7DikHkOLd-ls5mAp-EAf1OeVR2vm297C1EHy8GpbZvLFHKwY2cvYoO0LyPAlOWz4NkTf23IsvStliWuJV8OK4rrm2Nrxm8h-JHrzh9iy395BCJb5rMEeArbf8OaPQxxzT0jJLmkph2HpS73rVJCiL2pLovMhwNjq-yv0jTM8ky6d6xOdMeW5Hn_ts4FF6rp0HPnU2oezRcnds7DrKAY1PHGLVNkpysoRV9i11n2WbBHaNbY7zgz436T5X7syNBi1bK6-T-VqIVvNwBKCgr5MvLI_SpVPYDTJP-0beeeBQtBYiT7P53xSFIokZ-E-TAbaFUJlXdmJfKu5FluqTwm2u8FKXSxY3BGerZBIdnkvElWBkKhSRRa9Cz5B59k0Se_pLCT-tOdS4Ju2i8Tl-HKrMeUwXOYkfnNZjB-BbFIyjBp__KJ-KCFecUZwjqCi5iXDtmf-xhbk1wQ4fuyvXWC-Doqz-b6odajMRl9RlKKeTqgwdWFmryHAQ/https://www.amazon.com/stores/page/BE3F919F-0D16-442C-B402-820D9E6D70D4/?_encoding=UTF8&store_ref=SB_A03120252ZT8GXLKF2966-A04796822HGVK12J0Q8Q9&pd_rd_plhdr=t&aaxitk=bf473936f617b411ee2b8f70dc247a09&hsa_cr_id=0&lp_asins=B0FK9W21WP%2CB0FGTQ9N7Q%2CB0FK5TJTFH&lp_query=mobile%20smartphones%20under%2030000&lp_slot=desktop-hsa-3psl&ref_=sbx_s_3psl_sbcd3_cta&pd_rd_w=jCZq0&content-id=amzn1.sym.c76b3f09-06ab-4a24-90d3-cc188524b311%3Aamzn1.sym.c76b3f09-06ab-4a24-90d3-cc188524b311&pf_rd_p=c76b3f09-06ab-4a24-90d3-cc188524b311&pf_rd_r=7KFTJS94KY2TE5D8BP5A&pd_rd_wg=EgBT6&pd_rd_r=0d7c36f3-b0f1-49c3-b217-2c3b3e325f9c
+                      - generic [ref=e1951]: Shop YQODSZ
+              - group [ref=e1952]:
+                - group [ref=e1956]:
+                  - list [ref=e1957]:
+                    - listitem [ref=e1958]:
+                      - generic [ref=e1960]:
+                        - link [ref=e1961] [cursor=pointer]:
+                          - /url: https://aax-us-east-retail-direct.amazon.com/x/c/JKpvO22MVxBnhljVXZI8sJwAAAGcIg3ONgEAAAH2AQBvbm9fdHhuX2JpZDQgICBvbm9fdHhuX2ltcDIgICDVg0On/clv1c_ek-wBHfWbUbU3ka5n6ePiYCao2GIEgMGZuQfTodsi84rBm8O6IQAwJpw0eOMb9b2I_SLyAC_H6Rr7YBuLgiJkLD-o8JV4RKGEj3snGNpzY4u6JW_LauYeQDNYvx59sIRVtqfKUXxpOmR9sj_9rYxel37sH3dkFreggTwAbepw583PatdGcO5xscmRNT8PZ7o7jo-09ZcSh2gNcW-tdPG4GraKnp2lQ_20NrmWA8tf_ncZoaarBtV3fXUCoRjAC24KuDRUB996D9oc5ReusN8asA5EWjNTxQ_2j26CRZPNQTOIhRE4VcQAXA1kwtpEXBVQzkO895AAAEfVuczgWdf2kpsyjTK16n4BWa6u2pO1OBZnNKS_IN4DS8WJIljIK5yB3a6YhijJDnRFqr19Mdf8mFfOzSQhUSgfL4H7jPlCTDvoJFYtRtcqOwOCN7DhP7scPPnexfo7jmUvzTTBH1dbcVjfpJstO3hupGPdbLPDhUbYdMLYYWquqlxdd__FqZhDJwsE0q7_CJJgaqvZm-DcULL0T-XshysvhNsroxI_FSoQC5nmDC1Yk-hhGWsdPp2FxI1VKDVGMCSXYIRu9xiXVOOgRdEGQEd_LX_lTi2ug1KdYNGf0Coy7Hkjc1R1LjmNFrNK2atUF6wppmQQqJNnIo5cJc6WlBlc5nFWI-uM_0ZKvAIDfqVLy_qsCkNbPwIJhZyPndqTb9AD9j2EzJCbt3lBQ31Dg9a80GE-zDeZQLpQq-jV_Q6D_EkiKJ4Z9xYyR7A4AVVtUpK7wBalQbdwNcHpsiB7JEvUNeSVLhzEbq59QgfURpNcfJCmPTvM6dHBKiUQOsonbM3H3q_pede4K-5IbYLVtqvF0s4qbd0tHPtTnRKNpxPxapKYz2mKmVFMOO9BRaiKxUtjdr2wTKcvGMi-eFiTGoadBjSEY1EToh6uebo3vAfiFjvLPDFbND22RXZtxSoZizGoVOFMfUEYPA3VoCbkvZ3wc_MgksgFOBoTw8eqOQjB_QE2TKGdkpB4DMuOGQN5KsMA1zeuI7bXfCSp8RYMMT7XYidszwNhiiS5t1OOuJKCJ6m_sGH2IqNP_ns3gGg8mgoc2EMN8A9A7EVcE7a6Rp7sy-FHl5-bxKfoypTXoVftL6l_0YzAjupveJXPt8riMIMY2mj1vBJV-hQaIFf5EHdfnQ3e9tRr6i3Fpr3XArZVD0ftw-KUQxM8DOHNYL8KuNi70w5k7DikHkOLd-ls5mAp-EAf1OeVR2vm297C1EHy8GpbZvLFHKwY2cvYoO0LyPAlOWz4NkTf23IsvStliWuJV8OK4rrm2Nrxm8h-JHrzh9iy395BCJb5rMEeArbf8OaPQxxzT0jJLmkph2HpS73rVJCiL2pLovMhwNjq-yv0jTM8ky6d6xOdMeW5Hn_ts4FF6rp0HPnU2oezRcnds7DrKAY1PHGLVNkpysoRV9i11n2WbBHaNbY7zgz436T5X7syNBi1bK6-T-VqIVvNwBKCgr5MvLI_SpVPYDTJP-0beeeBQtBYiT7P53xSFIokZ-E-TAbaFUJlXdmJfKu5FluqTwm2u8FKXSxY3BGerZBIdnkvElWBkKhSRRa9Cz5B59k0Se_pLCT-tOdS4Ju2i8Tl-HKrMeUwXOYkfnNZjB-BbFIyjBp__KJ-KCFecUZwjqCi5iXDtmf-xhbk1wQ4fuyvXWC-Doqz-b6odajMRl9RlKKeTqgwdWFmryHAQ/https://www.amazon.com/gp/aw/d/B0FK9W21WP/?_encoding=UTF8&pd_rd_plhdr=t&aaxitk=bf473936f617b411ee2b8f70dc247a09&hsa_cr_id=0&qid=1770097855&sr=1-1-7350ff0b-0901-4bc5-8134-c5f6594b6546&ref_=sbx_s_3psl_sbcd3_asin_0_bkgd&pd_rd_w=jCZq0&content-id=amzn1.sym.c76b3f09-06ab-4a24-90d3-cc188524b311%3Aamzn1.sym.c76b3f09-06ab-4a24-90d3-cc188524b311&pf_rd_p=c76b3f09-06ab-4a24-90d3-cc188524b311&pf_rd_r=7KFTJS94KY2TE5D8BP5A&pd_rd_wg=EgBT6&pd_rd_r=0d7c36f3-b0f1-49c3-b217-2c3b3e325f9c
+                        - link "YQODSZ Finger Strap for Samsung Galaxy Z Fold 7 Case with S Pen Holder & Stylus, [Privacy Screen Protector] [Fold-able Kickstand] Full Coverage Matte PC Shockproof Bumper Case for Z Fold 7 Black" [ref=e1963] [cursor=pointer]:
+                          - /url: https://aax-us-east-retail-direct.amazon.com/x/c/JKpvO22MVxBnhljVXZI8sJwAAAGcIg3ONgEAAAH2AQBvbm9fdHhuX2JpZDQgICBvbm9fdHhuX2ltcDIgICDVg0On/clv1c_ek-wBHfWbUbU3ka5n6ePiYCao2GIEgMGZuQfTodsi84rBm8O6IQAwJpw0eOMb9b2I_SLyAC_H6Rr7YBuLgiJkLD-o8JV4RKGEj3snGNpzY4u6JW_LauYeQDNYvx59sIRVtqfKUXxpOmR9sj_9rYxel37sH3dkFreggTwAbepw583PatdGcO5xscmRNT8PZ7o7jo-09ZcSh2gNcW-tdPG4GraKnp2lQ_20NrmWA8tf_ncZoaarBtV3fXUCoRjAC24KuDRUB996D9oc5ReusN8asA5EWjNTxQ_2j26CRZPNQTOIhRE4VcQAXA1kwtpEXBVQzkO895AAAEfVuczgWdf2kpsyjTK16n4BWa6u2pO1OBZnNKS_IN4DS8WJIljIK5yB3a6YhijJDnRFqr19Mdf8mFfOzSQhUSgfL4H7jPlCTDvoJFYtRtcqOwOCN7DhP7scPPnexfo7jmUvzTTBH1dbcVjfpJstO3hupGPdbLPDhUbYdMLYYWquqlxdd__FqZhDJwsE0q7_CJJgaqvZm-DcULL0T-XshysvhNsroxI_FSoQC5nmDC1Yk-hhGWsdPp2FxI1VKDVGMCSXYIRu9xiXVOOgRdEGQEd_LX_lTi2ug1KdYNGf0Coy7Hkjc1R1LjmNFrNK2atUF6wppmQQqJNnIo5cJc6WlBlc5nFWI-uM_0ZKvAIDfqVLy_qsCkNbPwIJhZyPndqTb9AD9j2EzJCbt3lBQ31Dg9a80GE-zDeZQLpQq-jV_Q6D_EkiKJ4Z9xYyR7A4AVVtUpK7wBalQbdwNcHpsiB7JEvUNeSVLhzEbq59QgfURpNcfJCmPTvM6dHBKiUQOsonbM3H3q_pede4K-5IbYLVtqvF0s4qbd0tHPtTnRKNpxPxapKYz2mKmVFMOO9BRaiKxUtjdr2wTKcvGMi-eFiTGoadBjSEY1EToh6uebo3vAfiFjvLPDFbND22RXZtxSoZizGoVOFMfUEYPA3VoCbkvZ3wc_MgksgFOBoTw8eqOQjB_QE2TKGdkpB4DMuOGQN5KsMA1zeuI7bXfCSp8RYMMT7XYidszwNhiiS5t1OOuJKCJ6m_sGH2IqNP_ns3gGg8mgoc2EMN8A9A7EVcE7a6Rp7sy-FHl5-bxKfoypTXoVftL6l_0YzAjupveJXPt8riMIMY2mj1vBJV-hQaIFf5EHdfnQ3e9tRr6i3Fpr3XArZVD0ftw-KUQxM8DOHNYL8KuNi70w5k7DikHkOLd-ls5mAp-EAf1OeVR2vm297C1EHy8GpbZvLFHKwY2cvYoO0LyPAlOWz4NkTf23IsvStliWuJV8OK4rrm2Nrxm8h-JHrzh9iy395BCJb5rMEeArbf8OaPQxxzT0jJLmkph2HpS73rVJCiL2pLovMhwNjq-yv0jTM8ky6d6xOdMeW5Hn_ts4FF6rp0HPnU2oezRcnds7DrKAY1PHGLVNkpysoRV9i11n2WbBHaNbY7zgz436T5X7syNBi1bK6-T-VqIVvNwBKCgr5MvLI_SpVPYDTJP-0beeeBQtBYiT7P53xSFIokZ-E-TAbaFUJlXdmJfKu5FluqTwm2u8FKXSxY3BGerZBIdnkvElWBkKhSRRa9Cz5B59k0Se_pLCT-tOdS4Ju2i8Tl-HKrMeUwXOYkfnNZjB-BbFIyjBp__KJ-KCFecUZwjqCi5iXDtmf-xhbk1wQ4fuyvXWC-Doqz-b6odajMRl9RlKKeTqgwdWFmryHAQ/https://www.amazon.com/gp/aw/d/B0FK9W21WP/?_encoding=UTF8&pd_rd_plhdr=t&aaxitk=bf473936f617b411ee2b8f70dc247a09&hsa_cr_id=0&qid=1770097855&sr=1-1-7350ff0b-0901-4bc5-8134-c5f6594b6546&ref_=sbx_s_3psl_sbcd3_asin_0_img&pd_rd_w=jCZq0&content-id=amzn1.sym.c76b3f09-06ab-4a24-90d3-cc188524b311%3Aamzn1.sym.c76b3f09-06ab-4a24-90d3-cc188524b311&pf_rd_p=c76b3f09-06ab-4a24-90d3-cc188524b311&pf_rd_r=7KFTJS94KY2TE5D8BP5A&pd_rd_wg=EgBT6&pd_rd_r=0d7c36f3-b0f1-49c3-b217-2c3b3e325f9c
+                          - generic [ref=e1965]:
+                            - img "YQODSZ Finger Strap for Samsung Galaxy Z Fold 7 Case with S Pen Holder & Stylus, [Privacy Screen Protector] [Fold-able Kickstand] Full Coverage Matte PC Shockproof Bumper Case for Z Fold 7 Black"
+                        - generic [ref=e1967]:
+                          - link [ref=e1968] [cursor=pointer]:
+                            - /url: https://aax-us-east-retail-direct.amazon.com/x/c/JKpvO22MVxBnhljVXZI8sJwAAAGcIg3ONgEAAAH2AQBvbm9fdHhuX2JpZDQgICBvbm9fdHhuX2ltcDIgICDVg0On/clv1c_ek-wBHfWbUbU3ka5n6ePiYCao2GIEgMGZuQfTodsi84rBm8O6IQAwJpw0eOMb9b2I_SLyAC_H6Rr7YBuLgiJkLD-o8JV4RKGEj3snGNpzY4u6JW_LauYeQDNYvx59sIRVtqfKUXxpOmR9sj_9rYxel37sH3dkFreggTwAbepw583PatdGcO5xscmRNT8PZ7o7jo-09ZcSh2gNcW-tdPG4GraKnp2lQ_20NrmWA8tf_ncZoaarBtV3fXUCoRjAC24KuDRUB996D9oc5ReusN8asA5EWjNTxQ_2j26CRZPNQTOIhRE4VcQAXA1kwtpEXBVQzkO895AAAEfVuczgWdf2kpsyjTK16n4BWa6u2pO1OBZnNKS_IN4DS8WJIljIK5yB3a6YhijJDnRFqr19Mdf8mFfOzSQhUSgfL4H7jPlCTDvoJFYtRtcqOwOCN7DhP7scPPnexfo7jmUvzTTBH1dbcVjfpJstO3hupGPdbLPDhUbYdMLYYWquqlxdd__FqZhDJwsE0q7_CJJgaqvZm-DcULL0T-XshysvhNsroxI_FSoQC5nmDC1Yk-hhGWsdPp2FxI1VKDVGMCSXYIRu9xiXVOOgRdEGQEd_LX_lTi2ug1KdYNGf0Coy7Hkjc1R1LjmNFrNK2atUF6wppmQQqJNnIo5cJc6WlBlc5nFWI-uM_0ZKvAIDfqVLy_qsCkNbPwIJhZyPndqTb9AD9j2EzJCbt3lBQ31Dg9a80GE-zDeZQLpQq-jV_Q6D_EkiKJ4Z9xYyR7A4AVVtUpK7wBalQbdwNcHpsiB7JEvUNeSVLhzEbq59QgfURpNcfJCmPTvM6dHBKiUQOsonbM3H3q_pede4K-5IbYLVtqvF0s4qbd0tHPtTnRKNpxPxapKYz2mKmVFMOO9BRaiKxUtjdr2wTKcvGMi-eFiTGoadBjSEY1EToh6uebo3vAfiFjvLPDFbND22RXZtxSoZizGoVOFMfUEYPA3VoCbkvZ3wc_MgksgFOBoTw8eqOQjB_QE2TKGdkpB4DMuOGQN5KsMA1zeuI7bXfCSp8RYMMT7XYidszwNhiiS5t1OOuJKCJ6m_sGH2IqNP_ns3gGg8mgoc2EMN8A9A7EVcE7a6Rp7sy-FHl5-bxKfoypTXoVftL6l_0YzAjupveJXPt8riMIMY2mj1vBJV-hQaIFf5EHdfnQ3e9tRr6i3Fpr3XArZVD0ftw-KUQxM8DOHNYL8KuNi70w5k7DikHkOLd-ls5mAp-EAf1OeVR2vm297C1EHy8GpbZvLFHKwY2cvYoO0LyPAlOWz4NkTf23IsvStliWuJV8OK4rrm2Nrxm8h-JHrzh9iy395BCJb5rMEeArbf8OaPQxxzT0jJLmkph2HpS73rVJCiL2pLovMhwNjq-yv0jTM8ky6d6xOdMeW5Hn_ts4FF6rp0HPnU2oezRcnds7DrKAY1PHGLVNkpysoRV9i11n2WbBHaNbY7zgz436T5X7syNBi1bK6-T-VqIVvNwBKCgr5MvLI_SpVPYDTJP-0beeeBQtBYiT7P53xSFIokZ-E-TAbaFUJlXdmJfKu5FluqTwm2u8FKXSxY3BGerZBIdnkvElWBkKhSRRa9Cz5B59k0Se_pLCT-tOdS4Ju2i8Tl-HKrMeUwXOYkfnNZjB-BbFIyjBp__KJ-KCFecUZwjqCi5iXDtmf-xhbk1wQ4fuyvXWC-Doqz-b6odajMRl9RlKKeTqgwdWFmryHAQ/https://www.amazon.com/gp/aw/d/B0FK9W21WP/?_encoding=UTF8&pd_rd_plhdr=t&aaxitk=bf473936f617b411ee2b8f70dc247a09&hsa_cr_id=0&qid=1770097855&sr=1-1-7350ff0b-0901-4bc5-8134-c5f6594b6546&ref_=sbx_s_3psl_sbcd3_asin_0_bkgd&pd_rd_w=jCZq0&content-id=amzn1.sym.c76b3f09-06ab-4a24-90d3-cc188524b311%3Aamzn1.sym.c76b3f09-06ab-4a24-90d3-cc188524b311&pf_rd_p=c76b3f09-06ab-4a24-90d3-cc188524b311&pf_rd_r=7KFTJS94KY2TE5D8BP5A&pd_rd_wg=EgBT6&pd_rd_r=0d7c36f3-b0f1-49c3-b217-2c3b3e325f9c
+                          - link "YQODSZ Finger Strap for Samsung Galaxy Z Fold 7 Case with S Pen Holder & Stylus, [Privacy Screen Protector] [Fold-able Kickstand] Full Coverage Matte PC Shockproof Bumper Case for Z Fold 7 Black" [ref=e1970] [cursor=pointer]:
+                            - /url: https://aax-us-east-retail-direct.amazon.com/x/c/JKpvO22MVxBnhljVXZI8sJwAAAGcIg3ONgEAAAH2AQBvbm9fdHhuX2JpZDQgICBvbm9fdHhuX2ltcDIgICDVg0On/clv1c_ek-wBHfWbUbU3ka5n6ePiYCao2GIEgMGZuQfTodsi84rBm8O6IQAwJpw0eOMb9b2I_SLyAC_H6Rr7YBuLgiJkLD-o8JV4RKGEj3snGNpzY4u6JW_LauYeQDNYvx59sIRVtqfKUXxpOmR9sj_9rYxel37sH3dkFreggTwAbepw583PatdGcO5xscmRNT8PZ7o7jo-09ZcSh2gNcW-tdPG4GraKnp2lQ_20NrmWA8tf_ncZoaarBtV3fXUCoRjAC24KuDRUB996D9oc5ReusN8asA5EWjNTxQ_2j26CRZPNQTOIhRE4VcQAXA1kwtpEXBVQzkO895AAAEfVuczgWdf2kpsyjTK16n4BWa6u2pO1OBZnNKS_IN4DS8WJIljIK5yB3a6YhijJDnRFqr19Mdf8mFfOzSQhUSgfL4H7jPlCTDvoJFYtRtcqOwOCN7DhP7scPPnexfo7jmUvzTTBH1dbcVjfpJstO3hupGPdbLPDhUbYdMLYYWquqlxdd__FqZhDJwsE0q7_CJJgaqvZm-DcULL0T-XshysvhNsroxI_FSoQC5nmDC1Yk-hhGWsdPp2FxI1VKDVGMCSXYIRu9xiXVOOgRdEGQEd_LX_lTi2ug1KdYNGf0Coy7Hkjc1R1LjmNFrNK2atUF6wppmQQqJNnIo5cJc6WlBlc5nFWI-uM_0ZKvAIDfqVLy_qsCkNbPwIJhZyPndqTb9AD9j2EzJCbt3lBQ31Dg9a80GE-zDeZQLpQq-jV_Q6D_EkiKJ4Z9xYyR7A4AVVtUpK7wBalQbdwNcHpsiB7JEvUNeSVLhzEbq59QgfURpNcfJCmPTvM6dHBKiUQOsonbM3H3q_pede4K-5IbYLVtqvF0s4qbd0tHPtTnRKNpxPxapKYz2mKmVFMOO9BRaiKxUtjdr2wTKcvGMi-eFiTGoadBjSEY1EToh6uebo3vAfiFjvLPDFbND22RXZtxSoZizGoVOFMfUEYPA3VoCbkvZ3wc_MgksgFOBoTw8eqOQjB_QE2TKGdkpB4DMuOGQN5KsMA1zeuI7bXfCSp8RYMMT7XYidszwNhiiS5t1OOuJKCJ6m_sGH2IqNP_ns3gGg8mgoc2EMN8A9A7EVcE7a6Rp7sy-FHl5-bxKfoypTXoVftL6l_0YzAjupveJXPt8riMIMY2mj1vBJV-hQaIFf5EHdfnQ3e9tRr6i3Fpr3XArZVD0ftw-KUQxM8DOHNYL8KuNi70w5k7DikHkOLd-ls5mAp-EAf1OeVR2vm297C1EHy8GpbZvLFHKwY2cvYoO0LyPAlOWz4NkTf23IsvStliWuJV8OK4rrm2Nrxm8h-JHrzh9iy395BCJb5rMEeArbf8OaPQxxzT0jJLmkph2HpS73rVJCiL2pLovMhwNjq-yv0jTM8ky6d6xOdMeW5Hn_ts4FF6rp0HPnU2oezRcnds7DrKAY1PHGLVNkpysoRV9i11n2WbBHaNbY7zgz436T5X7syNBi1bK6-T-VqIVvNwBKCgr5MvLI_SpVPYDTJP-0beeeBQtBYiT7P53xSFIokZ-E-TAbaFUJlXdmJfKu5FluqTwm2u8FKXSxY3BGerZBIdnkvElWBkKhSRRa9Cz5B59k0Se_pLCT-tOdS4Ju2i8Tl-HKrMeUwXOYkfnNZjB-BbFIyjBp__KJ-KCFecUZwjqCi5iXDtmf-xhbk1wQ4fuyvXWC-Doqz-b6odajMRl9RlKKeTqgwdWFmryHAQ/https://www.amazon.com/gp/aw/d/B0FK9W21WP/?_encoding=UTF8&pd_rd_plhdr=t&aaxitk=bf473936f617b411ee2b8f70dc247a09&hsa_cr_id=0&qid=1770097855&sr=1-1-7350ff0b-0901-4bc5-8134-c5f6594b6546&ref_=sbx_s_3psl_sbcd3_asin_0_title&pd_rd_w=jCZq0&content-id=amzn1.sym.c76b3f09-06ab-4a24-90d3-cc188524b311%3Aamzn1.sym.c76b3f09-06ab-4a24-90d3-cc188524b311&pf_rd_p=c76b3f09-06ab-4a24-90d3-cc188524b311&pf_rd_r=7KFTJS94KY2TE5D8BP5A&pd_rd_wg=EgBT6&pd_rd_r=0d7c36f3-b0f1-49c3-b217-2c3b3e325f9c
+                            - generic [ref=e1972]: YQODSZ Finger Strap for Samsung Galaxy Z Fold 7 Case with S Pen Holder & Stylus, [Privacy Screen Protector] [Fold-able Kickstand] Full Coverage Matte PC Shockproof Bumper Case for Z Fold 7 Black
+                          - link "Rated 2.5 out of 5 stars by 31 reviews. Go to review section." [ref=e1973] [cursor=pointer]:
+                            - /url: https://aax-us-east-retail-direct.amazon.com/x/c/JKpvO22MVxBnhljVXZI8sJwAAAGcIg3ONgEAAAH2AQBvbm9fdHhuX2JpZDQgICBvbm9fdHhuX2ltcDIgICDVg0On/clv1c_ek-wBHfWbUbU3ka5n6ePiYCao2GIEgMGZuQfTodsi84rBm8O6IQAwJpw0eOMb9b2I_SLyAC_H6Rr7YBuLgiJkLD-o8JV4RKGEj3snGNpzY4u6JW_LauYeQDNYvx59sIRVtqfKUXxpOmR9sj_9rYxel37sH3dkFreggTwAbepw583PatdGcO5xscmRNT8PZ7o7jo-09ZcSh2gNcW-tdPG4GraKnp2lQ_20NrmWA8tf_ncZoaarBtV3fXUCoRjAC24KuDRUB996D9oc5ReusN8asA5EWjNTxQ_2j26CRZPNQTOIhRE4VcQAXA1kwtpEXBVQzkO895AAAEfVuczgWdf2kpsyjTK16n4BWa6u2pO1OBZnNKS_IN4DS8WJIljIK5yB3a6YhijJDnRFqr19Mdf8mFfOzSQhUSgfL4H7jPlCTDvoJFYtRtcqOwOCN7DhP7scPPnexfo7jmUvzTTBH1dbcVjfpJstO3hupGPdbLPDhUbYdMLYYWquqlxdd__FqZhDJwsE0q7_CJJgaqvZm-DcULL0T-XshysvhNsroxI_FSoQC5nmDC1Yk-hhGWsdPp2FxI1VKDVGMCSXYIRu9xiXVOOgRdEGQEd_LX_lTi2ug1KdYNGf0Coy7Hkjc1R1LjmNFrNK2atUF6wppmQQqJNnIo5cJc6WlBlc5nFWI-uM_0ZKvAIDfqVLy_qsCkNbPwIJhZyPndqTb9AD9j2EzJCbt3lBQ31Dg9a80GE-zDeZQLpQq-jV_Q6D_EkiKJ4Z9xYyR7A4AVVtUpK7wBalQbdwNcHpsiB7JEvUNeSVLhzEbq59QgfURpNcfJCmPTvM6dHBKiUQOsonbM3H3q_pede4K-5IbYLVtqvF0s4qbd0tHPtTnRKNpxPxapKYz2mKmVFMOO9BRaiKxUtjdr2wTKcvGMi-eFiTGoadBjSEY1EToh6uebo3vAfiFjvLPDFbND22RXZtxSoZizGoVOFMfUEYPA3VoCbkvZ3wc_MgksgFOBoTw8eqOQjB_QE2TKGdkpB4DMuOGQN5KsMA1zeuI7bXfCSp8RYMMT7XYidszwNhiiS5t1OOuJKCJ6m_sGH2IqNP_ns3gGg8mgoc2EMN8A9A7EVcE7a6Rp7sy-FHl5-bxKfoypTXoVftL6l_0YzAjupveJXPt8riMIMY2mj1vBJV-hQaIFf5EHdfnQ3e9tRr6i3Fpr3XArZVD0ftw-KUQxM8DOHNYL8KuNi70w5k7DikHkOLd-ls5mAp-EAf1OeVR2vm297C1EHy8GpbZvLFHKwY2cvYoO0LyPAlOWz4NkTf23IsvStliWuJV8OK4rrm2Nrxm8h-JHrzh9iy395BCJb5rMEeArbf8OaPQxxzT0jJLmkph2HpS73rVJCiL2pLovMhwNjq-yv0jTM8ky6d6xOdMeW5Hn_ts4FF6rp0HPnU2oezRcnds7DrKAY1PHGLVNkpysoRV9i11n2WbBHaNbY7zgz436T5X7syNBi1bK6-T-VqIVvNwBKCgr5MvLI_SpVPYDTJP-0beeeBQtBYiT7P53xSFIokZ-E-TAbaFUJlXdmJfKu5FluqTwm2u8FKXSxY3BGerZBIdnkvElWBkKhSRRa9Cz5B59k0Se_pLCT-tOdS4Ju2i8Tl-HKrMeUwXOYkfnNZjB-BbFIyjBp__KJ-KCFecUZwjqCi5iXDtmf-xhbk1wQ4fuyvXWC-Doqz-b6odajMRl9RlKKeTqgwdWFmryHAQ/https://www.amazon.com/gp/aw/d/B0FK9W21WP/?_encoding=UTF8&pd_rd_plhdr=t&aaxitk=bf473936f617b411ee2b8f70dc247a09&hsa_cr_id=0&qid=1770097855&sr=1-1-7350ff0b-0901-4bc5-8134-c5f6594b6546&ref_=sbx_s_3psl_sbcd3_asin_0_rating&pd_rd_w=jCZq0&content-id=amzn1.sym.c76b3f09-06ab-4a24-90d3-cc188524b311%3Aamzn1.sym.c76b3f09-06ab-4a24-90d3-cc188524b311&pf_rd_p=c76b3f09-06ab-4a24-90d3-cc188524b311&pf_rd_r=7KFTJS94KY2TE5D8BP5A&pd_rd_wg=EgBT6&pd_rd_r=0d7c36f3-b0f1-49c3-b217-2c3b3e325f9c#customerReviews
+                            - generic [ref=e1974]:
+                              - generic [ref=e1975]: "2.5"
+                              - generic [ref=e1977]: 2.5 out of 5 stars.
+                              - generic [ref=e1978]: (31)
+                          - img "Eligible for Prime." [ref=e1980]
+                    - listitem [ref=e1981]:
+                      - generic [ref=e1983]:
+                        - link [ref=e1984] [cursor=pointer]:
+                          - /url: https://aax-us-east-retail-direct.amazon.com/x/c/JKpvO22MVxBnhljVXZI8sJwAAAGcIg3ONgEAAAH2AQBvbm9fdHhuX2JpZDQgICBvbm9fdHhuX2ltcDIgICDVg0On/clv1c_ek-wBHfWbUbU3ka5n6ePiYCao2GIEgMGZuQfTodsi84rBm8O6IQAwJpw0eOMb9b2I_SLyAC_H6Rr7YBuLgiJkLD-o8JV4RKGEj3snGNpzY4u6JW_LauYeQDNYvx59sIRVtqfKUXxpOmR9sj_9rYxel37sH3dkFreggTwAbepw583PatdGcO5xscmRNT8PZ7o7jo-09ZcSh2gNcW-tdPG4GraKnp2lQ_20NrmWA8tf_ncZoaarBtV3fXUCoRjAC24KuDRUB996D9oc5ReusN8asA5EWjNTxQ_2j26CRZPNQTOIhRE4VcQAXA1kwtpEXBVQzkO895AAAEfVuczgWdf2kpsyjTK16n4BWa6u2pO1OBZnNKS_IN4DS8WJIljIK5yB3a6YhijJDnRFqr19Mdf8mFfOzSQhUSgfL4H7jPlCTDvoJFYtRtcqOwOCN7DhP7scPPnexfo7jmUvzTTBH1dbcVjfpJstO3hupGPdbLPDhUbYdMLYYWquqlxdd__FqZhDJwsE0q7_CJJgaqvZm-DcULL0T-XshysvhNsroxI_FSoQC5nmDC1Yk-hhGWsdPp2FxI1VKDVGMCSXYIRu9xiXVOOgRdEGQEd_LX_lTi2ug1KdYNGf0Coy7Hkjc1R1LjmNFrNK2atUF6wppmQQqJNnIo5cJc6WlBlc5nFWI-uM_0ZKvAIDfqVLy_qsCkNbPwIJhZyPndqTb9AD9j2EzJCbt3lBQ31Dg9a80GE-zDeZQLpQq-jV_Q6D_EkiKJ4Z9xYyR7A4AVVtUpK7wBalQbdwNcHpsiB7JEvUNeSVLhzEbq59QgfURpNcfJCmPTvM6dHBKiUQOsonbM3H3q_pede4K-5IbYLVtqvF0s4qbd0tHPtTnRKNpxPxapKYz2mKmVFMOO9BRaiKxUtjdr2wTKcvGMi-eFiTGoadBjSEY1EToh6uebo3vAfiFjvLPDFbND22RXZtxSoZizGoVOFMfUEYPA3VoCbkvZ3wc_MgksgFOBoTw8eqOQjB_QE2TKGdkpB4DMuOGQN5KsMA1zeuI7bXfCSp8RYMMT7XYidszwNhiiS5t1OOuJKCJ6m_sGH2IqNP_ns3gGg8mgoc2EMN8A9A7EVcE7a6Rp7sy-FHl5-bxKfoypTXoVftL6l_0YzAjupveJXPt8riMIMY2mj1vBJV-hQaIFf5EHdfnQ3e9tRr6i3Fpr3XArZVD0ftw-KUQxM8DOHNYL8KuNi70w5k7DikHkOLd-ls5mAp-EAf1OeVR2vm297C1EHy8GpbZvLFHKwY2cvYoO0LyPAlOWz4NkTf23IsvStliWuJV8OK4rrm2Nrxm8h-JHrzh9iy395BCJb5rMEeArbf8OaPQxxzT0jJLmkph2HpS73rVJCiL2pLovMhwNjq-yv0jTM8ky6d6xOdMeW5Hn_ts4FF6rp0HPnU2oezRcnds7DrKAY1PHGLVNkpysoRV9i11n2WbBHaNbY7zgz436T5X7syNBi1bK6-T-VqIVvNwBKCgr5MvLI_SpVPYDTJP-0beeeBQtBYiT7P53xSFIokZ-E-TAbaFUJlXdmJfKu5FluqTwm2u8FKXSxY3BGerZBIdnkvElWBkKhSRRa9Cz5B59k0Se_pLCT-tOdS4Ju2i8Tl-HKrMeUwXOYkfnNZjB-BbFIyjBp__KJ-KCFecUZwjqCi5iXDtmf-xhbk1wQ4fuyvXWC-Doqz-b6odajMRl9RlKKeTqgwdWFmryHAQ/https://www.amazon.com/gp/aw/d/B0FGTQ9N7Q/?_encoding=UTF8&pd_rd_plhdr=t&aaxitk=bf473936f617b411ee2b8f70dc247a09&hsa_cr_id=0&qid=1770097855&sr=1-2-7350ff0b-0901-4bc5-8134-c5f6594b6546&ref_=sbx_s_3psl_sbcd3_asin_1_bkgd&pd_rd_w=jCZq0&content-id=amzn1.sym.c76b3f09-06ab-4a24-90d3-cc188524b311%3Aamzn1.sym.c76b3f09-06ab-4a24-90d3-cc188524b311&pf_rd_p=c76b3f09-06ab-4a24-90d3-cc188524b311&pf_rd_r=7KFTJS94KY2TE5D8BP5A&pd_rd_wg=EgBT6&pd_rd_r=0d7c36f3-b0f1-49c3-b217-2c3b3e325f9c
+                        - link "YQODSZ for Samsung Galaxy Z Fold 7 Case with S Pen Holder, Military Grade Drop Protection Invisible Kickstand Case Privacy Screen Protector Slim Thin Hard PC Rugger Bumper Cover for Z Fold 7 Blue" [ref=e1986] [cursor=pointer]:
+                          - /url: https://aax-us-east-retail-direct.amazon.com/x/c/JKpvO22MVxBnhljVXZI8sJwAAAGcIg3ONgEAAAH2AQBvbm9fdHhuX2JpZDQgICBvbm9fdHhuX2ltcDIgICDVg0On/clv1c_ek-wBHfWbUbU3ka5n6ePiYCao2GIEgMGZuQfTodsi84rBm8O6IQAwJpw0eOMb9b2I_SLyAC_H6Rr7YBuLgiJkLD-o8JV4RKGEj3snGNpzY4u6JW_LauYeQDNYvx59sIRVtqfKUXxpOmR9sj_9rYxel37sH3dkFreggTwAbepw583PatdGcO5xscmRNT8PZ7o7jo-09ZcSh2gNcW-tdPG4GraKnp2lQ_20NrmWA8tf_ncZoaarBtV3fXUCoRjAC24KuDRUB996D9oc5ReusN8asA5EWjNTxQ_2j26CRZPNQTOIhRE4VcQAXA1kwtpEXBVQzkO895AAAEfVuczgWdf2kpsyjTK16n4BWa6u2pO1OBZnNKS_IN4DS8WJIljIK5yB3a6YhijJDnRFqr19Mdf8mFfOzSQhUSgfL4H7jPlCTDvoJFYtRtcqOwOCN7DhP7scPPnexfo7jmUvzTTBH1dbcVjfpJstO3hupGPdbLPDhUbYdMLYYWquqlxdd__FqZhDJwsE0q7_CJJgaqvZm-DcULL0T-XshysvhNsroxI_FSoQC5nmDC1Yk-hhGWsdPp2FxI1VKDVGMCSXYIRu9xiXVOOgRdEGQEd_LX_lTi2ug1KdYNGf0Coy7Hkjc1R1LjmNFrNK2atUF6wppmQQqJNnIo5cJc6WlBlc5nFWI-uM_0ZKvAIDfqVLy_qsCkNbPwIJhZyPndqTb9AD9j2EzJCbt3lBQ31Dg9a80GE-zDeZQLpQq-jV_Q6D_EkiKJ4Z9xYyR7A4AVVtUpK7wBalQbdwNcHpsiB7JEvUNeSVLhzEbq59QgfURpNcfJCmPTvM6dHBKiUQOsonbM3H3q_pede4K-5IbYLVtqvF0s4qbd0tHPtTnRKNpxPxapKYz2mKmVFMOO9BRaiKxUtjdr2wTKcvGMi-eFiTGoadBjSEY1EToh6uebo3vAfiFjvLPDFbND22RXZtxSoZizGoVOFMfUEYPA3VoCbkvZ3wc_MgksgFOBoTw8eqOQjB_QE2TKGdkpB4DMuOGQN5KsMA1zeuI7bXfCSp8RYMMT7XYidszwNhiiS5t1OOuJKCJ6m_sGH2IqNP_ns3gGg8mgoc2EMN8A9A7EVcE7a6Rp7sy-FHl5-bxKfoypTXoVftL6l_0YzAjupveJXPt8riMIMY2mj1vBJV-hQaIFf5EHdfnQ3e9tRr6i3Fpr3XArZVD0ftw-KUQxM8DOHNYL8KuNi70w5k7DikHkOLd-ls5mAp-EAf1OeVR2vm297C1EHy8GpbZvLFHKwY2cvYoO0LyPAlOWz4NkTf23IsvStliWuJV8OK4rrm2Nrxm8h-JHrzh9iy395BCJb5rMEeArbf8OaPQxxzT0jJLmkph2HpS73rVJCiL2pLovMhwNjq-yv0jTM8ky6d6xOdMeW5Hn_ts4FF6rp0HPnU2oezRcnds7DrKAY1PHGLVNkpysoRV9i11n2WbBHaNbY7zgz436T5X7syNBi1bK6-T-VqIVvNwBKCgr5MvLI_SpVPYDTJP-0beeeBQtBYiT7P53xSFIokZ-E-TAbaFUJlXdmJfKu5FluqTwm2u8FKXSxY3BGerZBIdnkvElWBkKhSRRa9Cz5B59k0Se_pLCT-tOdS4Ju2i8Tl-HKrMeUwXOYkfnNZjB-BbFIyjBp__KJ-KCFecUZwjqCi5iXDtmf-xhbk1wQ4fuyvXWC-Doqz-b6odajMRl9RlKKeTqgwdWFmryHAQ/https://www.amazon.com/gp/aw/d/B0FGTQ9N7Q/?_encoding=UTF8&pd_rd_plhdr=t&aaxitk=bf473936f617b411ee2b8f70dc247a09&hsa_cr_id=0&qid=1770097855&sr=1-2-7350ff0b-0901-4bc5-8134-c5f6594b6546&ref_=sbx_s_3psl_sbcd3_asin_1_img&pd_rd_w=jCZq0&content-id=amzn1.sym.c76b3f09-06ab-4a24-90d3-cc188524b311%3Aamzn1.sym.c76b3f09-06ab-4a24-90d3-cc188524b311&pf_rd_p=c76b3f09-06ab-4a24-90d3-cc188524b311&pf_rd_r=7KFTJS94KY2TE5D8BP5A&pd_rd_wg=EgBT6&pd_rd_r=0d7c36f3-b0f1-49c3-b217-2c3b3e325f9c
+                          - generic [ref=e1988]:
+                            - img "YQODSZ for Samsung Galaxy Z Fold 7 Case with S Pen Holder, Military Grade Drop Protection Invisible Kickstand Case Privacy Screen Protector Slim Thin Hard PC Rugger Bumper Cover for Z Fold 7 Blue"
+                        - generic [ref=e1990]:
+                          - link [ref=e1991] [cursor=pointer]:
+                            - /url: https://aax-us-east-retail-direct.amazon.com/x/c/JKpvO22MVxBnhljVXZI8sJwAAAGcIg3ONgEAAAH2AQBvbm9fdHhuX2JpZDQgICBvbm9fdHhuX2ltcDIgICDVg0On/clv1c_ek-wBHfWbUbU3ka5n6ePiYCao2GIEgMGZuQfTodsi84rBm8O6IQAwJpw0eOMb9b2I_SLyAC_H6Rr7YBuLgiJkLD-o8JV4RKGEj3snGNpzY4u6JW_LauYeQDNYvx59sIRVtqfKUXxpOmR9sj_9rYxel37sH3dkFreggTwAbepw583PatdGcO5xscmRNT8PZ7o7jo-09ZcSh2gNcW-tdPG4GraKnp2lQ_20NrmWA8tf_ncZoaarBtV3fXUCoRjAC24KuDRUB996D9oc5ReusN8asA5EWjNTxQ_2j26CRZPNQTOIhRE4VcQAXA1kwtpEXBVQzkO895AAAEfVuczgWdf2kpsyjTK16n4BWa6u2pO1OBZnNKS_IN4DS8WJIljIK5yB3a6YhijJDnRFqr19Mdf8mFfOzSQhUSgfL4H7jPlCTDvoJFYtRtcqOwOCN7DhP7scPPnexfo7jmUvzTTBH1dbcVjfpJstO3hupGPdbLPDhUbYdMLYYWquqlxdd__FqZhDJwsE0q7_CJJgaqvZm-DcULL0T-XshysvhNsroxI_FSoQC5nmDC1Yk-hhGWsdPp2FxI1VKDVGMCSXYIRu9xiXVOOgRdEGQEd_LX_lTi2ug1KdYNGf0Coy7Hkjc1R1LjmNFrNK2atUF6wppmQQqJNnIo5cJc6WlBlc5nFWI-uM_0ZKvAIDfqVLy_qsCkNbPwIJhZyPndqTb9AD9j2EzJCbt3lBQ31Dg9a80GE-zDeZQLpQq-jV_Q6D_EkiKJ4Z9xYyR7A4AVVtUpK7wBalQbdwNcHpsiB7JEvUNeSVLhzEbq59QgfURpNcfJCmPTvM6dHBKiUQOsonbM3H3q_pede4K-5IbYLVtqvF0s4qbd0tHPtTnRKNpxPxapKYz2mKmVFMOO9BRaiKxUtjdr2wTKcvGMi-eFiTGoadBjSEY1EToh6uebo3vAfiFjvLPDFbND22RXZtxSoZizGoVOFMfUEYPA3VoCbkvZ3wc_MgksgFOBoTw8eqOQjB_QE2TKGdkpB4DMuOGQN5KsMA1zeuI7bXfCSp8RYMMT7XYidszwNhiiS5t1OOuJKCJ6m_sGH2IqNP_ns3gGg8mgoc2EMN8A9A7EVcE7a6Rp7sy-FHl5-bxKfoypTXoVftL6l_0YzAjupveJXPt8riMIMY2mj1vBJV-hQaIFf5EHdfnQ3e9tRr6i3Fpr3XArZVD0ftw-KUQxM8DOHNYL8KuNi70w5k7DikHkOLd-ls5mAp-EAf1OeVR2vm297C1EHy8GpbZvLFHKwY2cvYoO0LyPAlOWz4NkTf23IsvStliWuJV8OK4rrm2Nrxm8h-JHrzh9iy395BCJb5rMEeArbf8OaPQxxzT0jJLmkph2HpS73rVJCiL2pLovMhwNjq-yv0jTM8ky6d6xOdMeW5Hn_ts4FF6rp0HPnU2oezRcnds7DrKAY1PHGLVNkpysoRV9i11n2WbBHaNbY7zgz436T5X7syNBi1bK6-T-VqIVvNwBKCgr5MvLI_SpVPYDTJP-0beeeBQtBYiT7P53xSFIokZ-E-TAbaFUJlXdmJfKu5FluqTwm2u8FKXSxY3BGerZBIdnkvElWBkKhSRRa9Cz5B59k0Se_pLCT-tOdS4Ju2i8Tl-HKrMeUwXOYkfnNZjB-BbFIyjBp__KJ-KCFecUZwjqCi5iXDtmf-xhbk1wQ4fuyvXWC-Doqz-b6odajMRl9RlKKeTqgwdWFmryHAQ/https://www.amazon.com/gp/aw/d/B0FGTQ9N7Q/?_encoding=UTF8&pd_rd_plhdr=t&aaxitk=bf473936f617b411ee2b8f70dc247a09&hsa_cr_id=0&qid=1770097855&sr=1-2-7350ff0b-0901-4bc5-8134-c5f6594b6546&ref_=sbx_s_3psl_sbcd3_asin_1_bkgd&pd_rd_w=jCZq0&content-id=amzn1.sym.c76b3f09-06ab-4a24-90d3-cc188524b311%3Aamzn1.sym.c76b3f09-06ab-4a24-90d3-cc188524b311&pf_rd_p=c76b3f09-06ab-4a24-90d3-cc188524b311&pf_rd_r=7KFTJS94KY2TE5D8BP5A&pd_rd_wg=EgBT6&pd_rd_r=0d7c36f3-b0f1-49c3-b217-2c3b3e325f9c
+                          - link "YQODSZ for Samsung Galaxy Z Fold 7 Case with S Pen Holder, Military Grade Drop Protection Invisible Kickstand Case Privacy Screen Protector Slim Thin Hard PC Rugger Bumper Cover for Z Fold 7 Blue" [ref=e1993] [cursor=pointer]:
+                            - /url: https://aax-us-east-retail-direct.amazon.com/x/c/JKpvO22MVxBnhljVXZI8sJwAAAGcIg3ONgEAAAH2AQBvbm9fdHhuX2JpZDQgICBvbm9fdHhuX2ltcDIgICDVg0On/clv1c_ek-wBHfWbUbU3ka5n6ePiYCao2GIEgMGZuQfTodsi84rBm8O6IQAwJpw0eOMb9b2I_SLyAC_H6Rr7YBuLgiJkLD-o8JV4RKGEj3snGNpzY4u6JW_LauYeQDNYvx59sIRVtqfKUXxpOmR9sj_9rYxel37sH3dkFreggTwAbepw583PatdGcO5xscmRNT8PZ7o7jo-09ZcSh2gNcW-tdPG4GraKnp2lQ_20NrmWA8tf_ncZoaarBtV3fXUCoRjAC24KuDRUB996D9oc5ReusN8asA5EWjNTxQ_2j26CRZPNQTOIhRE4VcQAXA1kwtpEXBVQzkO895AAAEfVuczgWdf2kpsyjTK16n4BWa6u2pO1OBZnNKS_IN4DS8WJIljIK5yB3a6YhijJDnRFqr19Mdf8mFfOzSQhUSgfL4H7jPlCTDvoJFYtRtcqOwOCN7DhP7scPPnexfo7jmUvzTTBH1dbcVjfpJstO3hupGPdbLPDhUbYdMLYYWquqlxdd__FqZhDJwsE0q7_CJJgaqvZm-DcULL0T-XshysvhNsroxI_FSoQC5nmDC1Yk-hhGWsdPp2FxI1VKDVGMCSXYIRu9xiXVOOgRdEGQEd_LX_lTi2ug1KdYNGf0Coy7Hkjc1R1LjmNFrNK2atUF6wppmQQqJNnIo5cJc6WlBlc5nFWI-uM_0ZKvAIDfqVLy_qsCkNbPwIJhZyPndqTb9AD9j2EzJCbt3lBQ31Dg9a80GE-zDeZQLpQq-jV_Q6D_EkiKJ4Z9xYyR7A4AVVtUpK7wBalQbdwNcHpsiB7JEvUNeSVLhzEbq59QgfURpNcfJCmPTvM6dHBKiUQOsonbM3H3q_pede4K-5IbYLVtqvF0s4qbd0tHPtTnRKNpxPxapKYz2mKmVFMOO9BRaiKxUtjdr2wTKcvGMi-eFiTGoadBjSEY1EToh6uebo3vAfiFjvLPDFbND22RXZtxSoZizGoVOFMfUEYPA3VoCbkvZ3wc_MgksgFOBoTw8eqOQjB_QE2TKGdkpB4DMuOGQN5KsMA1zeuI7bXfCSp8RYMMT7XYidszwNhiiS5t1OOuJKCJ6m_sGH2IqNP_ns3gGg8mgoc2EMN8A9A7EVcE7a6Rp7sy-FHl5-bxKfoypTXoVftL6l_0YzAjupveJXPt8riMIMY2mj1vBJV-hQaIFf5EHdfnQ3e9tRr6i3Fpr3XArZVD0ftw-KUQxM8DOHNYL8KuNi70w5k7DikHkOLd-ls5mAp-EAf1OeVR2vm297C1EHy8GpbZvLFHKwY2cvYoO0LyPAlOWz4NkTf23IsvStliWuJV8OK4rrm2Nrxm8h-JHrzh9iy395BCJb5rMEeArbf8OaPQxxzT0jJLmkph2HpS73rVJCiL2pLovMhwNjq-yv0jTM8ky6d6xOdMeW5Hn_ts4FF6rp0HPnU2oezRcnds7DrKAY1PHGLVNkpysoRV9i11n2WbBHaNbY7zgz436T5X7syNBi1bK6-T-VqIVvNwBKCgr5MvLI_SpVPYDTJP-0beeeBQtBYiT7P53xSFIokZ-E-TAbaFUJlXdmJfKu5FluqTwm2u8FKXSxY3BGerZBIdnkvElWBkKhSRRa9Cz5B59k0Se_pLCT-tOdS4Ju2i8Tl-HKrMeUwXOYkfnNZjB-BbFIyjBp__KJ-KCFecUZwjqCi5iXDtmf-xhbk1wQ4fuyvXWC-Doqz-b6odajMRl9RlKKeTqgwdWFmryHAQ/https://www.amazon.com/gp/aw/d/B0FGTQ9N7Q/?_encoding=UTF8&pd_rd_plhdr=t&aaxitk=bf473936f617b411ee2b8f70dc247a09&hsa_cr_id=0&qid=1770097855&sr=1-2-7350ff0b-0901-4bc5-8134-c5f6594b6546&ref_=sbx_s_3psl_sbcd3_asin_1_title&pd_rd_w=jCZq0&content-id=amzn1.sym.c76b3f09-06ab-4a24-90d3-cc188524b311%3Aamzn1.sym.c76b3f09-06ab-4a24-90d3-cc188524b311&pf_rd_p=c76b3f09-06ab-4a24-90d3-cc188524b311&pf_rd_r=7KFTJS94KY2TE5D8BP5A&pd_rd_wg=EgBT6&pd_rd_r=0d7c36f3-b0f1-49c3-b217-2c3b3e325f9c
+                            - generic [ref=e1995]: YQODSZ for Samsung Galaxy Z Fold 7 Case with S Pen Holder, Military Grade Drop Protection Invisible Kickstand Case Privacy Screen Protector Slim Thin Hard PC Rugger Bumper Cover for Z Fold 7 Blue
+                          - link "Rated 3.4 out of 5 stars by 7 reviews. Go to review section." [ref=e1996] [cursor=pointer]:
+                            - /url: https://aax-us-east-retail-direct.amazon.com/x/c/JKpvO22MVxBnhljVXZI8sJwAAAGcIg3ONgEAAAH2AQBvbm9fdHhuX2JpZDQgICBvbm9fdHhuX2ltcDIgICDVg0On/clv1c_ek-wBHfWbUbU3ka5n6ePiYCao2GIEgMGZuQfTodsi84rBm8O6IQAwJpw0eOMb9b2I_SLyAC_H6Rr7YBuLgiJkLD-o8JV4RKGEj3snGNpzY4u6JW_LauYeQDNYvx59sIRVtqfKUXxpOmR9sj_9rYxel37sH3dkFreggTwAbepw583PatdGcO5xscmRNT8PZ7o7jo-09ZcSh2gNcW-tdPG4GraKnp2lQ_20NrmWA8tf_ncZoaarBtV3fXUCoRjAC24KuDRUB996D9oc5ReusN8asA5EWjNTxQ_2j26CRZPNQTOIhRE4VcQAXA1kwtpEXBVQzkO895AAAEfVuczgWdf2kpsyjTK16n4BWa6u2pO1OBZnNKS_IN4DS8WJIljIK5yB3a6YhijJDnRFqr19Mdf8mFfOzSQhUSgfL4H7jPlCTDvoJFYtRtcqOwOCN7DhP7scPPnexfo7jmUvzTTBH1dbcVjfpJstO3hupGPdbLPDhUbYdMLYYWquqlxdd__FqZhDJwsE0q7_CJJgaqvZm-DcULL0T-XshysvhNsroxI_FSoQC5nmDC1Yk-hhGWsdPp2FxI1VKDVGMCSXYIRu9xiXVOOgRdEGQEd_LX_lTi2ug1KdYNGf0Coy7Hkjc1R1LjmNFrNK2atUF6wppmQQqJNnIo5cJc6WlBlc5nFWI-uM_0ZKvAIDfqVLy_qsCkNbPwIJhZyPndqTb9AD9j2EzJCbt3lBQ31Dg9a80GE-zDeZQLpQq-jV_Q6D_EkiKJ4Z9xYyR7A4AVVtUpK7wBalQbdwNcHpsiB7JEvUNeSVLhzEbq59QgfURpNcfJCmPTvM6dHBKiUQOsonbM3H3q_pede4K-5IbYLVtqvF0s4qbd0tHPtTnRKNpxPxapKYz2mKmVFMOO9BRaiKxUtjdr2wTKcvGMi-eFiTGoadBjSEY1EToh6uebo3vAfiFjvLPDFbND22RXZtxSoZizGoVOFMfUEYPA3VoCbkvZ3wc_MgksgFOBoTw8eqOQjB_QE2TKGdkpB4DMuOGQN5KsMA1zeuI7bXfCSp8RYMMT7XYidszwNhiiS5t1OOuJKCJ6m_sGH2IqNP_ns3gGg8mgoc2EMN8A9A7EVcE7a6Rp7sy-FHl5-bxKfoypTXoVftL6l_0YzAjupveJXPt8riMIMY2mj1vBJV-hQaIFf5EHdfnQ3e9tRr6i3Fpr3XArZVD0ftw-KUQxM8DOHNYL8KuNi70w5k7DikHkOLd-ls5mAp-EAf1OeVR2vm297C1EHy8GpbZvLFHKwY2cvYoO0LyPAlOWz4NkTf23IsvStliWuJV8OK4rrm2Nrxm8h-JHrzh9iy395BCJb5rMEeArbf8OaPQxxzT0jJLmkph2HpS73rVJCiL2pLovMhwNjq-yv0jTM8ky6d6xOdMeW5Hn_ts4FF6rp0HPnU2oezRcnds7DrKAY1PHGLVNkpysoRV9i11n2WbBHaNbY7zgz436T5X7syNBi1bK6-T-VqIVvNwBKCgr5MvLI_SpVPYDTJP-0beeeBQtBYiT7P53xSFIokZ-E-TAbaFUJlXdmJfKu5FluqTwm2u8FKXSxY3BGerZBIdnkvElWBkKhSRRa9Cz5B59k0Se_pLCT-tOdS4Ju2i8Tl-HKrMeUwXOYkfnNZjB-BbFIyjBp__KJ-KCFecUZwjqCi5iXDtmf-xhbk1wQ4fuyvXWC-Doqz-b6odajMRl9RlKKeTqgwdWFmryHAQ/https://www.amazon.com/gp/aw/d/B0FGTQ9N7Q/?_encoding=UTF8&pd_rd_plhdr=t&aaxitk=bf473936f617b411ee2b8f70dc247a09&hsa_cr_id=0&qid=1770097855&sr=1-2-7350ff0b-0901-4bc5-8134-c5f6594b6546&ref_=sbx_s_3psl_sbcd3_asin_1_rating&pd_rd_w=jCZq0&content-id=amzn1.sym.c76b3f09-06ab-4a24-90d3-cc188524b311%3Aamzn1.sym.c76b3f09-06ab-4a24-90d3-cc188524b311&pf_rd_p=c76b3f09-06ab-4a24-90d3-cc188524b311&pf_rd_r=7KFTJS94KY2TE5D8BP5A&pd_rd_wg=EgBT6&pd_rd_r=0d7c36f3-b0f1-49c3-b217-2c3b3e325f9c#customerReviews
+                            - generic [ref=e1997]:
+                              - generic [ref=e1998]: "3.4"
+                              - generic [ref=e2000]: 3.4 out of 5 stars.
+                              - generic [ref=e2001]: (7)
+                          - img "Eligible for Prime." [ref=e2003]
+                    - listitem [ref=e2004]:
+                      - generic [ref=e2006]:
+                        - link [ref=e2007] [cursor=pointer]:
+                          - /url: https://aax-us-east-retail-direct.amazon.com/x/c/JKpvO22MVxBnhljVXZI8sJwAAAGcIg3ONgEAAAH2AQBvbm9fdHhuX2JpZDQgICBvbm9fdHhuX2ltcDIgICDVg0On/clv1c_ek-wBHfWbUbU3ka5n6ePiYCao2GIEgMGZuQfTodsi84rBm8O6IQAwJpw0eOMb9b2I_SLyAC_H6Rr7YBuLgiJkLD-o8JV4RKGEj3snGNpzY4u6JW_LauYeQDNYvx59sIRVtqfKUXxpOmR9sj_9rYxel37sH3dkFreggTwAbepw583PatdGcO5xscmRNT8PZ7o7jo-09ZcSh2gNcW-tdPG4GraKnp2lQ_20NrmWA8tf_ncZoaarBtV3fXUCoRjAC24KuDRUB996D9oc5ReusN8asA5EWjNTxQ_2j26CRZPNQTOIhRE4VcQAXA1kwtpEXBVQzkO895AAAEfVuczgWdf2kpsyjTK16n4BWa6u2pO1OBZnNKS_IN4DS8WJIljIK5yB3a6YhijJDnRFqr19Mdf8mFfOzSQhUSgfL4H7jPlCTDvoJFYtRtcqOwOCN7DhP7scPPnexfo7jmUvzTTBH1dbcVjfpJstO3hupGPdbLPDhUbYdMLYYWquqlxdd__FqZhDJwsE0q7_CJJgaqvZm-DcULL0T-XshysvhNsroxI_FSoQC5nmDC1Yk-hhGWsdPp2FxI1VKDVGMCSXYIRu9xiXVOOgRdEGQEd_LX_lTi2ug1KdYNGf0Coy7Hkjc1R1LjmNFrNK2atUF6wppmQQqJNnIo5cJc6WlBlc5nFWI-uM_0ZKvAIDfqVLy_qsCkNbPwIJhZyPndqTb9AD9j2EzJCbt3lBQ31Dg9a80GE-zDeZQLpQq-jV_Q6D_EkiKJ4Z9xYyR7A4AVVtUpK7wBalQbdwNcHpsiB7JEvUNeSVLhzEbq59QgfURpNcfJCmPTvM6dHBKiUQOsonbM3H3q_pede4K-5IbYLVtqvF0s4qbd0tHPtTnRKNpxPxapKYz2mKmVFMOO9BRaiKxUtjdr2wTKcvGMi-eFiTGoadBjSEY1EToh6uebo3vAfiFjvLPDFbND22RXZtxSoZizGoVOFMfUEYPA3VoCbkvZ3wc_MgksgFOBoTw8eqOQjB_QE2TKGdkpB4DMuOGQN5KsMA1zeuI7bXfCSp8RYMMT7XYidszwNhiiS5t1OOuJKCJ6m_sGH2IqNP_ns3gGg8mgoc2EMN8A9A7EVcE7a6Rp7sy-FHl5-bxKfoypTXoVftL6l_0YzAjupveJXPt8riMIMY2mj1vBJV-hQaIFf5EHdfnQ3e9tRr6i3Fpr3XArZVD0ftw-KUQxM8DOHNYL8KuNi70w5k7DikHkOLd-ls5mAp-EAf1OeVR2vm297C1EHy8GpbZvLFHKwY2cvYoO0LyPAlOWz4NkTf23IsvStliWuJV8OK4rrm2Nrxm8h-JHrzh9iy395BCJb5rMEeArbf8OaPQxxzT0jJLmkph2HpS73rVJCiL2pLovMhwNjq-yv0jTM8ky6d6xOdMeW5Hn_ts4FF6rp0HPnU2oezRcnds7DrKAY1PHGLVNkpysoRV9i11n2WbBHaNbY7zgz436T5X7syNBi1bK6-T-VqIVvNwBKCgr5MvLI_SpVPYDTJP-0beeeBQtBYiT7P53xSFIokZ-E-TAbaFUJlXdmJfKu5FluqTwm2u8FKXSxY3BGerZBIdnkvElWBkKhSRRa9Cz5B59k0Se_pLCT-tOdS4Ju2i8Tl-HKrMeUwXOYkfnNZjB-BbFIyjBp__KJ-KCFecUZwjqCi5iXDtmf-xhbk1wQ4fuyvXWC-Doqz-b6odajMRl9RlKKeTqgwdWFmryHAQ/https://www.amazon.com/gp/aw/d/B0FK5TJTFH/?_encoding=UTF8&pd_rd_plhdr=t&aaxitk=bf473936f617b411ee2b8f70dc247a09&hsa_cr_id=0&qid=1770097855&sr=1-3-7350ff0b-0901-4bc5-8134-c5f6594b6546&ref_=sbx_s_3psl_sbcd3_asin_2_bkgd&pd_rd_w=jCZq0&content-id=amzn1.sym.c76b3f09-06ab-4a24-90d3-cc188524b311%3Aamzn1.sym.c76b3f09-06ab-4a24-90d3-cc188524b311&pf_rd_p=c76b3f09-06ab-4a24-90d3-cc188524b311&pf_rd_r=7KFTJS94KY2TE5D8BP5A&pd_rd_wg=EgBT6&pd_rd_r=0d7c36f3-b0f1-49c3-b217-2c3b3e325f9c
+                        - link "YQODSZ for Samsung Galaxy Z Fold 7 Case with Ring Stand, Z Fold 7 Magnetic Case Compatible Magsafe Accessories Privacy Screen Protector Hinge Cover Full-Body Anti-spy Phone Case for Z Fold 7 Blue" [ref=e2009] [cursor=pointer]:
+                          - /url: https://aax-us-east-retail-direct.amazon.com/x/c/JKpvO22MVxBnhljVXZI8sJwAAAGcIg3ONgEAAAH2AQBvbm9fdHhuX2JpZDQgICBvbm9fdHhuX2ltcDIgICDVg0On/clv1c_ek-wBHfWbUbU3ka5n6ePiYCao2GIEgMGZuQfTodsi84rBm8O6IQAwJpw0eOMb9b2I_SLyAC_H6Rr7YBuLgiJkLD-o8JV4RKGEj3snGNpzY4u6JW_LauYeQDNYvx59sIRVtqfKUXxpOmR9sj_9rYxel37sH3dkFreggTwAbepw583PatdGcO5xscmRNT8PZ7o7jo-09ZcSh2gNcW-tdPG4GraKnp2lQ_20NrmWA8tf_ncZoaarBtV3fXUCoRjAC24KuDRUB996D9oc5ReusN8asA5EWjNTxQ_2j26CRZPNQTOIhRE4VcQAXA1kwtpEXBVQzkO895AAAEfVuczgWdf2kpsyjTK16n4BWa6u2pO1OBZnNKS_IN4DS8WJIljIK5yB3a6YhijJDnRFqr19Mdf8mFfOzSQhUSgfL4H7jPlCTDvoJFYtRtcqOwOCN7DhP7scPPnexfo7jmUvzTTBH1dbcVjfpJstO3hupGPdbLPDhUbYdMLYYWquqlxdd__FqZhDJwsE0q7_CJJgaqvZm-DcULL0T-XshysvhNsroxI_FSoQC5nmDC1Yk-hhGWsdPp2FxI1VKDVGMCSXYIRu9xiXVOOgRdEGQEd_LX_lTi2ug1KdYNGf0Coy7Hkjc1R1LjmNFrNK2atUF6wppmQQqJNnIo5cJc6WlBlc5nFWI-uM_0ZKvAIDfqVLy_qsCkNbPwIJhZyPndqTb9AD9j2EzJCbt3lBQ31Dg9a80GE-zDeZQLpQq-jV_Q6D_EkiKJ4Z9xYyR7A4AVVtUpK7wBalQbdwNcHpsiB7JEvUNeSVLhzEbq59QgfURpNcfJCmPTvM6dHBKiUQOsonbM3H3q_pede4K-5IbYLVtqvF0s4qbd0tHPtTnRKNpxPxapKYz2mKmVFMOO9BRaiKxUtjdr2wTKcvGMi-eFiTGoadBjSEY1EToh6uebo3vAfiFjvLPDFbND22RXZtxSoZizGoVOFMfUEYPA3VoCbkvZ3wc_MgksgFOBoTw8eqOQjB_QE2TKGdkpB4DMuOGQN5KsMA1zeuI7bXfCSp8RYMMT7XYidszwNhiiS5t1OOuJKCJ6m_sGH2IqNP_ns3gGg8mgoc2EMN8A9A7EVcE7a6Rp7sy-FHl5-bxKfoypTXoVftL6l_0YzAjupveJXPt8riMIMY2mj1vBJV-hQaIFf5EHdfnQ3e9tRr6i3Fpr3XArZVD0ftw-KUQxM8DOHNYL8KuNi70w5k7DikHkOLd-ls5mAp-EAf1OeVR2vm297C1EHy8GpbZvLFHKwY2cvYoO0LyPAlOWz4NkTf23IsvStliWuJV8OK4rrm2Nrxm8h-JHrzh9iy395BCJb5rMEeArbf8OaPQxxzT0jJLmkph2HpS73rVJCiL2pLovMhwNjq-yv0jTM8ky6d6xOdMeW5Hn_ts4FF6rp0HPnU2oezRcnds7DrKAY1PHGLVNkpysoRV9i11n2WbBHaNbY7zgz436T5X7syNBi1bK6-T-VqIVvNwBKCgr5MvLI_SpVPYDTJP-0beeeBQtBYiT7P53xSFIokZ-E-TAbaFUJlXdmJfKu5FluqTwm2u8FKXSxY3BGerZBIdnkvElWBkKhSRRa9Cz5B59k0Se_pLCT-tOdS4Ju2i8Tl-HKrMeUwXOYkfnNZjB-BbFIyjBp__KJ-KCFecUZwjqCi5iXDtmf-xhbk1wQ4fuyvXWC-Doqz-b6odajMRl9RlKKeTqgwdWFmryHAQ/https://www.amazon.com/gp/aw/d/B0FK5TJTFH/?_encoding=UTF8&pd_rd_plhdr=t&aaxitk=bf473936f617b411ee2b8f70dc247a09&hsa_cr_id=0&qid=1770097855&sr=1-3-7350ff0b-0901-4bc5-8134-c5f6594b6546&ref_=sbx_s_3psl_sbcd3_asin_2_img&pd_rd_w=jCZq0&content-id=amzn1.sym.c76b3f09-06ab-4a24-90d3-cc188524b311%3Aamzn1.sym.c76b3f09-06ab-4a24-90d3-cc188524b311&pf_rd_p=c76b3f09-06ab-4a24-90d3-cc188524b311&pf_rd_r=7KFTJS94KY2TE5D8BP5A&pd_rd_wg=EgBT6&pd_rd_r=0d7c36f3-b0f1-49c3-b217-2c3b3e325f9c
+                          - generic [ref=e2011]:
+                            - img "YQODSZ for Samsung Galaxy Z Fold 7 Case with Ring Stand, Z Fold 7 Magnetic Case Compatible Magsafe Accessories Privacy Screen Protector Hinge Cover Full-Body Anti-spy Phone Case for Z Fold 7 Blue"
+                        - generic [ref=e2013]:
+                          - link [ref=e2014] [cursor=pointer]:
+                            - /url: https://aax-us-east-retail-direct.amazon.com/x/c/JKpvO22MVxBnhljVXZI8sJwAAAGcIg3ONgEAAAH2AQBvbm9fdHhuX2JpZDQgICBvbm9fdHhuX2ltcDIgICDVg0On/clv1c_ek-wBHfWbUbU3ka5n6ePiYCao2GIEgMGZuQfTodsi84rBm8O6IQAwJpw0eOMb9b2I_SLyAC_H6Rr7YBuLgiJkLD-o8JV4RKGEj3snGNpzY4u6JW_LauYeQDNYvx59sIRVtqfKUXxpOmR9sj_9rYxel37sH3dkFreggTwAbepw583PatdGcO5xscmRNT8PZ7o7jo-09ZcSh2gNcW-tdPG4GraKnp2lQ_20NrmWA8tf_ncZoaarBtV3fXUCoRjAC24KuDRUB996D9oc5ReusN8asA5EWjNTxQ_2j26CRZPNQTOIhRE4VcQAXA1kwtpEXBVQzkO895AAAEfVuczgWdf2kpsyjTK16n4BWa6u2pO1OBZnNKS_IN4DS8WJIljIK5yB3a6YhijJDnRFqr19Mdf8mFfOzSQhUSgfL4H7jPlCTDvoJFYtRtcqOwOCN7DhP7scPPnexfo7jmUvzTTBH1dbcVjfpJstO3hupGPdbLPDhUbYdMLYYWquqlxdd__FqZhDJwsE0q7_CJJgaqvZm-DcULL0T-XshysvhNsroxI_FSoQC5nmDC1Yk-hhGWsdPp2FxI1VKDVGMCSXYIRu9xiXVOOgRdEGQEd_LX_lTi2ug1KdYNGf0Coy7Hkjc1R1LjmNFrNK2atUF6wppmQQqJNnIo5cJc6WlBlc5nFWI-uM_0ZKvAIDfqVLy_qsCkNbPwIJhZyPndqTb9AD9j2EzJCbt3lBQ31Dg9a80GE-zDeZQLpQq-jV_Q6D_EkiKJ4Z9xYyR7A4AVVtUpK7wBalQbdwNcHpsiB7JEvUNeSVLhzEbq59QgfURpNcfJCmPTvM6dHBKiUQOsonbM3H3q_pede4K-5IbYLVtqvF0s4qbd0tHPtTnRKNpxPxapKYz2mKmVFMOO9BRaiKxUtjdr2wTKcvGMi-eFiTGoadBjSEY1EToh6uebo3vAfiFjvLPDFbND22RXZtxSoZizGoVOFMfUEYPA3VoCbkvZ3wc_MgksgFOBoTw8eqOQjB_QE2TKGdkpB4DMuOGQN5KsMA1zeuI7bXfCSp8RYMMT7XYidszwNhiiS5t1OOuJKCJ6m_sGH2IqNP_ns3gGg8mgoc2EMN8A9A7EVcE7a6Rp7sy-FHl5-bxKfoypTXoVftL6l_0YzAjupveJXPt8riMIMY2mj1vBJV-hQaIFf5EHdfnQ3e9tRr6i3Fpr3XArZVD0ftw-KUQxM8DOHNYL8KuNi70w5k7DikHkOLd-ls5mAp-EAf1OeVR2vm297C1EHy8GpbZvLFHKwY2cvYoO0LyPAlOWz4NkTf23IsvStliWuJV8OK4rrm2Nrxm8h-JHrzh9iy395BCJb5rMEeArbf8OaPQxxzT0jJLmkph2HpS73rVJCiL2pLovMhwNjq-yv0jTM8ky6d6xOdMeW5Hn_ts4FF6rp0HPnU2oezRcnds7DrKAY1PHGLVNkpysoRV9i11n2WbBHaNbY7zgz436T5X7syNBi1bK6-T-VqIVvNwBKCgr5MvLI_SpVPYDTJP-0beeeBQtBYiT7P53xSFIokZ-E-TAbaFUJlXdmJfKu5FluqTwm2u8FKXSxY3BGerZBIdnkvElWBkKhSRRa9Cz5B59k0Se_pLCT-tOdS4Ju2i8Tl-HKrMeUwXOYkfnNZjB-BbFIyjBp__KJ-KCFecUZwjqCi5iXDtmf-xhbk1wQ4fuyvXWC-Doqz-b6odajMRl9RlKKeTqgwdWFmryHAQ/https://www.amazon.com/gp/aw/d/B0FK5TJTFH/?_encoding=UTF8&pd_rd_plhdr=t&aaxitk=bf473936f617b411ee2b8f70dc247a09&hsa_cr_id=0&qid=1770097855&sr=1-3-7350ff0b-0901-4bc5-8134-c5f6594b6546&ref_=sbx_s_3psl_sbcd3_asin_2_bkgd&pd_rd_w=jCZq0&content-id=amzn1.sym.c76b3f09-06ab-4a24-90d3-cc188524b311%3Aamzn1.sym.c76b3f09-06ab-4a24-90d3-cc188524b311&pf_rd_p=c76b3f09-06ab-4a24-90d3-cc188524b311&pf_rd_r=7KFTJS94KY2TE5D8BP5A&pd_rd_wg=EgBT6&pd_rd_r=0d7c36f3-b0f1-49c3-b217-2c3b3e325f9c
+                          - link "YQODSZ for Samsung Galaxy Z Fold 7 Case with Ring Stand, Z Fold 7 Magnetic Case Compatible Magsafe Accessories Privacy Screen Protector Hinge Cover Full-Body Anti-spy Phone Case for Z Fold 7 Blue" [ref=e2016] [cursor=pointer]:
+                            - /url: https://aax-us-east-retail-direct.amazon.com/x/c/JKpvO22MVxBnhljVXZI8sJwAAAGcIg3ONgEAAAH2AQBvbm9fdHhuX2JpZDQgICBvbm9fdHhuX2ltcDIgICDVg0On/clv1c_ek-wBHfWbUbU3ka5n6ePiYCao2GIEgMGZuQfTodsi84rBm8O6IQAwJpw0eOMb9b2I_SLyAC_H6Rr7YBuLgiJkLD-o8JV4RKGEj3snGNpzY4u6JW_LauYeQDNYvx59sIRVtqfKUXxpOmR9sj_9rYxel37sH3dkFreggTwAbepw583PatdGcO5xscmRNT8PZ7o7jo-09ZcSh2gNcW-tdPG4GraKnp2lQ_20NrmWA8tf_ncZoaarBtV3fXUCoRjAC24KuDRUB996D9oc5ReusN8asA5EWjNTxQ_2j26CRZPNQTOIhRE4VcQAXA1kwtpEXBVQzkO895AAAEfVuczgWdf2kpsyjTK16n4BWa6u2pO1OBZnNKS_IN4DS8WJIljIK5yB3a6YhijJDnRFqr19Mdf8mFfOzSQhUSgfL4H7jPlCTDvoJFYtRtcqOwOCN7DhP7scPPnexfo7jmUvzTTBH1dbcVjfpJstO3hupGPdbLPDhUbYdMLYYWquqlxdd__FqZhDJwsE0q7_CJJgaqvZm-DcULL0T-XshysvhNsroxI_FSoQC5nmDC1Yk-hhGWsdPp2FxI1VKDVGMCSXYIRu9xiXVOOgRdEGQEd_LX_lTi2ug1KdYNGf0Coy7Hkjc1R1LjmNFrNK2atUF6wppmQQqJNnIo5cJc6WlBlc5nFWI-uM_0ZKvAIDfqVLy_qsCkNbPwIJhZyPndqTb9AD9j2EzJCbt3lBQ31Dg9a80GE-zDeZQLpQq-jV_Q6D_EkiKJ4Z9xYyR7A4AVVtUpK7wBalQbdwNcHpsiB7JEvUNeSVLhzEbq59QgfURpNcfJCmPTvM6dHBKiUQOsonbM3H3q_pede4K-5IbYLVtqvF0s4qbd0tHPtTnRKNpxPxapKYz2mKmVFMOO9BRaiKxUtjdr2wTKcvGMi-eFiTGoadBjSEY1EToh6uebo3vAfiFjvLPDFbND22RXZtxSoZizGoVOFMfUEYPA3VoCbkvZ3wc_MgksgFOBoTw8eqOQjB_QE2TKGdkpB4DMuOGQN5KsMA1zeuI7bXfCSp8RYMMT7XYidszwNhiiS5t1OOuJKCJ6m_sGH2IqNP_ns3gGg8mgoc2EMN8A9A7EVcE7a6Rp7sy-FHl5-bxKfoypTXoVftL6l_0YzAjupveJXPt8riMIMY2mj1vBJV-hQaIFf5EHdfnQ3e9tRr6i3Fpr3XArZVD0ftw-KUQxM8DOHNYL8KuNi70w5k7DikHkOLd-ls5mAp-EAf1OeVR2vm297C1EHy8GpbZvLFHKwY2cvYoO0LyPAlOWz4NkTf23IsvStliWuJV8OK4rrm2Nrxm8h-JHrzh9iy395BCJb5rMEeArbf8OaPQxxzT0jJLmkph2HpS73rVJCiL2pLovMhwNjq-yv0jTM8ky6d6xOdMeW5Hn_ts4FF6rp0HPnU2oezRcnds7DrKAY1PHGLVNkpysoRV9i11n2WbBHaNbY7zgz436T5X7syNBi1bK6-T-VqIVvNwBKCgr5MvLI_SpVPYDTJP-0beeeBQtBYiT7P53xSFIokZ-E-TAbaFUJlXdmJfKu5FluqTwm2u8FKXSxY3BGerZBIdnkvElWBkKhSRRa9Cz5B59k0Se_pLCT-tOdS4Ju2i8Tl-HKrMeUwXOYkfnNZjB-BbFIyjBp__KJ-KCFecUZwjqCi5iXDtmf-xhbk1wQ4fuyvXWC-Doqz-b6odajMRl9RlKKeTqgwdWFmryHAQ/https://www.amazon.com/gp/aw/d/B0FK5TJTFH/?_encoding=UTF8&pd_rd_plhdr=t&aaxitk=bf473936f617b411ee2b8f70dc247a09&hsa_cr_id=0&qid=1770097855&sr=1-3-7350ff0b-0901-4bc5-8134-c5f6594b6546&ref_=sbx_s_3psl_sbcd3_asin_2_title&pd_rd_w=jCZq0&content-id=amzn1.sym.c76b3f09-06ab-4a24-90d3-cc188524b311%3Aamzn1.sym.c76b3f09-06ab-4a24-90d3-cc188524b311&pf_rd_p=c76b3f09-06ab-4a24-90d3-cc188524b311&pf_rd_r=7KFTJS94KY2TE5D8BP5A&pd_rd_wg=EgBT6&pd_rd_r=0d7c36f3-b0f1-49c3-b217-2c3b3e325f9c
+                            - generic [ref=e2018]: YQODSZ for Samsung Galaxy Z Fold 7 Case with Ring Stand, Z Fold 7 Magnetic Case Compatible Magsafe Accessories Privacy Screen Protector Hinge Cover Full-Body Anti-spy Phone Case for Z Fold 7 Blue
+                          - link "Rated 4.3 out of 5 stars by 9 reviews. Go to review section." [ref=e2019] [cursor=pointer]:
+                            - /url: https://aax-us-east-retail-direct.amazon.com/x/c/JKpvO22MVxBnhljVXZI8sJwAAAGcIg3ONgEAAAH2AQBvbm9fdHhuX2JpZDQgICBvbm9fdHhuX2ltcDIgICDVg0On/clv1c_ek-wBHfWbUbU3ka5n6ePiYCao2GIEgMGZuQfTodsi84rBm8O6IQAwJpw0eOMb9b2I_SLyAC_H6Rr7YBuLgiJkLD-o8JV4RKGEj3snGNpzY4u6JW_LauYeQDNYvx59sIRVtqfKUXxpOmR9sj_9rYxel37sH3dkFreggTwAbepw583PatdGcO5xscmRNT8PZ7o7jo-09ZcSh2gNcW-tdPG4GraKnp2lQ_20NrmWA8tf_ncZoaarBtV3fXUCoRjAC24KuDRUB996D9oc5ReusN8asA5EWjNTxQ_2j26CRZPNQTOIhRE4VcQAXA1kwtpEXBVQzkO895AAAEfVuczgWdf2kpsyjTK16n4BWa6u2pO1OBZnNKS_IN4DS8WJIljIK5yB3a6YhijJDnRFqr19Mdf8mFfOzSQhUSgfL4H7jPlCTDvoJFYtRtcqOwOCN7DhP7scPPnexfo7jmUvzTTBH1dbcVjfpJstO3hupGPdbLPDhUbYdMLYYWquqlxdd__FqZhDJwsE0q7_CJJgaqvZm-DcULL0T-XshysvhNsroxI_FSoQC5nmDC1Yk-hhGWsdPp2FxI1VKDVGMCSXYIRu9xiXVOOgRdEGQEd_LX_lTi2ug1KdYNGf0Coy7Hkjc1R1LjmNFrNK2atUF6wppmQQqJNnIo5cJc6WlBlc5nFWI-uM_0ZKvAIDfqVLy_qsCkNbPwIJhZyPndqTb9AD9j2EzJCbt3lBQ31Dg9a80GE-zDeZQLpQq-jV_Q6D_EkiKJ4Z9xYyR7A4AVVtUpK7wBalQbdwNcHpsiB7JEvUNeSVLhzEbq59QgfURpNcfJCmPTvM6dHBKiUQOsonbM3H3q_pede4K-5IbYLVtqvF0s4qbd0tHPtTnRKNpxPxapKYz2mKmVFMOO9BRaiKxUtjdr2wTKcvGMi-eFiTGoadBjSEY1EToh6uebo3vAfiFjvLPDFbND22RXZtxSoZizGoVOFMfUEYPA3VoCbkvZ3wc_MgksgFOBoTw8eqOQjB_QE2TKGdkpB4DMuOGQN5KsMA1zeuI7bXfCSp8RYMMT7XYidszwNhiiS5t1OOuJKCJ6m_sGH2IqNP_ns3gGg8mgoc2EMN8A9A7EVcE7a6Rp7sy-FHl5-bxKfoypTXoVftL6l_0YzAjupveJXPt8riMIMY2mj1vBJV-hQaIFf5EHdfnQ3e9tRr6i3Fpr3XArZVD0ftw-KUQxM8DOHNYL8KuNi70w5k7DikHkOLd-ls5mAp-EAf1OeVR2vm297C1EHy8GpbZvLFHKwY2cvYoO0LyPAlOWz4NkTf23IsvStliWuJV8OK4rrm2Nrxm8h-JHrzh9iy395BCJb5rMEeArbf8OaPQxxzT0jJLmkph2HpS73rVJCiL2pLovMhwNjq-yv0jTM8ky6d6xOdMeW5Hn_ts4FF6rp0HPnU2oezRcnds7DrKAY1PHGLVNkpysoRV9i11n2WbBHaNbY7zgz436T5X7syNBi1bK6-T-VqIVvNwBKCgr5MvLI_SpVPYDTJP-0beeeBQtBYiT7P53xSFIokZ-E-TAbaFUJlXdmJfKu5FluqTwm2u8FKXSxY3BGerZBIdnkvElWBkKhSRRa9Cz5B59k0Se_pLCT-tOdS4Ju2i8Tl-HKrMeUwXOYkfnNZjB-BbFIyjBp__KJ-KCFecUZwjqCi5iXDtmf-xhbk1wQ4fuyvXWC-Doqz-b6odajMRl9RlKKeTqgwdWFmryHAQ/https://www.amazon.com/gp/aw/d/B0FK5TJTFH/?_encoding=UTF8&pd_rd_plhdr=t&aaxitk=bf473936f617b411ee2b8f70dc247a09&hsa_cr_id=0&qid=1770097855&sr=1-3-7350ff0b-0901-4bc5-8134-c5f6594b6546&ref_=sbx_s_3psl_sbcd3_asin_2_rating&pd_rd_w=jCZq0&content-id=amzn1.sym.c76b3f09-06ab-4a24-90d3-cc188524b311%3Aamzn1.sym.c76b3f09-06ab-4a24-90d3-cc188524b311&pf_rd_p=c76b3f09-06ab-4a24-90d3-cc188524b311&pf_rd_r=7KFTJS94KY2TE5D8BP5A&pd_rd_wg=EgBT6&pd_rd_r=0d7c36f3-b0f1-49c3-b217-2c3b3e325f9c#customerReviews
+                            - generic [ref=e2020]:
+                              - generic [ref=e2021]: "4.3"
+                              - generic [ref=e2023]: 4.3 out of 5 stars.
+                              - generic [ref=e2024]: (9)
+                          - img "Eligible for Prime." [ref=e2026]
+          - generic [ref=e2032]:
+            - heading "Need help?" [level=2] [ref=e2035]
+            - generic [ref=e2036]:
+              - link "Visit the help section" [ref=e2037] [cursor=pointer]:
+                - /url: /gp/help/customer/display.html?nodeId=468556
+              - text: or
+              - link "contact us" [ref=e2038] [cursor=pointer]:
+                - /url: /gp/help/customer/contact-us
+          - iframe [ref=e2042]:
+            
+        - link "Go back to filtering menu" [ref=e2043] [cursor=pointer]:
+          - /url: "#s-skipLinkTargetForFilterOptions"
+      - generic [ref=e2045]:
+        - link "Skip to main search results" [ref=e2046] [cursor=pointer]:
+          - /url: "#s-skipLinkTargetForMainSearchResults"
+        - generic [ref=e2052]:
+          - group "Brands" [ref=e2053]:
+            - heading "Brands" [level=2] [ref=e2054]
+            - list "Brands" [ref=e2055]:
+              - listitem [ref=e2056]:
+                - link "Apply Samsung filter to narrow results" [ref=e2058] [cursor=pointer]:
+                  - /url: /s?k=mobile+smartphones+under+30000&rh=p_123%3A46655&dc&qid=1770097855&rnid=85457740011&ref=sr_nr_p_123_1&ds=v1%3AC0l6I8K6xuDGlrgqQr6EwBNwmAOvH7%2FnPZI%2FHF0aqOo
+                  - checkbox [ref=e2061]
+                  - text: Samsung
+              - listitem [ref=e2063]:
+                - link "Apply Motorola filter to narrow results" [ref=e2065] [cursor=pointer]:
+                  - /url: /s?k=mobile+smartphones+under+30000&rh=p_123%3A146762&dc&qid=1770097855&rnid=85457740011&ref=sr_nr_p_123_2&ds=v1%3ACOrWIFUDJ4bC%2BQntJy9MnGuQmLALXLmRd5oPIBjvOlw
+                  - checkbox [ref=e2068]
+                  - text: Motorola
+              - listitem [ref=e2070]:
+                - link "Apply TracFone filter to narrow results" [ref=e2072] [cursor=pointer]:
+                  - /url: /s?k=mobile+smartphones+under+30000&rh=p_123%3A319106&dc&qid=1770097855&rnid=85457740011&ref=sr_nr_p_123_3&ds=v1%3ACUHJ1KoHFR74jXHVDcxTvtsm8DUG%2FiE0C7x1YDKmuKQ
+                  - checkbox [ref=e2075]
+                  - text: TracFone
+              - listitem [ref=e2077]:
+                - link "Apply Nokia filter to narrow results" [ref=e2079] [cursor=pointer]:
+                  - /url: /s?k=mobile+smartphones+under+30000&rh=p_123%3A329744&dc&qid=1770097855&rnid=85457740011&ref=sr_nr_p_123_4&ds=v1%3Af2oqPyShdMBlkMjTPI4zd1beisj6pL1WYZEdCg8XrMY
+                  - checkbox [ref=e2082]
+                  - text: Nokia
+          - group "Customer Review" [ref=e2084]:
+            - heading "Customer Review" [level=2] [ref=e2085]
+            - list "Customer Review" [ref=e2086]:
+              - listitem [ref=e2087]:
+                - link "Apply 4 Stars & Up filter to narrow results" [ref=e2090] [cursor=pointer]:
+                  - /url: /s?k=mobile+smartphones+under+30000&rh=p_72%3A2491149011&dc&qid=1770097855&rnid=2491147011&ref=sr_nr_p_72_1&ds=v1%3ALRlWTL%2FGlPbl8yh3g%2FMW%2FbDGvHGY1069Tf3MwJvGY10
+                  - generic [ref=e2092]: 4 Stars
+                  - text: "& Up"
+          - group "Carrier" [ref=e2093]:
+            - heading "Carrier" [level=2] [ref=e2094]
+            - list "Carrier" [ref=e2095]:
+              - listitem [ref=e2096]:
+                - link "Apply Straight Talk filter to narrow results" [ref=e2098] [cursor=pointer]:
+                  - /url: /s?k=mobile+smartphones+under+30000&rh=p_n_g-1004183444091%3A17881868011&dc&qid=1770097855&rnid=17881854011&ref=sr_nr_p_n_g-1004183444091_1&ds=v1%3A76wp6mt1nTBqZ7ZrxqCoe2RZ1RGWiCEZMSgYq3aD%2BK0
+                  - checkbox [ref=e2101]
+                  - text: Straight Talk
+              - listitem [ref=e2103]:
+                - link "Apply T-Mobile filter to narrow results" [ref=e2105] [cursor=pointer]:
+                  - /url: /s?k=mobile+smartphones+under+30000&rh=p_n_g-1004183444091%3A17881869011&dc&qid=1770097855&rnid=17881854011&ref=sr_nr_p_n_g-1004183444091_2&ds=v1%3AxilT8cvgc9d9eGymVuuMCwRRbBIhSGO%2B44Cjahr%2Bn7s
+                  - checkbox [ref=e2108]
+                  - text: T-Mobile
+              - listitem [ref=e2110]:
+                - link "Apply TracFone Wireless filter to narrow results" [ref=e2112] [cursor=pointer]:
+                  - /url: /s?k=mobile+smartphones+under+30000&rh=p_n_g-1004183444091%3A17881871011&dc&qid=1770097855&rnid=17881854011&ref=sr_nr_p_n_g-1004183444091_3&ds=v1%3Ahh6AnJCx27X4wLab1wMW4cbCgkyFL%2BBxw8bajgLL%2Bzc
+                  - checkbox [ref=e2115]
+                  - text: TracFone Wireless
+              - listitem [ref=e2117]:
+                - link "Apply Unlocked filter to narrow results" [ref=e2119] [cursor=pointer]:
+                  - /url: /s?k=mobile+smartphones+under+30000&rh=p_n_g-1004183444091%3A21596696011&dc&qid=1770097855&rnid=17881854011&ref=sr_nr_p_n_g-1004183444091_4&ds=v1%3AcVO6lg3z7bo%2FykQ4fVzTA%2FVk9GIKHwQb%2Bfu6WD2Gx6Y
+                  - checkbox [ref=e2122]
+                  - text: Unlocked
+              - listitem [ref=e2124]:
+                - link "Apply Verizon Wireless filter to narrow results" [ref=e2126] [cursor=pointer]:
+                  - /url: /s?k=mobile+smartphones+under+30000&rh=p_n_g-1004183444091%3A17881873011&dc&qid=1770097855&rnid=17881854011&ref=sr_nr_p_n_g-1004183444091_5&ds=v1%3AD6nP7PzFU7l1XHFYZ336S8RuLIqdcX80U0I21jFjyjE
+                  - checkbox [ref=e2129]
+                  - text: Verizon Wireless
+          - group "Storage Capacity" [ref=e2131]:
+            - heading "Storage Capacity" [level=2] [ref=e2132]
+            - list "Storage Capacity" [ref=e2133]:
+              - listitem [ref=e2134]:
+                - link "Apply Up to 3.9 GB filter to narrow results" [ref=e2136] [cursor=pointer]:
+                  - /url: /s?k=mobile+smartphones+under+30000&rh=p_n_g-1003492455111%3A25926954011&dc&qid=1770097855&rnid=25926948011&ref=sr_nr_p_n_g-1003492455111_1&ds=v1%3AfdBDBXY42TL0ns126y8r%2BqeYDYDrHyLmPNXIRWmq%2Fjw
+                  - checkbox [ref=e2139]
+                  - text: Up to 3.9 GB
+              - listitem [ref=e2141]:
+                - link "Apply 4 GB filter to narrow results" [ref=e2143] [cursor=pointer]:
+                  - /url: /s?k=mobile+smartphones+under+30000&rh=p_n_g-1003492455111%3A25926956011&dc&qid=1770097855&rnid=25926948011&ref=sr_nr_p_n_g-1003492455111_2&ds=v1%3AFyQKaT5D8z3kF5%2FFaO5AwKh6IUY5Pmqo2fvy60oS5Rc
+                  - checkbox [ref=e2146]
+                  - text: 4 GB
+              - listitem [ref=e2148]:
+                - link "Apply 8 GB filter to narrow results" [ref=e2150] [cursor=pointer]:
+                  - /url: /s?k=mobile+smartphones+under+30000&rh=p_n_g-1003492455111%3A25926952011&dc&qid=1770097855&rnid=25926948011&ref=sr_nr_p_n_g-1003492455111_3&ds=v1%3Av8TsiUEwMJhBE1hoJ03Zbo81OE4J1fT4QQNVUEk1KXQ
+                  - checkbox [ref=e2153]
+                  - text: 8 GB
+              - listitem [ref=e2155]:
+                - link "Apply 16 GB filter to narrow results" [ref=e2157] [cursor=pointer]:
+                  - /url: /s?k=mobile+smartphones+under+30000&rh=p_n_g-1003492455111%3A25926958011&dc&qid=1770097855&rnid=25926948011&ref=sr_nr_p_n_g-1003492455111_4&ds=v1%3A1CvvbMrXi34uQt%2FmyFftlIv1JRzt8EYJ2opigL7GIbM
+                  - checkbox [ref=e2160]
+                  - text: 16 GB
+              - listitem [ref=e2162]:
+                - link "Apply 32 GB filter to narrow results" [ref=e2164] [cursor=pointer]:
+                  - /url: /s?k=mobile+smartphones+under+30000&rh=p_n_g-1003492455111%3A108501312011&dc&qid=1770097855&rnid=25926948011&ref=sr_nr_p_n_g-1003492455111_5&ds=v1%3Aqlx6QEOX1Q6x5AsHEbpHncotdg0LNSxTRWUbSCEL494
+                  - checkbox [ref=e2167]
+                  - text: 32 GB
+              - listitem [ref=e2169]:
+                - link "Apply 64 GB filter to narrow results" [ref=e2171] [cursor=pointer]:
+                  - /url: /s?k=mobile+smartphones+under+30000&rh=p_n_g-1003492455111%3A108501315011&dc&qid=1770097855&rnid=25926948011&ref=sr_nr_p_n_g-1003492455111_6&ds=v1%3ABMlcvlUeodDXO%2F%2B5lqXxLioZbLfvfZkG9k%2BLe15KY3o
+                  - checkbox [ref=e2174]
+                  - text: 64 GB
+              - listitem [ref=e2176]:
+                - link "Apply 128 GB filter to narrow results" [ref=e2178] [cursor=pointer]:
+                  - /url: /s?k=mobile+smartphones+under+30000&rh=p_n_g-1003492455111%3A108501313011&dc&qid=1770097855&rnid=25926948011&ref=sr_nr_p_n_g-1003492455111_7&ds=v1%3AWrATOC2%2B2pLpZAYzTYPUFG0eqJJGqaBh8gE8FDfbPNM
+                  - checkbox [ref=e2181]
+                  - text: 128 GB
+              - listitem [ref=e2183]:
+                - link "Apply 256 GB filter to narrow results" [ref=e2185] [cursor=pointer]:
+                  - /url: /s?k=mobile+smartphones+under+30000&rh=p_n_g-1003492455111%3A108501314011&dc&qid=1770097855&rnid=25926948011&ref=sr_nr_p_n_g-1003492455111_8&ds=v1%3AW%2B6KWdEHoJ3IoKf%2FY5UqhsPqvXm3wHYbtQ3ACQtWL9E
+                  - checkbox [ref=e2188]
+                  - text: 256 GB
+          - group "Operating System Version" [ref=e2190]:
+            - heading "Operating System Version" [level=2] [ref=e2191]
+            - list "Operating System Version" [ref=e2192]:
+              - listitem [ref=e2193]:
+                - link "Apply Android 13.0 filter to narrow results" [ref=e2195] [cursor=pointer]:
+                  - /url: /s?k=mobile+smartphones+under+30000&rh=p_n_g-1003517064111%3A36816631011&dc&qid=1770097855&rnid=36816607011&ref=sr_nr_p_n_g-1003517064111_1&ds=v1%3Aeoezni81Y6O99bBBVmb7XFyhis%2FSiq8UJe%2FWysXqAMA
+                  - checkbox [ref=e2198]
+                  - text: Android 13.0
+              - listitem [ref=e2200]:
+                - link "Apply Android 14 filter to narrow results" [ref=e2202] [cursor=pointer]:
+                  - /url: /s?k=mobile+smartphones+under+30000&rh=p_n_g-1003517064111%3A206815308011&dc&qid=1770097855&rnid=36816607011&ref=sr_nr_p_n_g-1003517064111_2&ds=v1%3A2EniFHYPS0khsjna%2FoiTnkba1ojhI1AAlMEUBz3Rqpw
+                  - checkbox [ref=e2205]
+                  - text: Android 14
+              - listitem [ref=e2207]:
+                - link "Apply Android 12.0 filter to narrow results" [ref=e2209] [cursor=pointer]:
+                  - /url: /s?k=mobile+smartphones+under+30000&rh=p_n_g-1003517064111%3A36816641011&dc&qid=1770097855&rnid=36816607011&ref=sr_nr_p_n_g-1003517064111_3&ds=v1%3APnPBAhb%2BpVDJch7u82zvhU7UOsNbhhOOzx%2FcvK9w6MQ
+                  - checkbox [ref=e2212]
+                  - text: Android 12.0
+              - listitem [ref=e2214]:
+                - link "Apply Android 10.0 filter to narrow results" [ref=e2216] [cursor=pointer]:
+                  - /url: /s?k=mobile+smartphones+under+30000&rh=p_n_g-1003517064111%3A36816640011&dc&qid=1770097855&rnid=36816607011&ref=sr_nr_p_n_g-1003517064111_4&ds=v1%3AzPWhjHhRb9HuPXQQ1E7g6LFsXZ07a%2FWfIMySWpU%2B%2B2M
+                  - checkbox [ref=e2219]
+                  - text: Android 10.0
+              - listitem [ref=e2221]:
+                - link "Apply Android 8.1 filter to narrow results" [ref=e2223] [cursor=pointer]:
+                  - /url: /s?k=mobile+smartphones+under+30000&rh=p_n_g-1003517064111%3A36816655011&dc&qid=1770097855&rnid=36816607011&ref=sr_nr_p_n_g-1003517064111_5&ds=v1%3AkApzzz3lMkXiSAC2ZMUm3ZNAMe2Mqxo8ceX8tZqGGD8
+                  - checkbox [ref=e2226]
+                  - text: Android 8.1
+              - listitem [ref=e2228]:
+                - link "Apply KaiOS filter to narrow results" [ref=e2230] [cursor=pointer]:
+                  - /url: /s?k=mobile+smartphones+under+30000&rh=p_n_g-1003517064111%3A69690506011&dc&qid=1770097855&rnid=36816607011&ref=sr_nr_p_n_g-1003517064111_6&ds=v1%3AZF2kKVOZcPLUiq68wMdsNvcOqiT7%2BehMMgMBOeGxdUU
+                  - checkbox [ref=e2233]
+                  - text: KaiOS
+          - group "Condition" [ref=e2235]:
+            - heading "Condition" [level=2] [ref=e2236]
+            - list "Condition" [ref=e2237]:
+              - listitem [ref=e2238]:
+                - link "Apply New filter to narrow results" [ref=e2240] [cursor=pointer]:
+                  - /url: /s?k=mobile+smartphones+under+30000&rh=p_n_condition-type%3A6503240011&dc&qid=1770097855&rnid=6503239011&ref=sr_nr_p_n_condition-type_1&ds=v1%3AMdYhGadHSMPeEQePWLwn2Uy5I4iaxtEGTDnqDUlmzpE
+                  - checkbox [ref=e2243]
+                  - text: New
+              - listitem [ref=e2245]:
+                - link "Apply Renewed filter to narrow results" [ref=e2247] [cursor=pointer]:
+                  - /url: /s?k=mobile+smartphones+under+30000&rh=p_n_condition-type%3A16907722011&dc&qid=1770097855&rnid=6503239011&ref=sr_nr_p_n_condition-type_2&ds=v1%3AMGtrOmK5vq3sjtqFOJkeimp0zS1Zb4bWyvT9Nz%2BBxOE
+                  - checkbox [ref=e2250]
+                  - text: Renewed
+              - listitem [ref=e2252]:
+                - link "Apply Used filter to narrow results" [ref=e2254] [cursor=pointer]:
+                  - /url: /s?k=mobile+smartphones+under+30000&rh=p_n_condition-type%3A6503242011&dc&qid=1770097855&rnid=6503239011&ref=sr_nr_p_n_condition-type_3&ds=v1%3AT%2FCJ5wltAKXtcPm4TbRfZPKCAOz8oZbHsZVkk5xTMmg
+                  - checkbox [ref=e2257]
+                  - text: Used
+          - group "Model Year" [ref=e2259]:
+            - heading "Model Year" [level=2] [ref=e2260]
+            - list "Model Year" [ref=e2261]:
+              - listitem [ref=e2262]:
+                - link "Apply 2024 filter to narrow results" [ref=e2264] [cursor=pointer]:
+                  - /url: /s?k=mobile+smartphones+under+30000&rh=p_n_g-1004218864091%3A23732470011&dc&qid=1770097855&rnid=4972967011&ref=sr_nr_p_n_g-1004218864091_1&ds=v1%3AfuaKX%2FwvJHeP4ZDYzkrVtb0UeHM5GFaapSre%2FFWNh54
+                  - checkbox [ref=e2267]
+                  - text: "2024"
+              - listitem [ref=e2269]:
+                - link "Apply 2023 filter to narrow results" [ref=e2271] [cursor=pointer]:
+                  - /url: /s?k=mobile+smartphones+under+30000&rh=p_n_g-1004218864091%3A23732468011&dc&qid=1770097855&rnid=4972967011&ref=sr_nr_p_n_g-1004218864091_2&ds=v1%3AqHBETdDu8NuZ2nfH%2BCJg4cQt7qpwgWFKhDqitfbrnDI
+                  - checkbox [ref=e2274]
+                  - text: "2023"
+              - listitem [ref=e2276]:
+                - link "Apply 2022 filter to narrow results" [ref=e2278] [cursor=pointer]:
+                  - /url: /s?k=mobile+smartphones+under+30000&rh=p_n_g-1004218864091%3A23732472011&dc&qid=1770097855&rnid=4972967011&ref=sr_nr_p_n_g-1004218864091_3&ds=v1%3AEt5LynY80Vca8T7ZA68EbxqRJspQFLwAuY7JEioQo68
+                  - checkbox [ref=e2281]
+                  - text: "2022"
+              - listitem [ref=e2283]:
+                - link "Apply 2021 filter to narrow results" [ref=e2285] [cursor=pointer]:
+                  - /url: /s?k=mobile+smartphones+under+30000&rh=p_n_g-1004218864091%3A23478599011&dc&qid=1770097855&rnid=4972967011&ref=sr_nr_p_n_g-1004218864091_4&ds=v1%3Adi0pUXRKkzGNhrVT%2BIM17BieXzYhszXmdTDH8QVMBRo
+                  - checkbox [ref=e2288]
+                  - text: "2021"
+              - listitem [ref=e2290]:
+                - link "Apply 2018 filter to narrow results" [ref=e2292] [cursor=pointer]:
+                  - /url: /s?k=mobile+smartphones+under+30000&rh=p_n_g-1004218864091%3A17599302011&dc&qid=1770097855&rnid=4972967011&ref=sr_nr_p_n_g-1004218864091_5&ds=v1%3AwcreuJ4LajOw9n0weiGrVMJAKbUcs2pvZ8mBGpBm9xs
+                  - checkbox [ref=e2295]
+                  - text: "2018"
+          - group "Screen Size" [ref=e2297]:
+            - heading "Screen Size" [level=2] [ref=e2298]
+            - list "Screen Size" [ref=e2299]:
+              - listitem [ref=e2300]:
+                - link "Apply Up to 4.9 in filter to narrow results" [ref=e2302] [cursor=pointer]:
+                  - /url: /s?k=mobile+smartphones+under+30000&rh=p_n_feature_browse-bin%3A212270917011&dc&qid=1770097855&rnid=212270913011&ref=sr_nr_p_n_feature_browse-bin_1&ds=v1%3AQV5POECx6n4SOYe7h3eUQ8O6%2BwaAHwNhFMU8bpjA5bI
+                  - checkbox [ref=e2305]
+                  - text: Up to 4.9 in
+              - listitem [ref=e2307]:
+                - link "Apply 5 to 5.9 in filter to narrow results" [ref=e2309] [cursor=pointer]:
+                  - /url: /s?k=mobile+smartphones+under+30000&rh=p_n_feature_browse-bin%3A212270914011&dc&qid=1770097855&rnid=212270913011&ref=sr_nr_p_n_feature_browse-bin_2&ds=v1%3AXEEcKFyynZUkeLm9KPKZth8Z8kpSQU5QV62DJAT8Jl4
+                  - checkbox [ref=e2312]
+                  - text: 5 to 5.9 in
+              - listitem [ref=e2314]:
+                - link "Apply 6 to 6.9 in filter to narrow results" [ref=e2316] [cursor=pointer]:
+                  - /url: /s?k=mobile+smartphones+under+30000&rh=p_n_feature_browse-bin%3A212270919011&dc&qid=1770097855&rnid=212270913011&ref=sr_nr_p_n_feature_browse-bin_3&ds=v1%3AtHSLXebWfgimXIyxs8NJk9PPaPsEL9JrQPB9ZbMiUQI
+                  - checkbox [ref=e2319]
+                  - text: 6 to 6.9 in
+          - group "Deals & Discounts" [ref=e2321]:
+            - heading "Deals & Discounts" [level=2] [ref=e2322]
+            - list "Deals & Discounts" [ref=e2323]:
+              - listitem [ref=e2324]:
+                - link "All Discounts" [ref=e2326] [cursor=pointer]:
+                  - /url: /s?k=mobile+smartphones+under+30000&rh=p_n_deal_type%3A23566065011&dc&qid=1770097855&rnid=23566063011&ref=sr_nr_p_n_deal_type_1&ds=v1%3ATMxCa2r1hJdl18a1WhR8xGwPOjXNGSV8PaBS1tzQp1E
+          - group "Color" [ref=e2327]:
+            - heading "Color" [level=2] [ref=e2328]
+            - list "Color" [ref=e2329]:
+              - listitem [ref=e2330]:
+                - generic:
+                  - link "Apply Black filter to narrow results":
+                    - /url: /s?k=mobile+smartphones+under+30000&rh=p_n_g-1004151068091%3A17352535011&dc&qid=1770097855&rnid=17352534011&ref=sr_nr_p_n_g-1004151068091_1&ds=v1%3ASlSq%2BNuCEH%2BffMO2%2FiXM64qoXBfsjzjxR4YdEVfr4OI
+              - listitem [ref=e2332]:
+                - generic:
+                  - link "Apply Blue filter to narrow results":
+                    - /url: /s?k=mobile+smartphones+under+30000&rh=p_n_g-1004151068091%3A17352545011&dc&qid=1770097855&rnid=17352534011&ref=sr_nr_p_n_g-1004151068091_2&ds=v1%3AU9GzbQg%2B2KK7egzPCf%2BnyWc2n4iIjxyw311wjJs8uY8
+              - listitem [ref=e2334]:
+                - generic:
+                  - link "Apply Grey filter to narrow results":
+                    - /url: /s?k=mobile+smartphones+under+30000&rh=p_n_g-1004151068091%3A17352536011&dc&qid=1770097855&rnid=17352534011&ref=sr_nr_p_n_g-1004151068091_3&ds=v1%3Al9Pq1hejbJo69az2o%2BoUk4r%2Baj8BSvm3cmrlWVMuu3o
+              - listitem [ref=e2336]:
+                - generic:
+                  - link "Apply White filter to narrow results":
+                    - /url: /s?k=mobile+smartphones+under+30000&rh=p_n_g-1004151068091%3A17352537011&dc&qid=1770097855&rnid=17352534011&ref=sr_nr_p_n_g-1004151068091_4&ds=v1%3AqAYEVylPkQUvbvGgbYsUdDd6eZ44rhHYQu7wUeX%2Bk7M
+              - listitem [ref=e2338]:
+                - generic:
+                  - link "Apply Gold filter to narrow results":
+                    - /url: /s?k=mobile+smartphones+under+30000&rh=p_n_g-1004151068091%3A17352547011&dc&qid=1770097855&rnid=17352534011&ref=sr_nr_p_n_g-1004151068091_5&ds=v1%3A9wPK9fr7A2%2FZw9lm9UXyIToeC%2BLY7%2FurVx0drqTKU90
+              - listitem [ref=e2340]:
+                - generic:
+                  - link "Apply Silver filter to narrow results":
+                    - /url: /s?k=mobile+smartphones+under+30000&rh=p_n_g-1004151068091%3A17352548011&dc&qid=1770097855&rnid=17352534011&ref=sr_nr_p_n_g-1004151068091_6&ds=v1%3A9HphB1rAJ%2FOS%2BIEQpF6x3PZlPZos5SaiNfjeNb3sE1w
+              - listitem [ref=e2342]:
+                - generic:
+                  - link "Apply Pink filter to narrow results":
+                    - /url: /s?k=mobile+smartphones+under+30000&rh=p_n_g-1004151068091%3A17352541011&dc&qid=1770097855&rnid=17352534011&ref=sr_nr_p_n_g-1004151068091_7&ds=v1%3AFkrjbHNNvXSC7Yn%2BqAs0TYx57D0RbsxpPNLbNac7dcI
+              - listitem [ref=e2344]:
+                - generic:
+                  - link "Apply Green filter to narrow results":
+                    - /url: /s?k=mobile+smartphones+under+30000&rh=p_n_g-1004151068091%3A17352544011&dc&qid=1770097855&rnid=17352534011&ref=sr_nr_p_n_g-1004151068091_8&ds=v1%3AMbBhsxwK%2BJbVHW9i1W40tO3rysZC8rQPLLNartCP3w0
+          - group "Top Brands" [ref=e2346]:
+            - heading "Top Brands" [level=2] [ref=e2347]
+            - list "Top Brands" [ref=e2348]:
+              - listitem [ref=e2349]:
+                - link "Apply Top Brands filter to narrow results" [ref=e2351] [cursor=pointer]:
+                  - /url: /s?k=mobile+smartphones+under+30000&rh=p_n_g-101014971069111%3A119653281011&dc&qid=1770097855&rnid=119653280011&ref=sr_nr_p_n_g-101014971069111_1&ds=v1%3A3uEz%2BKdYzdNjbezrsA1BP2SnstCpM%2BaWMqDlok4eo3Y
+                  - checkbox [ref=e2354]
+                  - text: Top Brands
+          - group "Connectivity" [ref=e2356]:
+            - heading "Connectivity" [level=2] [ref=e2357]
+            - list "Connectivity" [ref=e2358]:
+              - listitem [ref=e2359]:
+                - link "Apply Bluetooth filter to narrow results" [ref=e2361] [cursor=pointer]:
+                  - /url: /s?k=mobile+smartphones+under+30000&rh=p_n_g-1002112230111%3A23488162011&dc&qid=1770097855&rnid=23488159011&ref=sr_nr_p_n_g-1002112230111_1&ds=v1%3AvHS90r3NUC159L4WZZ6FtSRacwdDp6QGs2GAGKDNk%2Fo
+                  - checkbox [ref=e2364]
+                  - text: Bluetooth
+              - listitem [ref=e2366]:
+                - link "Apply NFC filter to narrow results" [ref=e2368] [cursor=pointer]:
+                  - /url: /s?k=mobile+smartphones+under+30000&rh=p_n_g-1002112230111%3A23488164011&dc&qid=1770097855&rnid=23488159011&ref=sr_nr_p_n_g-1002112230111_2&ds=v1%3AP4UtJeV%2FufmmHrIm8QCxbHZ8XMvoYRqMplOzOWlYrEs
+                  - checkbox [ref=e2371]
+                  - text: NFC
+              - listitem [ref=e2373]:
+                - link "Apply USB filter to narrow results" [ref=e2375] [cursor=pointer]:
+                  - /url: /s?k=mobile+smartphones+under+30000&rh=p_n_g-1002112230111%3A23488161011&dc&qid=1770097855&rnid=23488159011&ref=sr_nr_p_n_g-1002112230111_3&ds=v1%3AJJWpxJrV1h37N5oGOEN%2B4bqEbm386aeZ8FZob6vOqWY
+                  - checkbox [ref=e2378]
+                  - text: USB
+              - listitem [ref=e2380]:
+                - link "Apply Wi-Fi filter to narrow results" [ref=e2382] [cursor=pointer]:
+                  - /url: /s?k=mobile+smartphones+under+30000&rh=p_n_g-1002112230111%3A23488163011&dc&qid=1770097855&rnid=23488159011&ref=sr_nr_p_n_g-1002112230111_4&ds=v1%3AXZ4YflVrjL11ohBIgGeMRJ0gZivGkCASQNRjHEQsxxU
+                  - checkbox [ref=e2385]
+                  - text: Wi-Fi
+          - group "Water Resistance Level" [ref=e2387]:
+            - heading "Water Resistance Level" [level=2] [ref=e2388]
+            - list "Water Resistance Level" [ref=e2389]:
+              - listitem [ref=e2390]:
+                - link "Apply Not Water Resistant filter to narrow results" [ref=e2392] [cursor=pointer]:
+                  - /url: /s?k=mobile+smartphones+under+30000&rh=p_n_g-1004246264091%3A23484212011&dc&qid=1770097855&rnid=11636674011&ref=sr_nr_p_n_g-1004246264091_1&ds=v1%3AQDKZfHJTakwiDE%2BFnclvtt0XQ6eXoLitiMF6f8CcCtI
+                  - checkbox [ref=e2395]
+                  - text: Not Water Resistant
+              - listitem [ref=e2397]:
+                - link "Apply Water Repellent filter to narrow results" [ref=e2399] [cursor=pointer]:
+                  - /url: /s?k=mobile+smartphones+under+30000&rh=p_n_g-1004246264091%3A212335663011&dc&qid=1770097855&rnid=11636674011&ref=sr_nr_p_n_g-1004246264091_2&ds=v1%3AWUnCiurIdgKVr9SknqZhFk3oBsFfKoO3UWCc3xv2kPo
+                  - checkbox [ref=e2402]
+                  - text: Water Repellent
+              - listitem [ref=e2404]:
+                - link "Apply Water-Resistant filter to narrow results" [ref=e2406] [cursor=pointer]:
+                  - /url: /s?k=mobile+smartphones+under+30000&rh=p_n_g-1004246264091%3A11636675011&dc&qid=1770097855&rnid=11636674011&ref=sr_nr_p_n_g-1004246264091_3&ds=v1%3AR%2F%2F1RvxoNbBXyHHlyEp98SVbZVTW8qWql08%2FpkHrmE8
+                  - checkbox [ref=e2409]
+                  - text: Water-Resistant
+              - listitem [ref=e2411]:
+                - link "Apply Waterproof filter to narrow results" [ref=e2413] [cursor=pointer]:
+                  - /url: /s?k=mobile+smartphones+under+30000&rh=p_n_g-1004246264091%3A11636676011&dc&qid=1770097855&rnid=11636674011&ref=sr_nr_p_n_g-1004246264091_4&ds=v1%3Ax22bhH2sazVNKJolxz%2FUkP%2B%2Fll5Lpbp57C6k7AKJ4d0
+                  - checkbox [ref=e2416]
+                  - text: Waterproof
+          - group "RAM Size" [ref=e2418]:
+            - heading "RAM Size" [level=2] [ref=e2419]
+            - list "RAM Size" [ref=e2420]:
+              - listitem [ref=e2421]:
+                - link "Apply 2 to 3.9 GB filter to narrow results" [ref=e2423] [cursor=pointer]:
+                  - /url: /s?k=mobile+smartphones+under+30000&rh=p_n_g-1003495121111%3A26277004011&dc&qid=1770097855&rnid=26276986011&ref=sr_nr_p_n_g-1003495121111_1&ds=v1%3AHMk4SVzAsq3YI9bc%2FouskRiN7ECuDrJKak%2FAzHuB5YY
+                  - checkbox [ref=e2426]
+                  - text: 2 to 3.9 GB
+              - listitem [ref=e2428]:
+                - link "Apply 4 to 5.9 GB filter to narrow results" [ref=e2430] [cursor=pointer]:
+                  - /url: /s?k=mobile+smartphones+under+30000&rh=p_n_g-1003495121111%3A26277007011&dc&qid=1770097855&rnid=26276986011&ref=sr_nr_p_n_g-1003495121111_2&ds=v1%3ACwSMb6r8c%2Bmr%2Fq01l%2FoYzqav28lKCW%2FuL6XAGVp8DdY
+                  - checkbox [ref=e2433]
+                  - text: 4 to 5.9 GB
+              - listitem [ref=e2435]:
+                - link "Apply 6 to 7.9 GB filter to narrow results" [ref=e2437] [cursor=pointer]:
+                  - /url: /s?k=mobile+smartphones+under+30000&rh=p_n_g-1003495121111%3A26277002011&dc&qid=1770097855&rnid=26276986011&ref=sr_nr_p_n_g-1003495121111_3&ds=v1%3A2q%2FJi6xDRk0%2F3Q1IJVCeWifgTo9ZA0a7i6vxqKByB2I
+                  - checkbox [ref=e2440]
+                  - text: 6 to 7.9 GB
+              - listitem [ref=e2442]:
+                - link "Apply 8 to 9.9 GB filter to narrow results" [ref=e2444] [cursor=pointer]:
+                  - /url: /s?k=mobile+smartphones+under+30000&rh=p_n_g-1003495121111%3A26277003011&dc&qid=1770097855&rnid=26276986011&ref=sr_nr_p_n_g-1003495121111_4&ds=v1%3AF%2BTvHHUtE4F8MjL5%2BDbKktrKnqi8Pa3VXhw0WcwlTJU
+                  - checkbox [ref=e2447]
+                  - text: 8 to 9.9 GB
+              - listitem [ref=e2449]:
+                - link "Apply 10 GB & above filter to narrow results" [ref=e2451] [cursor=pointer]:
+                  - /url: /s?k=mobile+smartphones+under+30000&rh=p_n_g-1003495121111%3A26277005011&dc&qid=1770097855&rnid=26276986011&ref=sr_nr_p_n_g-1003495121111_5&ds=v1%3ArDo%2BEtU%2FmfH69MXmdkEIvp8Sbjn6xXzF%2F9WFtoSKuxI
+                  - checkbox [ref=e2454]
+                  - text: 10 GB & above
+          - group "Seller" [ref=e2456]:
+            - heading "Seller" [level=2] [ref=e2457]
+            - list "Seller" [ref=e2458]:
+              - listitem [ref=e2459]:
+                - link "Apply US Seller/We ship from USA filter to narrow results" [ref=e2461] [cursor=pointer]:
+                  - /url: /s?k=mobile+smartphones+under+30000&rh=p_6%3AAFQPZYR6C7MD0&dc&qid=1770097855&rnid=2491153011&ref=sr_nr_p_6_1&ds=v1%3APOZMXPCHgxUvacQvUZeFHR67XbZznKswk0Kulx6Z9aY
+                  - checkbox [ref=e2464]
+                  - text: US Seller/We ship from USA
+              - listitem [ref=e2466]:
+                - link "Apply Amazon.com filter to narrow results" [ref=e2468] [cursor=pointer]:
+                  - /url: /s?k=mobile+smartphones+under+30000&rh=p_6%3AATVPDKIKX0DER&dc&qid=1770097855&rnid=2491153011&ref=sr_nr_p_6_2&ds=v1%3ACTL0n8w%2BG%2BRw1EEAqseUYefaSvgJfB3mPMDwa4uLwCc
+                  - checkbox [ref=e2471]
+                  - text: Amazon.com
+              - listitem [ref=e2473]:
+                - button "See more, Seller" [ref=e2476] [cursor=pointer]: See more
+          - group "Battery Capacity" [ref=e2478]:
+            - heading "Battery Capacity" [level=2] [ref=e2479]
+            - list "Battery Capacity" [ref=e2480]:
+              - listitem [ref=e2481]:
+                - link "Apply Up to 2,999 mAh filter to narrow results" [ref=e2483] [cursor=pointer]:
+                  - /url: /s?k=mobile+smartphones+under+30000&rh=p_n_g-101015098008111%3A120185115011&dc&qid=1770097855&rnid=120185111011&ref=sr_nr_p_n_g-101015098008111_1&ds=v1%3AJdriSduWmlIuv7EcLifz1f7Asd8hECirZL8OZsNSJuo
+                  - checkbox [ref=e2486]
+                  - text: Up to 2,999 mAh
+              - listitem [ref=e2488]:
+                - link "Apply 3,000 to 3,999 mAh filter to narrow results" [ref=e2490] [cursor=pointer]:
+                  - /url: /s?k=mobile+smartphones+under+30000&rh=p_n_g-101015098008111%3A120185114011&dc&qid=1770097855&rnid=120185111011&ref=sr_nr_p_n_g-101015098008111_2&ds=v1%3Ax0y7jlULMXu7AczxKKg03rAoPSLKB%2FYoWDCznsR8PL8
+                  - checkbox [ref=e2493]
+                  - text: 3,000 to 3,999 mAh
+              - listitem [ref=e2495]:
+                - link "Apply 4,000 to 4,999 mAh filter to narrow results" [ref=e2497] [cursor=pointer]:
+                  - /url: /s?k=mobile+smartphones+under+30000&rh=p_n_g-101015098008111%3A120185112011&dc&qid=1770097855&rnid=120185111011&ref=sr_nr_p_n_g-101015098008111_3&ds=v1%3Aoe78PAvDk1bMWNLUjeBzQGRlLMTV2qx2xKypsOBMzEM
+                  - checkbox [ref=e2500]
+                  - text: 4,000 to 4,999 mAh
+              - listitem [ref=e2502]:
+                - link "Apply 5,000 to 5,999 mAh filter to narrow results" [ref=e2504] [cursor=pointer]:
+                  - /url: /s?k=mobile+smartphones+under+30000&rh=p_n_g-101015098008111%3A120185113011&dc&qid=1770097855&rnid=120185111011&ref=sr_nr_p_n_g-101015098008111_4&ds=v1%3AP0Pf3nm7EjYjvZjeWf6N706sEoRPC6er0U9UW8j1tms
+                  - checkbox [ref=e2507]
+                  - text: 5,000 to 5,999 mAh
+              - listitem [ref=e2509]:
+                - link "Apply 6,000 mAh & Above filter to narrow results" [ref=e2511] [cursor=pointer]:
+                  - /url: /s?k=mobile+smartphones+under+30000&rh=p_n_g-101015098008111%3A120224515011&dc&qid=1770097855&rnid=120185111011&ref=sr_nr_p_n_g-101015098008111_5&ds=v1%3AcoXUsvg%2BmrgQ1XBq7J8HSToDm%2BP57He4EyIWAxm%2Bf%2Bs
+                  - checkbox [ref=e2514]
+                  - text: 6,000 mAh & Above
+          - group "Connector Type" [ref=e2516]:
+            - heading "Connector Type" [level=2] [ref=e2517]
+            - list "Connector Type" [ref=e2518]:
+              - listitem [ref=e2519]:
+                - link "Apply 3.5mm Jack filter to narrow results" [ref=e2521] [cursor=pointer]:
+                  - /url: /s?k=mobile+smartphones+under+30000&rh=p_n_g-1002085485111%3A23487393011&dc&qid=1770097855&rnid=23487388011&ref=sr_nr_p_n_g-1002085485111_1&ds=v1%3A8T0VAREXGPiepdVsGZgxzGN%2FyU%2FSrhQqlEWZ9elAvPg
+                  - checkbox [ref=e2524]
+                  - text: 3.5mm Jack
+              - listitem [ref=e2526]:
+                - link "Apply Micro USB filter to narrow results" [ref=e2528] [cursor=pointer]:
+                  - /url: /s?k=mobile+smartphones+under+30000&rh=p_n_g-1002085485111%3A23487389011&dc&qid=1770097855&rnid=23487388011&ref=sr_nr_p_n_g-1002085485111_2&ds=v1%3ACtIJtB9bE9n%2FCdMdE6l%2Fv1YfO3jFniORtxXmkS8CC7I
+                  - checkbox [ref=e2531]
+                  - text: Micro USB
+              - listitem [ref=e2533]:
+                - link "Apply USB Type C filter to narrow results" [ref=e2535] [cursor=pointer]:
+                  - /url: /s?k=mobile+smartphones+under+30000&rh=p_n_g-1002085485111%3A23487392011&dc&qid=1770097855&rnid=23487388011&ref=sr_nr_p_n_g-1002085485111_3&ds=v1%3ApgMZx8HChrvU8dw6S2PODJj%2BKEkuJkHPH5N%2FeDWCBag
+                  - checkbox [ref=e2538]
+                  - text: USB Type C
+          - group "Included Components" [ref=e2540]:
+            - heading "Included Components" [level=2] [ref=e2541]
+            - list "Included Components" [ref=e2542]:
+              - listitem [ref=e2543]:
+                - link "Apply USB Cable filter to narrow results" [ref=e2545] [cursor=pointer]:
+                  - /url: /s?k=mobile+smartphones+under+30000&rh=p_n_g-101013594324111%3A78258515011&dc&qid=1770097855&rnid=78258464011&ref=sr_nr_p_n_g-101013594324111_1&ds=v1%3Apw%2FT1XGXkA9ZRAtDe95nEtguGZdOsWFBJ%2BFfJR%2FNyR0
+                  - checkbox [ref=e2548]
+                  - text: USB Cable
+              - listitem [ref=e2550]:
+                - link "Apply Phone Case filter to narrow results" [ref=e2552] [cursor=pointer]:
+                  - /url: /s?k=mobile+smartphones+under+30000&rh=p_n_g-101013594324111%3A78258524011&dc&qid=1770097855&rnid=78258464011&ref=sr_nr_p_n_g-101013594324111_2&ds=v1%3ANmg8YEqcjAqyYe%2BSAIT%2BT50nwAi%2BTSGtpDbH%2Fzw%2BfHM
+                  - checkbox [ref=e2555]
+                  - text: Phone Case
+              - listitem [ref=e2557]:
+                - link "Apply Power Adapter filter to narrow results" [ref=e2559] [cursor=pointer]:
+                  - /url: /s?k=mobile+smartphones+under+30000&rh=p_n_g-101013594324111%3A78258526011&dc&qid=1770097855&rnid=78258464011&ref=sr_nr_p_n_g-101013594324111_3&ds=v1%3AWjWiu5u9Kxm7TpZS6il4nxX7OqoyuguxqTp5447kqPI
+                  - checkbox [ref=e2562]
+                  - text: Power Adapter
+              - listitem [ref=e2564]:
+                - link "Apply SIM Tray Ejector filter to narrow results" [ref=e2566] [cursor=pointer]:
+                  - /url: /s?k=mobile+smartphones+under+30000&rh=p_n_g-101013594324111%3A78258512011&dc&qid=1770097855&rnid=78258464011&ref=sr_nr_p_n_g-101013594324111_4&ds=v1%3AkS5Is6RphfluTsq4Mh8CKNnLEAdKuxCd28oN1wYZIos
+                  - checkbox [ref=e2569]
+                  - text: SIM Tray Ejector
+              - listitem [ref=e2571]:
+                - link "Apply Headset filter to narrow results" [ref=e2573] [cursor=pointer]:
+                  - /url: /s?k=mobile+smartphones+under+30000&rh=p_n_g-101013594324111%3A78258520011&dc&qid=1770097855&rnid=78258464011&ref=sr_nr_p_n_g-101013594324111_5&ds=v1%3AuZQ5h1RofSf7wqjUcNmeuVGvcNbvR4A9PSi8gtb2d00
+                  - checkbox [ref=e2576]
+                  - text: Headset
+              - listitem [ref=e2578]:
+                - link "Apply USB OTG Adapter filter to narrow results" [ref=e2580] [cursor=pointer]:
+                  - /url: /s?k=mobile+smartphones+under+30000&rh=p_n_g-101013594324111%3A78258517011&dc&qid=1770097855&rnid=78258464011&ref=sr_nr_p_n_g-101013594324111_6&ds=v1%3A79UHnvWY6KTO1R2sW8NUHlDNlqHz1yviiONklsfdgyE
+                  - checkbox [ref=e2583]
+                  - text: USB OTG Adapter
+          - group "SIM Card Slot Count" [ref=e2585]:
+            - heading "SIM Card Slot Count" [level=2] [ref=e2586]
+            - list "SIM Card Slot Count" [ref=e2587]:
+              - listitem [ref=e2588]:
+                - link "Apply Single SIM filter to narrow results" [ref=e2590] [cursor=pointer]:
+                  - /url: /s?k=mobile+smartphones+under+30000&rh=p_n_g-1002989427111%3A23627289011&dc&qid=1770097855&rnid=23627287011&ref=sr_nr_p_n_g-1002989427111_1&ds=v1%3AyRBL8LyJNkTIR7LNLFmedsd9u%2F%2B%2B%2BGzXbQfoiMvl12g
+                  - checkbox [ref=e2593]
+                  - text: Single SIM
+              - listitem [ref=e2595]:
+                - link "Apply Dual SIM filter to narrow results" [ref=e2597] [cursor=pointer]:
+                  - /url: /s?k=mobile+smartphones+under+30000&rh=p_n_g-1002989427111%3A23627290011&dc&qid=1770097855&rnid=23627287011&ref=sr_nr_p_n_g-1002989427111_2&ds=v1%3ALvgJlMdAAxGLsqKtjRwPDEq8eeHyrviy3wXdEchMynw
+                  - checkbox [ref=e2600]
+                  - text: Dual SIM
+              - listitem [ref=e2602]:
+                - link "Apply E Sim filter to narrow results" [ref=e2604] [cursor=pointer]:
+                  - /url: /s?k=mobile+smartphones+under+30000&rh=p_n_g-1002989427111%3A207962852011&dc&qid=1770097855&rnid=23627287011&ref=sr_nr_p_n_g-1002989427111_3&ds=v1%3Ab4O1lMigm6LDMS9zwza84RrO33fFkHV0MX0viAEWTtU
+                  - checkbox [ref=e2607]
+                  - text: E Sim
+          - group "Display Type" [ref=e2609]:
+            - heading "Display Type" [level=2] [ref=e2610]
+            - list "Display Type" [ref=e2611]:
+              - listitem [ref=e2612]:
+                - link "Apply AMOLED filter to narrow results" [ref=e2614] [cursor=pointer]:
+                  - /url: /s?k=mobile+smartphones+under+30000&rh=p_n_g-101013595158111%3A78258532011&dc&qid=1770097855&rnid=78258466011&ref=sr_nr_p_n_g-101013595158111_1&ds=v1%3AzrMS%2FSJnarUi0CPyiL0%2FNZaquWREqwKlnqWpDCc4Ha4
+                  - checkbox [ref=e2617]
+                  - text: AMOLED
+              - listitem [ref=e2619]:
+                - link "Apply LCD filter to narrow results" [ref=e2621] [cursor=pointer]:
+                  - /url: /s?k=mobile+smartphones+under+30000&rh=p_n_g-101013595158111%3A78258530011&dc&qid=1770097855&rnid=78258466011&ref=sr_nr_p_n_g-101013595158111_2&ds=v1%3ASNqDujv8C%2FbzQOlN6mi2rADc2nyX5ei1Cryo17u057c
+                  - checkbox [ref=e2624]
+                  - text: LCD
+              - listitem [ref=e2626]:
+                - link "Apply OLED filter to narrow results" [ref=e2628] [cursor=pointer]:
+                  - /url: /s?k=mobile+smartphones+under+30000&rh=p_n_g-101013595158111%3A78258533011&dc&qid=1770097855&rnid=78258466011&ref=sr_nr_p_n_g-101013595158111_3&ds=v1%3AykPbfbOdAWyMg0uyJtVKVMrB6DlA003P8YwgRDtrD5c
+                  - checkbox [ref=e2631]
+                  - text: OLED
+          - group "Camera Resolution" [ref=e2633]:
+            - heading "Camera Resolution" [level=2] [ref=e2634]
+            - list "Camera Resolution" [ref=e2635]:
+              - listitem [ref=e2636]:
+                - generic [ref=e2637]:
+                  - checkbox [disabled] [ref=e2640]
+                  - text: Up to 2.9 MP
+              - listitem [ref=e2642]:
+                - generic [ref=e2643]:
+                  - checkbox [disabled] [ref=e2646]
+                  - text: 3 to 4.9 MP
+              - listitem [ref=e2648]:
+                - link "Apply 5 to 7.9 MP filter to narrow results" [ref=e2650] [cursor=pointer]:
+                  - /url: /s?k=mobile+smartphones+under+30000&rh=p_n_g-1004151207091%3A14674915011&dc&qid=1770097855&rnid=14674912011&ref=sr_nr_p_n_g-1004151207091_3&ds=v1%3AFSxxnid4zVLHNxwHtcsTm5a5CCt6mk0U5y7OmFaC6EI
+                  - checkbox [ref=e2653]
+                  - text: 5 to 7.9 MP
+              - listitem [ref=e2655]:
+                - generic [ref=e2656]:
+                  - checkbox [disabled] [ref=e2659]
+                  - text: 8 to 12.9 MP
+              - listitem [ref=e2661]:
+                - link "Apply 13 to 19.9 MP filter to narrow results" [ref=e2663] [cursor=pointer]:
+                  - /url: /s?k=mobile+smartphones+under+30000&rh=p_n_g-1004151207091%3A14674917011&dc&qid=1770097855&rnid=14674912011&ref=sr_nr_p_n_g-1004151207091_5&ds=v1%3A4nWmb5vLqsOfwiOFHHmjSisoZGQUI5Y9Q1aXlFbLNSI
+                  - checkbox [ref=e2666]
+                  - text: 13 to 19.9 MP
+              - listitem [ref=e2668]:
+                - link "Apply 20 MP & above filter to narrow results" [ref=e2670] [cursor=pointer]:
+                  - /url: /s?k=mobile+smartphones+under+30000&rh=p_n_g-1004151207091%3A14674918011&dc&qid=1770097855&rnid=14674912011&ref=sr_nr_p_n_g-1004151207091_6&ds=v1%3AY1oDtyGMd6oEAXfrr%2FBc3JJb%2F3DjoKMvXvgA5U%2BgB1s
+                  - checkbox [ref=e2673]
+                  - text: 20 MP & above
+          - group "Security Feature" [ref=e2675]:
+            - heading "Security Feature" [level=2] [ref=e2676]
+            - list "Security Feature" [ref=e2677]:
+              - listitem [ref=e2678]:
+                - link "Apply Face Recognition filter to narrow results" [ref=e2680] [cursor=pointer]:
+                  - /url: /s?k=mobile+smartphones+under+30000&rh=p_n_g-1002085472111%3A23478592011&dc&qid=1770097855&rnid=23478591011&ref=sr_nr_p_n_g-1002085472111_1&ds=v1%3Azymea418b3z0H%2Frhct1RwjTBS7U2qYycPO7sHDlYvZM
+                  - checkbox [ref=e2683]
+                  - text: Face Recognition
+              - listitem [ref=e2685]:
+                - link "Apply Fingerprint Recognition filter to narrow results" [ref=e2687] [cursor=pointer]:
+                  - /url: /s?k=mobile+smartphones+under+30000&rh=p_n_g-1002085472111%3A23478596011&dc&qid=1770097855&rnid=23478591011&ref=sr_nr_p_n_g-1002085472111_2&ds=v1%3ADMGU8b%2BDC%2BKzxJ4Y1pRulWNs5MjudHSycf3GGYeAUPw
+                  - checkbox [ref=e2690]
+                  - text: Fingerprint Recognition
+          - group "Sim Card Size" [ref=e2692]:
+            - heading "Sim Card Size" [level=2] [ref=e2693]
+            - list "Sim Card Size" [ref=e2694]:
+              - listitem [ref=e2695]:
+                - link "Apply Micro filter to narrow results" [ref=e2697] [cursor=pointer]:
+                  - /url: /s?k=mobile+smartphones+under+30000&rh=p_n_g-1002989370111%3A23641565011&dc&qid=1770097855&rnid=23641563011&ref=sr_nr_p_n_g-1002989370111_1&ds=v1%3A5ruv83p6aVuKISGOaE%2BP7CJy92Mr57Aa%2F3a1PU3f4rY
+                  - checkbox [ref=e2700]
+                  - text: Micro
+              - listitem [ref=e2702]:
+                - link "Apply Nano filter to narrow results" [ref=e2704] [cursor=pointer]:
+                  - /url: /s?k=mobile+smartphones+under+30000&rh=p_n_g-1002989370111%3A23641566011&dc&qid=1770097855&rnid=23641563011&ref=sr_nr_p_n_g-1002989370111_2&ds=v1%3AUZUvk3Bgbspj%2BiM2Ojn1y%2FQxx1GlDn3XX3Eei5r28%2Bs
+                  - checkbox [ref=e2707]
+                  - text: Nano
+          - group "GPS Navigation" [ref=e2709]:
+            - heading "GPS Navigation" [level=2] [ref=e2710]
+            - list "GPS Navigation" [ref=e2711]:
+              - listitem [ref=e2712]:
+                - link "Apply False filter to narrow results" [ref=e2714] [cursor=pointer]:
+                  - /url: /s?k=mobile+smartphones+under+30000&rh=p_n_g-101015364874111%3A121475839011&dc&qid=1770097855&rnid=121475810011&ref=sr_nr_p_n_g-101015364874111_1&ds=v1%3A%2FTH5PfxVG5gW1XCG4jgZylMlAPryEjINHowZbsOHtBQ
+                  - checkbox [ref=e2717]
+                  - text: "False"
+              - listitem [ref=e2719]:
+                - link "Apply True filter to narrow results" [ref=e2721] [cursor=pointer]:
+                  - /url: /s?k=mobile+smartphones+under+30000&rh=p_n_g-101015364874111%3A121475838011&dc&qid=1770097855&rnid=121475810011&ref=sr_nr_p_n_g-101015364874111_2&ds=v1%3AHc5SRXUC3%2FaJlP%2FtOToOIeuYEgBhUBWmOlTPv93K2%2FQ
+                  - checkbox [ref=e2724]
+                  - text: "True"
+          - group "Headphones Jack" [ref=e2726]:
+            - heading "Headphones Jack" [level=2] [ref=e2727]
+            - list "Headphones Jack" [ref=e2728]:
+              - listitem [ref=e2729]:
+                - link "Apply 3.5 mm filter to narrow results" [ref=e2731] [cursor=pointer]:
+                  - /url: /s?k=mobile+smartphones+under+30000&rh=p_n_g-101015501406111%3A122268298011&dc&qid=1770097855&rnid=122268182011&ref=sr_nr_p_n_g-101015501406111_1&ds=v1%3AFpzPXDVSZIHJNkLJZzTwkKOOCASUDA8fqPLEF6fAiAs
+                  - checkbox [ref=e2734]
+                  - text: 3.5 mm
+          - group "Wireless Network Technology" [ref=e2736]:
+            - heading "Wireless Network Technology" [level=2] [ref=e2737]
+            - list "Wireless Network Technology" [ref=e2738]:
+              - listitem [ref=e2739]:
+                - link "Apply LTE filter to narrow results" [ref=e2741] [cursor=pointer]:
+                  - /url: /s?k=mobile+smartphones+under+30000&rh=p_n_g-101015498571111%3A122269818011&dc&qid=1770097855&rnid=122269791011&ref=sr_nr_p_n_g-101015498571111_1&ds=v1%3AJSrsOYVa0tbGYOqJcbpSE5ozER%2Fh%2F6XHU4YYo2Y%2BwHM
+                  - checkbox [ref=e2744]
+                  - text: LTE
+              - listitem [ref=e2746]:
+                - link "Apply GSM filter to narrow results" [ref=e2748] [cursor=pointer]:
+                  - /url: /s?k=mobile+smartphones+under+30000&rh=p_n_g-101015498571111%3A122269820011&dc&qid=1770097855&rnid=122269791011&ref=sr_nr_p_n_g-101015498571111_2&ds=v1%3A6YE6unodqefS8ThKuENdGOoa%2B4vCOs44%2FYZealuLBTU
+                  - checkbox [ref=e2751]
+                  - text: GSM
+              - listitem [ref=e2753]:
+                - link "Apply Wi-Fi filter to narrow results" [ref=e2755] [cursor=pointer]:
+                  - /url: /s?k=mobile+smartphones+under+30000&rh=p_n_g-101015498571111%3A122269816011&dc&qid=1770097855&rnid=122269791011&ref=sr_nr_p_n_g-101015498571111_3&ds=v1%3ANSyS1FIOD3gvtcat9AQzHFZrVI%2BhKkRDY%2FV%2BbMCgpNo
+                  - checkbox [ref=e2758]
+                  - text: Wi-Fi
+              - listitem [ref=e2760]:
+                - link "Apply CDMA filter to narrow results" [ref=e2762] [cursor=pointer]:
+                  - /url: /s?k=mobile+smartphones+under+30000&rh=p_n_g-101015498571111%3A122269825011&dc&qid=1770097855&rnid=122269791011&ref=sr_nr_p_n_g-101015498571111_4&ds=v1%3AWVMqD0DakOdZ0%2F1LGAqIaX%2Bx7EXef0cjaFPXlCCAkPs
+                  - checkbox [ref=e2765]
+                  - text: CDMA
+              - listitem [ref=e2767]:
+                - link "Apply UMTS filter to narrow results" [ref=e2769] [cursor=pointer]:
+                  - /url: /s?k=mobile+smartphones+under+30000&rh=p_n_g-101015498571111%3A122269822011&dc&qid=1770097855&rnid=122269791011&ref=sr_nr_p_n_g-101015498571111_5&ds=v1%3AsFVeKaLTv%2BWsp%2BKk5bFQcgMlFA41Eu%2FblpPOVpXsYOo
+                  - checkbox [ref=e2772]
+                  - text: UMTS
+          - group "Display Refresh Rate in Hertz" [ref=e2774]:
+            - heading "Display Refresh Rate in Hertz" [level=2] [ref=e2775]
+            - list "Display Refresh Rate in Hertz" [ref=e2776]:
+              - listitem [ref=e2777]:
+                - link "Apply 60 filter to narrow results" [ref=e2779] [cursor=pointer]:
+                  - /url: /s?k=mobile+smartphones+under+30000&rh=p_n_g-101017397158111%3A214854102011&dc&qid=1770097855&rnid=214854100011&ref=sr_nr_p_n_g-101017397158111_1&ds=v1%3AkAAdQ6PDkqMf8lX3FRMFAng2TuBSubwOMRb8N8BGIjc
+                  - checkbox [ref=e2782]
+                  - text: "60"
+              - listitem [ref=e2784]:
+                - link "Apply 90 filter to narrow results" [ref=e2786] [cursor=pointer]:
+                  - /url: /s?k=mobile+smartphones+under+30000&rh=p_n_g-101017397158111%3A214854101011&dc&qid=1770097855&rnid=214854100011&ref=sr_nr_p_n_g-101017397158111_2&ds=v1%3AWFgi34kEwjBRG8RfqV8C1JXiqAsxiScoagDdDlwTVG0
+                  - checkbox [ref=e2789]
+                  - text: "90"
+              - listitem [ref=e2791]:
+                - link "Apply 120 filter to narrow results" [ref=e2793] [cursor=pointer]:
+                  - /url: /s?k=mobile+smartphones+under+30000&rh=p_n_g-101017397158111%3A214854115011&dc&qid=1770097855&rnid=214854100011&ref=sr_nr_p_n_g-101017397158111_3&ds=v1%3Ae0oU7rRRWUCS28MFQEzNzRi3X49bb7AMGHsbvMER%2BNY
+                  - checkbox [ref=e2796]
+                  - text: "120"
+          - group "Length" [ref=e2798]:
+            - heading "Length" [level=2] [ref=e2799]
+            - list "Length" [ref=e2800]:
+              - listitem [ref=e2801]:
+                - link "Apply Up to 3.9 in filter to narrow results" [ref=e2803] [cursor=pointer]:
+                  - /url: /s?k=mobile+smartphones+under+30000&rh=p_n_g-101015506536111%3A122272652011&dc&qid=1770097855&rnid=122272589011&ref=sr_nr_p_n_g-101015506536111_1&ds=v1%3ArVnuy7Lt2tEYPHyEuPmF%2FXzNMsIX7bD0Zpns0fG9KH4
+                  - checkbox [ref=e2806]
+                  - text: Up to 3.9 in
+              - listitem [ref=e2808]:
+                - link "Apply 5 to 5.9 in filter to narrow results" [ref=e2810] [cursor=pointer]:
+                  - /url: /s?k=mobile+smartphones+under+30000&rh=p_n_g-101015506536111%3A122272650011&dc&qid=1770097855&rnid=122272589011&ref=sr_nr_p_n_g-101015506536111_2&ds=v1%3ArlnAQpyu5w%2BsfjOW0XnIHMWPEYXvGJpC4dwGe8PdokQ
+                  - checkbox [ref=e2813]
+                  - text: 5 to 5.9 in
+              - listitem [ref=e2815]:
+                - link "Apply 6 in & above filter to narrow results" [ref=e2817] [cursor=pointer]:
+                  - /url: /s?k=mobile+smartphones+under+30000&rh=p_n_g-101015506536111%3A122272651011&dc&qid=1770097855&rnid=122272589011&ref=sr_nr_p_n_g-101015506536111_3&ds=v1%3AxosgnnUqAGNzEivqehpmlDbrBq%2FPqVn%2FiuQH0HnA0Sc
+                  - checkbox [ref=e2820]
+                  - text: 6 in & above
+          - group "Width" [ref=e2822]:
+            - heading "Width" [level=2] [ref=e2823]
+            - list "Width" [ref=e2824]:
+              - listitem [ref=e2825]:
+                - link "Apply Up to 1 in filter to narrow results" [ref=e2827] [cursor=pointer]:
+                  - /url: /s?k=mobile+smartphones+under+30000&rh=p_n_g-101015506639111%3A122272648011&dc&qid=1770097855&rnid=122272588011&ref=sr_nr_p_n_g-101015506639111_1&ds=v1%3AZHb%2FixmPyo6Bex0%2Bsl%2Fihr9R7YIi%2BVWp5SlvNWlFeC4
+                  - checkbox [ref=e2830]
+                  - text: Up to 1 in
+              - listitem [ref=e2832]:
+                - link "Apply 1 to 1.9 in filter to narrow results" [ref=e2834] [cursor=pointer]:
+                  - /url: /s?k=mobile+smartphones+under+30000&rh=p_n_g-101015506639111%3A122272646011&dc&qid=1770097855&rnid=122272588011&ref=sr_nr_p_n_g-101015506639111_2&ds=v1%3AblkQLeuodOfz6spyiBst6FGVtIUEeDphhMX3wsS3bHY
+                  - checkbox [ref=e2837]
+                  - text: 1 to 1.9 in
+              - listitem [ref=e2839]:
+                - link "Apply 2 to 2.9 in filter to narrow results" [ref=e2841] [cursor=pointer]:
+                  - /url: /s?k=mobile+smartphones+under+30000&rh=p_n_g-101015506639111%3A122272647011&dc&qid=1770097855&rnid=122272588011&ref=sr_nr_p_n_g-101015506639111_3&ds=v1%3AOKy7S8J7mRDI0sUsjQBzUUdjzrA9sxj3c2lJbhVwhM8
+                  - checkbox [ref=e2844]
+                  - text: 2 to 2.9 in
+              - listitem [ref=e2846]:
+                - link "Apply 3 in & above filter to narrow results" [ref=e2848] [cursor=pointer]:
+                  - /url: /s?k=mobile+smartphones+under+30000&rh=p_n_g-101015506639111%3A122272649011&dc&qid=1770097855&rnid=122272588011&ref=sr_nr_p_n_g-101015506639111_4&ds=v1%3Arxr77d3V9HaIzed99KqhOsP5GaBNMKcn89J%2B0b8jotg
+                  - checkbox [ref=e2851]
+                  - text: 3 in & above
+          - group "Battery Type" [ref=e2853]:
+            - heading "Battery Type" [level=2] [ref=e2854]
+            - list "Battery Type" [ref=e2855]:
+              - listitem [ref=e2856]:
+                - link "Apply Lithium-Ion filter to narrow results" [ref=e2858] [cursor=pointer]:
+                  - /url: /s?k=mobile+smartphones+under+30000&rh=p_n_g-101015500034111%3A122268278011&dc&qid=1770097855&rnid=122268177011&ref=sr_nr_p_n_g-101015500034111_1&ds=v1%3Aoy0T9yyZGX6ClvIoeSGqbC7qfy7T3iZpdY1%2BIg984z0
+                  - checkbox [ref=e2861]
+                  - text: Lithium-Ion
+              - listitem [ref=e2863]:
+                - link "Apply Lithium-Polymer filter to narrow results" [ref=e2865] [cursor=pointer]:
+                  - /url: /s?k=mobile+smartphones+under+30000&rh=p_n_g-101015500034111%3A122268275011&dc&qid=1770097855&rnid=122268177011&ref=sr_nr_p_n_g-101015500034111_2&ds=v1%3Ar%2ByHkansdcCuyx2MTT38XWBEsDLX9LzboO2tircNk5E
+                  - checkbox [ref=e2868]
+                  - text: Lithium-Polymer
+          - group "Flash" [ref=e2870]:
+            - heading "Flash" [level=2] [ref=e2871]
+            - list "Flash" [ref=e2872]:
+              - listitem [ref=e2873]:
+                - link "Apply Front Camera Flash filter to narrow results" [ref=e2875] [cursor=pointer]:
+                  - /url: /s?k=mobile+smartphones+under+30000&rh=p_n_g-101015500208111%3A122268288011&dc&qid=1770097855&rnid=122268179011&ref=sr_nr_p_n_g-101015500208111_1&ds=v1%3AWgoK8fLKF8MLLg2mUkioSL1244wkgsvxbgSoVsipwn8
+                  - checkbox [ref=e2878]
+                  - text: Front Camera Flash
+              - listitem [ref=e2880]:
+                - link "Apply LED filter to narrow results" [ref=e2882] [cursor=pointer]:
+                  - /url: /s?k=mobile+smartphones+under+30000&rh=p_n_g-101015500208111%3A122268286011&dc&qid=1770097855&rnid=122268179011&ref=sr_nr_p_n_g-101015500208111_2&ds=v1%3AsMyg9JL8HAKP5Em8XJ%2Be0kLR142xjMpT%2Bgesq6DwnV4
+                  - checkbox [ref=e2885]
+                  - text: LED
+          - group "Battery Life" [ref=e2887]:
+            - heading "Battery Life" [level=2] [ref=e2888]
+            - list "Battery Life" [ref=e2889]:
+              - listitem [ref=e2890]:
+                - link "Apply 7 to 12.9 h filter to narrow results" [ref=e2892] [cursor=pointer]:
+                  - /url: /s?k=mobile+smartphones+under+30000&rh=p_n_g-1003486052111%3A24676801011&dc&qid=1770097855&rnid=24676504011&ref=sr_nr_p_n_g-1003486052111_1&ds=v1%3Aryhw0YBDZygMQY2%2BS4tLomuaF9TuOcltsLvnPoV1%2F5M
+                  - checkbox [ref=e2895]
+                  - text: 7 to 12.9 h
+              - listitem [ref=e2897]:
+                - link "Apply 13 to 18.9 h filter to narrow results" [ref=e2899] [cursor=pointer]:
+                  - /url: /s?k=mobile+smartphones+under+30000&rh=p_n_g-1003486052111%3A24676802011&dc&qid=1770097855&rnid=24676504011&ref=sr_nr_p_n_g-1003486052111_2&ds=v1%3A9LwuQY%2FymQkk6WAGqBYn8Aih2USwV3W1Z6qRDd3iVf8
+                  - checkbox [ref=e2902]
+                  - text: 13 to 18.9 h
+              - listitem [ref=e2904]:
+                - link "Apply 19 h & above filter to narrow results" [ref=e2906] [cursor=pointer]:
+                  - /url: /s?k=mobile+smartphones+under+30000&rh=p_n_g-1003486052111%3A24676800011&dc&qid=1770097855&rnid=24676504011&ref=sr_nr_p_n_g-1003486052111_3&ds=v1%3A4%2FcpjQfH1aCgtRQQYhaRHSqwCbylFEt4MgCvaeAcpHo
+                  - checkbox [ref=e2909]
+                  - text: 19 h & above
+          - group "Video Capture Resolution" [ref=e2911]:
+            - heading "Video Capture Resolution" [level=2] [ref=e2912]
+            - list "Video Capture Resolution" [ref=e2913]:
+              - listitem [ref=e2914]:
+                - link "Apply 1080p filter to narrow results" [ref=e2916] [cursor=pointer]:
+                  - /url: /s?k=mobile+smartphones+under+30000&rh=p_n_g-1003305462111%3A23968004011&dc&qid=1770097855&rnid=23967999011&ref=sr_nr_p_n_g-1003305462111_1&ds=v1%3AYPBdiI52mRmVAN8RUSDZPsBrRjG6H3NrfBJCkOMxQFw
+                  - checkbox [ref=e2919]
+                  - text: 1080p
+              - listitem [ref=e2921]:
+                - link "Apply 480p filter to narrow results" [ref=e2923] [cursor=pointer]:
+                  - /url: /s?k=mobile+smartphones+under+30000&rh=p_n_g-1003305462111%3A122179930011&dc&qid=1770097855&rnid=23967999011&ref=sr_nr_p_n_g-1003305462111_2&ds=v1%3AOm0sMH%2BkGqyZwSgWJK%2B1BC2hkILihY2ttXy8HkMeweE
+                  - checkbox [ref=e2926]
+                  - text: 480p
+              - listitem [ref=e2928]:
+                - link "Apply 4k filter to narrow results" [ref=e2930] [cursor=pointer]:
+                  - /url: /s?k=mobile+smartphones+under+30000&rh=p_n_g-1003305462111%3A23968003011&dc&qid=1770097855&rnid=23967999011&ref=sr_nr_p_n_g-1003305462111_3&ds=v1%3A6m4QXHoTHHDILW5xLs%2FxRCiSDs1rzm4vNyW4K7eRY6A
+                  - checkbox [ref=e2933]
+                  - text: 4k
+              - listitem [ref=e2935]:
+                - link "Apply 720p filter to narrow results" [ref=e2937] [cursor=pointer]:
+                  - /url: /s?k=mobile+smartphones+under+30000&rh=p_n_g-1003305462111%3A23968002011&dc&qid=1770097855&rnid=23967999011&ref=sr_nr_p_n_g-1003305462111_4&ds=v1%3Ai70ZGbSj7dX7Jie6kwYeFK8vO7sHpetQ%2FX1EpeyabPI
+                  - checkbox [ref=e2940]
+                  - text: 720p
+          - group "Input" [ref=e2942]:
+            - heading "Input" [level=2] [ref=e2943]
+            - list "Input" [ref=e2944]:
+              - listitem [ref=e2945]:
+                - link "Apply Touchscreen filter to narrow results" [ref=e2947] [cursor=pointer]:
+                  - /url: /s?k=mobile+smartphones+under+30000&rh=p_n_g-1002097072111%3A23487493011&dc&qid=1770097855&rnid=23487491011&ref=sr_nr_p_n_g-1002097072111_1&ds=v1%3AckPuJEvoVekZ%2BKBV2Bi5kF7uR6b6xGx5a2%2FIm%2FS4K1A
+                  - checkbox [ref=e2950]
+                  - text: Touchscreen
+              - listitem [ref=e2952]:
+                - link "Apply Buttons filter to narrow results" [ref=e2954] [cursor=pointer]:
+                  - /url: /s?k=mobile+smartphones+under+30000&rh=p_n_g-1002097072111%3A23487495011&dc&qid=1770097855&rnid=23487491011&ref=sr_nr_p_n_g-1002097072111_2&ds=v1%3AO%2FgPPyAG3YMyBEtkc7Sp%2FuLLk5dzxppI62sTmwttCxY
+                  - checkbox [ref=e2957]
+                  - text: Buttons
+              - listitem [ref=e2959]:
+                - link "Apply Microphone filter to narrow results" [ref=e2961] [cursor=pointer]:
+                  - /url: /s?k=mobile+smartphones+under+30000&rh=p_n_g-1002097072111%3A23487498011&dc&qid=1770097855&rnid=23487491011&ref=sr_nr_p_n_g-1002097072111_3&ds=v1%3AkamoI11mBhJdsfwxSMX116XzKSjIMuHKnOs34lM8YGQ
+                  - checkbox [ref=e2964]
+                  - text: Microphone
+              - listitem [ref=e2966]:
+                - link "Apply Touchscreen with Stylus Support filter to narrow results" [ref=e2968] [cursor=pointer]:
+                  - /url: /s?k=mobile+smartphones+under+30000&rh=p_n_g-1002097072111%3A23487506011&dc&qid=1770097855&rnid=23487491011&ref=sr_nr_p_n_g-1002097072111_4&ds=v1%3AgbSKgcba1DJLu9CREhY1h%2F08wg6F2Fnu2cSyN0bwBIY
+                  - checkbox [ref=e2971]
+                  - text: Touchscreen with Stylus Support
+          - group "Effective Video Resolution" [ref=e2973]:
+            - heading "Effective Video Resolution" [level=2] [ref=e2974]
+            - list "Effective Video Resolution" [ref=e2975]:
+              - listitem [ref=e2976]:
+                - link "Apply 3 MP & above filter to narrow results" [ref=e2978] [cursor=pointer]:
+                  - /url: /s?k=mobile+smartphones+under+30000&rh=p_n_g-101015501384111%3A122268293011&dc&qid=1770097855&rnid=122268181011&ref=sr_nr_p_n_g-101015501384111_1&ds=v1%3ANJAPXZzDtq5NruLD2m3lPej1juLRZIq0FeOySiAfDzU
+                  - checkbox [ref=e2981]
+                  - text: 3 MP & above
+          - group "Premium Brands" [ref=e2983]:
+            - heading "Premium Brands" [level=2] [ref=e2984]
+            - list "Premium Brands" [ref=e2985]:
+              - listitem [ref=e2986]:
+                - link "Apply Premium Brands filter to narrow results" [ref=e2988] [cursor=pointer]:
+                  - /url: /s?k=mobile+smartphones+under+30000&rh=p_n_feature_keywords_browse-bin%3A204376014011&dc&qid=1770097855&rnid=204376013011&ref=sr_nr_p_n_feature_keywords_browse-bin_1&ds=v1%3AjkSdLYx7ip9pdZilleYod3g7Y4u4NKBSYiHLOpsX2WQ
+                  - checkbox [ref=e2991]
+                  - text: Premium Brands
+          - group "Display Resolution" [ref=e2993]:
+            - heading "Display Resolution" [level=2] [ref=e2994]
+            - list "Display Resolution" [ref=e2995]:
+              - listitem [ref=e2996]:
+                - link "Apply 1280 x 720 filter to narrow results" [ref=e2998] [cursor=pointer]:
+                  - /url: /s?k=mobile+smartphones+under+30000&rh=p_n_g-1002090229111%3A23487402011&dc&qid=1770097855&rnid=23487394011&ref=sr_nr_p_n_g-1002090229111_1&ds=v1%3AaDErDdoJ484gfbqoIQumiuq26v8mPq9vK1vH7MhNMuc
+                  - checkbox [ref=e3001]
+                  - text: 1280 x 720
+              - listitem [ref=e3003]:
+                - link "Apply 1600 x 720 filter to narrow results" [ref=e3005] [cursor=pointer]:
+                  - /url: /s?k=mobile+smartphones+under+30000&rh=p_n_g-1002090229111%3A43203357011&dc&qid=1770097855&rnid=23487394011&ref=sr_nr_p_n_g-1002090229111_2&ds=v1%3AutWK5EsF7PIu62iqxvj3asHIgCHuaLifYF5od%2B4zPT0
+                  - checkbox [ref=e3008]
+                  - text: 1600 x 720
+              - listitem [ref=e3010]:
+                - link "Apply 1920 x 1080 filter to narrow results" [ref=e3012] [cursor=pointer]:
+                  - /url: /s?k=mobile+smartphones+under+30000&rh=p_n_g-1002090229111%3A23487411011&dc&qid=1770097855&rnid=23487394011&ref=sr_nr_p_n_g-1002090229111_3&ds=v1%3AYgHyLU0a%2FXiUkK43Mr8rDCH9Xbp%2BDL5UJ%2FurG65RqA0
+                  - checkbox [ref=e3015]
+                  - text: 1920 x 1080
+              - listitem [ref=e3017]:
+                - link "Apply 540 x 960 filter to narrow results" [ref=e3019] [cursor=pointer]:
+                  - /url: /s?k=mobile+smartphones+under+30000&rh=p_n_g-1002090229111%3A43203360011&dc&qid=1770097855&rnid=23487394011&ref=sr_nr_p_n_g-1002090229111_4&ds=v1%3Ac2ShyMKL3zq%2FrDK9oOztGcfEaVQtYWrjR4MY5Ylh1Kk
+                  - checkbox [ref=e3022]
+                  - text: 540 x 960
+              - listitem [ref=e3024]:
+                - link "Apply 720 x 1560 filter to narrow results" [ref=e3026] [cursor=pointer]:
+                  - /url: /s?k=mobile+smartphones+under+30000&rh=p_n_g-1002090229111%3A23487432011&dc&qid=1770097855&rnid=23487394011&ref=sr_nr_p_n_g-1002090229111_5&ds=v1%3AUFweRZweXE3i0G5vyKKvDqk7SE3i7kMVtisNmjj%2FBuk
+                  - checkbox [ref=e3029]
+                  - text: 720 x 1560
+              - listitem [ref=e3031]:
+                - link "Apply 720 x 1600 filter to narrow results" [ref=e3033] [cursor=pointer]:
+                  - /url: /s?k=mobile+smartphones+under+30000&rh=p_n_g-1002090229111%3A43203355011&dc&qid=1770097855&rnid=23487394011&ref=sr_nr_p_n_g-1002090229111_6&ds=v1%3A48iAoAZGQdcEdR%2FoycRoLsauCzhJ4tYiafPStRlOLGE
+                  - checkbox [ref=e3036]
+                  - text: 720 x 1600
+          - group "Phone Talk Time" [ref=e3038]:
+            - heading "Phone Talk Time" [level=2] [ref=e3039]
+            - list "Phone Talk Time" [ref=e3040]:
+              - listitem [ref=e3041]:
+                - link "Apply Up to 9 h filter to narrow results" [ref=e3043] [cursor=pointer]:
+                  - /url: /s?k=mobile+smartphones+under+30000&rh=p_n_g-101015498402111%3A122268309011&dc&qid=1770097855&rnid=122268185011&ref=sr_nr_p_n_g-101015498402111_1&ds=v1%3AjBXLmpfN7QVZ7cazbKRiVZ%2Ba7FLE3nTlvZXv1OdsDPE
+                  - checkbox [ref=e3046]
+                  - text: Up to 9 h
+              - listitem [ref=e3048]:
+                - link "Apply 10 to 14 h filter to narrow results" [ref=e3050] [cursor=pointer]:
+                  - /url: /s?k=mobile+smartphones+under+30000&rh=p_n_g-101015498402111%3A122268308011&dc&qid=1770097855&rnid=122268185011&ref=sr_nr_p_n_g-101015498402111_2&ds=v1%3AWLJRfMlSnItNiLJbX4IwqaEZbTDeMgLvVMMEpyzBpHk
+                  - checkbox [ref=e3053]
+                  - text: 10 to 14 h
+              - listitem [ref=e3055]:
+                - link "Apply 15 to 24 h filter to narrow results" [ref=e3057] [cursor=pointer]:
+                  - /url: /s?k=mobile+smartphones+under+30000&rh=p_n_g-101015498402111%3A122268306011&dc&qid=1770097855&rnid=122268185011&ref=sr_nr_p_n_g-101015498402111_3&ds=v1%3AFzyIFTExTg54CRfwQNsHJan9fBtknfju0Y656P%2FOzmk
+                  - checkbox [ref=e3060]
+                  - text: 15 to 24 h
+              - listitem [ref=e3062]:
+                - link "Apply 25 h & above filter to narrow results" [ref=e3064] [cursor=pointer]:
+                  - /url: /s?k=mobile+smartphones+under+30000&rh=p_n_g-101015498402111%3A122268307011&dc&qid=1770097855&rnid=122268185011&ref=sr_nr_p_n_g-101015498402111_4&ds=v1%3AoFlahDM7e7fdJK28QFPoVYwVUT3es%2BOgBOi53ZiDr%2Fo
+                  - checkbox [ref=e3067]
+                  - text: 25 h & above
+          - group "Item Height" [ref=e3069]:
+            - heading "Item Height" [level=2] [ref=e3070]
+            - list "Item Height" [ref=e3071]:
+              - listitem [ref=e3072]:
+                - link "Apply Up to 1 in filter to narrow results" [ref=e3074] [cursor=pointer]:
+                  - /url: /s?k=mobile+smartphones+under+30000&rh=p_n_g-101015506410111%3A122272655011&dc&qid=1770097855&rnid=122272590011&ref=sr_nr_p_n_g-101015506410111_1&ds=v1%3AfRPp7qR2B4HIL69xLSVm2BOggY7LFuaz5YRYidMhxAY
+                  - checkbox [ref=e3077]
+                  - text: Up to 1 in
+              - listitem [ref=e3079]:
+                - link "Apply 2 to 2.9 in filter to narrow results" [ref=e3081] [cursor=pointer]:
+                  - /url: /s?k=mobile+smartphones+under+30000&rh=p_n_g-101015506410111%3A122272654011&dc&qid=1770097855&rnid=122272590011&ref=sr_nr_p_n_g-101015506410111_2&ds=v1%3AJh3rrdkKYjhb%2BzWBlLcnEskVZuNqwYTHSvptpvunYHY
+                  - checkbox [ref=e3084]
+                  - text: 2 to 2.9 in
+              - listitem [ref=e3086]:
+                - link "Apply 3 in & above filter to narrow results" [ref=e3088] [cursor=pointer]:
+                  - /url: /s?k=mobile+smartphones+under+30000&rh=p_n_g-101015506410111%3A122272656011&dc&qid=1770097855&rnid=122272590011&ref=sr_nr_p_n_g-101015506410111_3&ds=v1%3A%2BMvd3J2fZMdl%2FH54q2wDyiBgk6kqu8%2FLumxLnyENzyw
+                  - checkbox [ref=e3091]
+                  - text: 3 in & above
+          - group "Aspect Ratio" [ref=e3093]:
+            - heading "Aspect Ratio" [level=2] [ref=e3094]
+            - list "Aspect Ratio" [ref=e3095]:
+              - listitem [ref=e3096]:
+                - link "Apply 16:9 filter to narrow results" [ref=e3098] [cursor=pointer]:
+                  - /url: /s?k=mobile+smartphones+under+30000&rh=p_n_g-101015688486111%3A204867986011&dc&qid=1770097855&rnid=204867984011&ref=sr_nr_p_n_g-101015688486111_1&ds=v1%3AFxcEpAG1LldCrhOp3DgydeAI2SRlVZIsjyZ6lvtLu04
+                  - checkbox [ref=e3101]
+                  - text: 16:9
+          - group "Supported Satellite Navigation System" [ref=e3103]:
+            - heading "Supported Satellite Navigation System" [level=2] [ref=e3104]
+            - list "Supported Satellite Navigation System" [ref=e3105]:
+              - listitem [ref=e3106]:
+                - link "Apply GPS filter to narrow results" [ref=e3108] [cursor=pointer]:
+                  - /url: /s?k=mobile+smartphones+under+30000&rh=p_n_g-101015498432111%3A122268284011&dc&qid=1770097855&rnid=122268178011&ref=sr_nr_p_n_g-101015498432111_1&ds=v1%3A1lFArCJyvFszViCZObt6C%2Fyq4IKYvfTxP4fqGTdGHKQ
+                  - checkbox [ref=e3111]
+                  - text: GPS
+              - listitem [ref=e3113]:
+                - link "Apply GLONASS filter to narrow results" [ref=e3115] [cursor=pointer]:
+                  - /url: /s?k=mobile+smartphones+under+30000&rh=p_n_g-101015498432111%3A122268282011&dc&qid=1770097855&rnid=122268178011&ref=sr_nr_p_n_g-101015498432111_2&ds=v1%3A5DJA%2FvmUv8M2JzdZnaUcuujFulmXFsZVpAfKS25XudA
+                  - checkbox [ref=e3118]
+                  - text: GLONASS
+              - listitem [ref=e3120]:
+                - link "Apply Galileo filter to narrow results" [ref=e3122] [cursor=pointer]:
+                  - /url: /s?k=mobile+smartphones+under+30000&rh=p_n_g-101015498432111%3A122268283011&dc&qid=1770097855&rnid=122268178011&ref=sr_nr_p_n_g-101015498432111_3&ds=v1%3AQ7FdqD6ZtqwZdUFW5xoRWQ35zZFsCLJqIr5ZRzJskms
+                  - checkbox [ref=e3125]
+                  - text: Galileo
+              - listitem [ref=e3127]:
+                - link "Apply BeiDou filter to narrow results" [ref=e3129] [cursor=pointer]:
+                  - /url: /s?k=mobile+smartphones+under+30000&rh=p_n_g-101015498432111%3A122268279011&dc&qid=1770097855&rnid=122268178011&ref=sr_nr_p_n_g-101015498432111_4&ds=v1%3Avg0RM6y5fjQSH5oT4xYFWbJKdFXDkdel5szFNXDf3vU
+                  - checkbox [ref=e3132]
+                  - text: BeiDou
+          - group "Material Features" [ref=e3134]:
+            - heading "Material Features" [level=2] [ref=e3135]
+            - list "Material Features" [ref=e3136]:
+              - listitem [ref=e3137]:
+                - link "Apply Recyclable filter to narrow results" [ref=e3139] [cursor=pointer]:
+                  - /url: /s?k=mobile+smartphones+under+30000&rh=p_n_g-101015501445111%3A122268304011&dc&qid=1770097855&rnid=122268184011&ref=sr_nr_p_n_g-101015501445111_1&ds=v1%3Anohv4DcTmm1L3fxlZthKe21RXtTLZAqVvuv26Hw6nvA
+                  - checkbox [ref=e3142]
+                  - text: Recyclable
+              - listitem [ref=e3144]:
+                - link "Apply Temperature Resistant filter to narrow results" [ref=e3146] [cursor=pointer]:
+                  - /url: /s?k=mobile+smartphones+under+30000&rh=p_n_g-101015501445111%3A122268303011&dc&qid=1770097855&rnid=122268184011&ref=sr_nr_p_n_g-101015501445111_2&ds=v1%3A6z9Ar4UjIPnjUDBcQdNrr4Cp5WzxOBmZdewJxgQFwAs
+                  - checkbox [ref=e3149]
+                  - text: Temperature Resistant
+          - group "Average Battery Life Talk Time" [ref=e3151]:
+            - heading "Average Battery Life Talk Time" [level=2] [ref=e3152]
+            - list "Average Battery Life Talk Time" [ref=e3153]:
+              - listitem [ref=e3154]:
+                - link "Apply 10 to 19 h filter to narrow results" [ref=e3156] [cursor=pointer]:
+                  - /url: /s?k=mobile+smartphones+under+30000&rh=p_n_g-101015499897111%3A122268271011&dc&qid=1770097855&rnid=122268176011&ref=sr_nr_p_n_g-101015499897111_1&ds=v1%3A0CTOyq55%2B4p%2Fw9pCrAxVgd0ZLga%2B0DcX%2ButWK04XoDs
+                  - checkbox [ref=e3159]
+                  - text: 10 to 19 h
+              - listitem [ref=e3161]:
+                - link "Apply 20 to 24 h filter to narrow results" [ref=e3163] [cursor=pointer]:
+                  - /url: /s?k=mobile+smartphones+under+30000&rh=p_n_g-101015499897111%3A122268270011&dc&qid=1770097855&rnid=122268176011&ref=sr_nr_p_n_g-101015499897111_2&ds=v1%3AaYN%2BoxXOWie%2Fz7Gy1G3xZ9RyaIAPtWMuZT9a3ZQZ6ks
+                  - checkbox [ref=e3166]
+                  - text: 20 to 24 h
+              - listitem [ref=e3168]:
+                - link "Apply 30 h & above filter to narrow results" [ref=e3170] [cursor=pointer]:
+                  - /url: /s?k=mobile+smartphones+under+30000&rh=p_n_g-101015499897111%3A122268273011&dc&qid=1770097855&rnid=122268176011&ref=sr_nr_p_n_g-101015499897111_3&ds=v1%3A%2F8ftvPTnPZF2z788yXuRLq3rs%2F7TRIwVcgMn5MYicpk
+                  - checkbox [ref=e3173]
+                  - text: 30 h & above
+          - group "Battery Charge Time" [ref=e3175]:
+            - heading "Battery Charge Time" [level=2] [ref=e3176]
+            - list "Battery Charge Time" [ref=e3177]:
+              - listitem [ref=e3178]:
+                - link "Apply 3 h & above filter to narrow results" [ref=e3180] [cursor=pointer]:
+                  - /url: /s?k=mobile+smartphones+under+30000&rh=p_n_g-101015499990111%3A122268299011&dc&qid=1770097855&rnid=122268183011&ref=sr_nr_p_n_g-101015499990111_1&ds=v1%3A1%2FaSS%2F0BqPuoxFhzkcJP7VvJhoojoH9Wv1jUG6rgHCc
+                  - checkbox [ref=e3183]
+                  - text: 3 h & above
+  - complementary "Your recently viewed items and featured recommendations"
+  - generic [ref=e3185]:
+    - button "Back to top" [ref=e3186] [cursor=pointer]:
+      - generic [ref=e3187]: Back to top
+    - generic [ref=e3188]:
+      - generic [ref=e3189]:
+        - heading "Get to Know Us" [level=6] [ref=e3190]
+        - list [ref=e3191]:
+          - listitem [ref=e3192]:
+            - link "Careers" [ref=e3193] [cursor=pointer]:
+              - /url: https://www.amazon.jobs
+          - listitem [ref=e3194]:
+            - link "Blog" [ref=e3195] [cursor=pointer]:
+              - /url: https://blog.aboutamazon.com/?utm_source=gateway&utm_medium=footer
+          - listitem [ref=e3196]:
+            - link "About Amazon" [ref=e3197] [cursor=pointer]:
+              - /url: https://www.aboutamazon.com/?utm_source=gateway&utm_medium=footer
+          - listitem [ref=e3198]:
+            - link "Investor Relations" [ref=e3199] [cursor=pointer]:
+              - /url: https://www.amazon.com/ir
+          - listitem [ref=e3200]:
+            - link "Amazon Devices" [ref=e3201] [cursor=pointer]:
+              - /url: /gp/browse.html?node=2102313011&ref_=footer_devices
+          - listitem [ref=e3202]:
+            - link "Amazon Science" [ref=e3203] [cursor=pointer]:
+              - /url: https://www.amazon.science
+      - generic [ref=e3205]:
+        - heading "Make Money with Us" [level=6] [ref=e3206]
+        - list [ref=e3207]:
+          - listitem [ref=e3208]:
+            - link "Sell products on Amazon" [ref=e3209] [cursor=pointer]:
+              - /url: https://services.amazon.com/sell.html?ld=AZFSSOA&ref_=footer_soa
+          - listitem [ref=e3210]:
+            - link "Sell on Amazon Business" [ref=e3211] [cursor=pointer]:
+              - /url: https://services.amazon.com/amazon-business.html?ld=usb2bunifooter&ref_=footer_b2b
+          - listitem [ref=e3212]:
+            - link "Sell apps on Amazon" [ref=e3213] [cursor=pointer]:
+              - /url: https://developer.amazon.com
+          - listitem [ref=e3214]:
+            - link "Become an Affiliate" [ref=e3215] [cursor=pointer]:
+              - /url: https://affiliate-program.amazon.com/
+          - listitem [ref=e3216]:
+            - link "Advertise Your Products" [ref=e3217] [cursor=pointer]:
+              - /url: https://advertising.amazon.com/?ref=ext_amzn_ftr
+          - listitem [ref=e3218]:
+            - link "Self-Publish with Us" [ref=e3219] [cursor=pointer]:
+              - /url: /gp/seller-account/mm-summary-page.html?ld=AZFooterSelfPublish&topic=200260520&ref_=footer_publishing
+          - listitem [ref=e3220]:
+            - link "Host an Amazon Hub" [ref=e3221] [cursor=pointer]:
+              - /url: https://go.thehub-amazon.com/amazon-hub-locker
+          - listitem [ref=e3222]:
+            - text: ›
+            - link "See More Make Money with Us" [ref=e3223] [cursor=pointer]:
+              - /url: /b/?node=18190131011&ld=AZUSSOA-seemore&ref_=footer_seemore
+      - generic [ref=e3225]:
+        - heading "Amazon Payment Products" [level=6] [ref=e3226]
+        - list [ref=e3227]:
+          - listitem [ref=e3228]:
+            - link "Amazon Business Card" [ref=e3229] [cursor=pointer]:
+              - /url: /dp/B07984JN3L?plattr=ACOMFO&ie=UTF-8
+          - listitem [ref=e3230]:
+            - link "Shop with Points" [ref=e3231] [cursor=pointer]:
+              - /url: /gp/browse.html?node=16218619011&ref_=footer_swp
+          - listitem [ref=e3232]:
+            - link "Reload Your Balance" [ref=e3233] [cursor=pointer]:
+              - /url: /dp/B0CHTVMXZJ?th=1?ref_=footer_reload_us
+          - listitem [ref=e3234]:
+            - link "Amazon Currency Converter" [ref=e3235] [cursor=pointer]:
+              - /url: /gp/browse.html?node=388305011&ref_=footer_tfx
+      - generic [ref=e3237]:
+        - heading "Let Us Help You" [level=6] [ref=e3238]
+        - list [ref=e3239]:
+          - listitem [ref=e3240]:
+            - link "Amazon and COVID-19" [ref=e3241] [cursor=pointer]:
+              - /url: /gp/help/customer/display.html?nodeId=GDFU3JS5AL6SYHRD&ref_=footer_covid
+          - listitem [ref=e3242]:
+            - link "Your Account" [ref=e3243] [cursor=pointer]:
+              - /url: https://www.amazon.com/gp/css/homepage.html?ref_=footer_ya
+          - listitem [ref=e3244]:
+            - link "Your Orders" [ref=e3245] [cursor=pointer]:
+              - /url: https://www.amazon.com/gp/css/order-history?ref_=footer_yo
+          - listitem [ref=e3246]:
+            - link "Shipping Rates & Policies" [ref=e3247] [cursor=pointer]:
+              - /url: /gp/help/customer/display.html?nodeId=468520&ref_=footer_shiprates
+          - listitem [ref=e3248]:
+            - link "Returns & Replacements" [ref=e3249] [cursor=pointer]:
+              - /url: /gp/css/returns/homepage.html?ref_=footer_hy_f_4
+          - listitem [ref=e3250]:
+            - link "Manage Your Content and Devices" [ref=e3251] [cursor=pointer]:
+              - /url: /gp/digital/fiona/manage?ref_=footer_myk
+          - listitem [ref=e3252]:
+            - link "Help" [ref=e3253] [cursor=pointer]:
+              - /url: /gp/help/customer/display.html?nodeId=508510&ref_=footer_gw_m_b_he
+    - generic [ref=e3255]:
+      - link "Amazon US Home" [ref=e3258] [cursor=pointer]:
+        - /url: /?ref_=footer_logo
+      - generic [ref=e3261]:
+        - generic [ref=e3262]:
+          - link "Choose a language for shopping. Current selection is English." [ref=e3263] [cursor=pointer]:
+            - /url: /customer-preferences/edit?ie=UTF8&preferencesReturnUrl=%2F&ref_=footer_lang
+            - generic [ref=e3265]: English
+          - button "Expand to Change Language or Country" [ref=e3266] [cursor=pointer]
+        - link "₹ INR - Indian Rupee" [ref=e3267] [cursor=pointer]:
+          - /url: /customer-preferences/edit?ie=UTF8&ref_=footer_cop&preferencesReturnUrl=%2Fs%2Fref%3Dnb_sb_noss
+          - generic [ref=e3268]: ₹
+          - generic [ref=e3269]: INR - Indian Rupee
+        - button "Choose a country/region for shopping. The current selection is United States." [ref=e3270] [cursor=pointer]:
+          - generic [ref=e3272]: United States
+    - navigation "More on Amazon" [ref=e3273]:
+      - generic "More on Amazon" [ref=e3274]:
+        - list [ref=e3275]:
+          - listitem [ref=e3276]:
+            - link "Amazon Music Stream millions of songs" [ref=e3277] [cursor=pointer]:
+              - /url: https://music.amazon.com?ref=dm_aff_amz_com
+              - heading "Amazon Music" [level=5] [ref=e3278]
+              - generic [ref=e3279]:
+                - text: Stream millions
+                - text: of songs
+          - listitem [ref=e3280]
+          - listitem [ref=e3281]:
+            - link "Amazon Ads Reach customers wherever they spend their time" [ref=e3282] [cursor=pointer]:
+              - /url: https://advertising.amazon.com/?ref=footer_advtsing_amzn_com
+              - heading "Amazon Ads" [level=5] [ref=e3283]
+              - generic [ref=e3284]:
+                - text: Reach customers
+                - text: wherever they
+                - text: spend their time
+          - listitem [ref=e3285]
+          - listitem [ref=e3286]:
+            - link "6pm Score deals on fashion brands" [ref=e3287] [cursor=pointer]:
+              - /url: https://www.6pm.com
+              - heading "6pm" [level=5] [ref=e3288]
+              - generic [ref=e3289]:
+                - text: Score deals
+                - text: on fashion brands
+          - listitem [ref=e3290]
+          - listitem [ref=e3291]:
+            - link "AbeBooks Books, art & collectibles" [ref=e3292] [cursor=pointer]:
+              - /url: https://www.abebooks.com
+              - heading "AbeBooks" [level=5] [ref=e3293]
+              - generic [ref=e3294]:
+                - text: Books, art
+                - text: "& collectibles"
+          - listitem [ref=e3295]
+          - listitem [ref=e3296]:
+            - link "ACX Audiobook Publishing Made Easy" [ref=e3297] [cursor=pointer]:
+              - /url: https://www.acx.com/
+              - heading "ACX" [level=5] [ref=e3298]
+              - generic [ref=e3299]:
+                - text: Audiobook Publishing
+                - text: Made Easy
+          - listitem [ref=e3300]
+          - listitem [ref=e3301]:
+            - link "Sell on Amazon Start a Selling Account" [ref=e3302] [cursor=pointer]:
+              - /url: https://sell.amazon.com/?ld=AZUSSOA-footer-aff&ref_=footer_sell
+              - heading "Sell on Amazon" [level=5] [ref=e3303]
+              - generic [ref=e3304]: Start a Selling Account
+          - listitem [ref=e3305]
+          - listitem [ref=e3306]:
+            - link "Veeqo Shipping Software Inventory Management" [ref=e3307] [cursor=pointer]:
+              - /url: https://www.veeqo.com/?utm_source=amazon&utm_medium=website&utm_campaign=footer
+              - heading "Veeqo" [level=5] [ref=e3308]
+              - generic [ref=e3309]:
+                - text: Shipping Software
+                - text: Inventory Management
+        - list [ref=e3310]:
+          - listitem [ref=e3311]:
+            - link "Amazon Business Everything For Your Business" [ref=e3312] [cursor=pointer]:
+              - /url: /business?ref_=footer_retail_b2b
+              - heading "Amazon Business" [level=5] [ref=e3313]
+              - generic [ref=e3314]:
+                - text: Everything For
+                - text: Your Business
+          - listitem [ref=e3315]
+          - listitem [ref=e3316]:
+            - link "AmazonGlobal Ship Orders Internationally" [ref=e3317] [cursor=pointer]:
+              - /url: /gp/browse.html?node=230659011&ref_=footer_amazonglobal
+              - heading "AmazonGlobal" [level=5] [ref=e3318]
+              - generic [ref=e3319]:
+                - text: Ship Orders
+                - text: Internationally
+          - listitem [ref=e3320]
+          - listitem [ref=e3321]:
+            - link "Amazon Web Services Scalable Cloud Computing Services" [ref=e3322] [cursor=pointer]:
+              - /url: https://aws.amazon.com/what-is-cloud-computing/?sc_channel=EL&sc_campaign=amazonfooter
+              - heading "Amazon Web Services" [level=5] [ref=e3323]
+              - generic [ref=e3324]:
+                - text: Scalable Cloud
+                - text: Computing Services
+          - listitem [ref=e3325]
+          - listitem [ref=e3326]:
+            - link "Audible Listen to Books & Original Audio Performances" [ref=e3327] [cursor=pointer]:
+              - /url: https://www.audible.com
+              - heading "Audible" [level=5] [ref=e3328]
+              - generic [ref=e3329]:
+                - text: Listen to Books & Original
+                - text: Audio Performances
+          - listitem [ref=e3330]
+          - listitem [ref=e3331]:
+            - link "Box Office Mojo Find Movie Box Office Data" [ref=e3332] [cursor=pointer]:
+              - /url: https://www.boxofficemojo.com/?ref_=amzn_nav_ftr
+              - heading "Box Office Mojo" [level=5] [ref=e3333]
+              - generic [ref=e3334]:
+                - text: Find Movie
+                - text: Box Office Data
+          - listitem [ref=e3335]
+          - listitem [ref=e3336]:
+            - link "Goodreads Book reviews & recommendations" [ref=e3337] [cursor=pointer]:
+              - /url: https://www.goodreads.com
+              - heading "Goodreads" [level=5] [ref=e3338]
+              - generic [ref=e3339]:
+                - text: Book reviews
+                - text: "& recommendations"
+          - listitem [ref=e3340]
+          - listitem [ref=e3341]:
+            - link "IMDb Movies, TV & Celebrities" [ref=e3342] [cursor=pointer]:
+              - /url: https://www.imdb.com
+              - heading "IMDb" [level=5] [ref=e3343]
+              - generic [ref=e3344]:
+                - text: Movies, TV
+                - text: "& Celebrities"
+        - list [ref=e3345]:
+          - listitem [ref=e3346]:
+            - link "IMDbPro Get Info Entertainment Professionals Need" [ref=e3347] [cursor=pointer]:
+              - /url: https://pro.imdb.com?ref_=amzn_nav_ftr
+              - heading "IMDbPro" [level=5] [ref=e3348]
+              - generic [ref=e3349]:
+                - text: Get Info Entertainment
+                - text: Professionals Need
+          - listitem [ref=e3350]
+          - listitem [ref=e3351]:
+            - link "Kindle Direct Publishing Indie Digital & Print Publishing Made Easy" [ref=e3352] [cursor=pointer]:
+              - /url: https://kdp.amazon.com
+              - heading "Kindle Direct Publishing" [level=5] [ref=e3353]
+              - generic [ref=e3354]:
+                - text: Indie Digital & Print Publishing
+                - text: Made Easy
+          - listitem [ref=e3355]
+          - listitem [ref=e3356]:
+            - link "Prime Video Direct Video Distribution Made Easy" [ref=e3357] [cursor=pointer]:
+              - /url: https://videodirect.amazon.com/home/landing
+              - heading "Prime Video Direct" [level=5] [ref=e3358]
+              - generic [ref=e3359]:
+                - text: Video Distribution
+                - text: Made Easy
+          - listitem [ref=e3360]
+          - listitem [ref=e3361]:
+            - link "Shopbop Designer Fashion Brands" [ref=e3362] [cursor=pointer]:
+              - /url: https://www.shopbop.com
+              - heading "Shopbop" [level=5] [ref=e3363]
+              - generic [ref=e3364]:
+                - text: Designer
+                - text: Fashion Brands
+          - listitem [ref=e3365]
+          - listitem [ref=e3366]:
+            - link "Woot! Deals and Shenanigans" [ref=e3367] [cursor=pointer]:
+              - /url: https://www.woot.com/
+              - heading "Woot!" [level=5] [ref=e3368]
+              - generic [ref=e3369]:
+                - text: Deals and
+                - text: Shenanigans
+          - listitem [ref=e3370]
+          - listitem [ref=e3371]:
+            - link "Zappos Shoes & Clothing" [ref=e3372] [cursor=pointer]:
+              - /url: https://www.zappos.com
+              - heading "Zappos" [level=5] [ref=e3373]
+              - generic [ref=e3374]:
+                - text: Shoes &
+                - text: Clothing
+          - listitem [ref=e3375]
+          - listitem [ref=e3376]:
+            - link "Ring Smart Home Security Systems" [ref=e3377] [cursor=pointer]:
+              - /url: https://ring.com
+              - heading "Ring" [level=5] [ref=e3378]
+              - generic [ref=e3379]:
+                - text: Smart Home
+                - text: Security Systems
+        - list [ref=e3380]:
+          - listitem [ref=e3381]
+          - listitem [ref=e3382]
+          - listitem [ref=e3383]:
+            - link "eero WiFi Stream 4K Video in Every Room" [ref=e3384] [cursor=pointer]:
+              - /url: https://eero.com/
+              - heading "eero WiFi" [level=5] [ref=e3385]
+              - generic [ref=e3386]:
+                - text: Stream 4K Video
+                - text: in Every Room
+          - listitem [ref=e3387]
+          - listitem [ref=e3388]:
+            - link "Blink Smart Security for Every Home" [ref=e3389] [cursor=pointer]:
+              - /url: https://blinkforhome.com/?ref=nav_footer
+              - heading "Blink" [level=5] [ref=e3390]
+              - generic [ref=e3391]:
+                - text: Smart Security
+                - text: for Every Home
+          - listitem [ref=e3392]
+          - listitem [ref=e3393]:
+            - link "Neighbors App Real-Time Crime & Safety Alerts" [ref=e3394] [cursor=pointer]:
+              - /url: https://shop.ring.com/pages/neighbors-app
+              - heading "Neighbors App" [level=5] [ref=e3395]
+              - generic [ref=e3396]:
+                - text: Real-Time Crime
+                - text: "& Safety Alerts"
+          - listitem [ref=e3397]
+          - listitem [ref=e3398]:
+            - link "Amazon Subscription Boxes Top subscription boxes – right to your door" [ref=e3399] [cursor=pointer]:
+              - /url: /gp/browse.html?node=14498690011&ref_=amzn_nav_ftr_swa
+              - heading "Amazon Subscription Boxes" [level=5] [ref=e3400]
+              - generic [ref=e3401]: Top subscription boxes – right to your door
+          - listitem [ref=e3402]
+          - listitem [ref=e3403]:
+            - link "PillPack Pharmacy Simplified" [ref=e3404] [cursor=pointer]:
+              - /url: https://www.pillpack.com
+              - heading "PillPack" [level=5] [ref=e3405]
+              - generic [ref=e3406]: Pharmacy Simplified
+          - listitem [ref=e3407]
+          - listitem [ref=e3408]
+    - generic [ref=e3409]:
+      - list [ref=e3410]:
+        - listitem [ref=e3411]:
+          - link "Conditions of Use" [ref=e3412] [cursor=pointer]:
+            - /url: /gp/help/customer/display.html?nodeId=508088&ref_=footer_cou
+        - listitem [ref=e3413]:
+          - link "Privacy Notice" [ref=e3414] [cursor=pointer]:
+            - /url: /gp/help/customer/display.html?nodeId=468496&ref_=footer_privacy
+        - listitem [ref=e3415]:
+          - link "Consumer Health Data Privacy Disclosure" [ref=e3416] [cursor=pointer]:
+            - /url: /gp/help/customer/display.html?ie=UTF8&nodeId=TnACMrGVghHocjL8KB&ref_=footer_consumer_health_data_privacy
+        - listitem [ref=e3417]:
+          - link "Your Ads Privacy Choices" [ref=e3418] [cursor=pointer]:
+            - /url: /privacyprefs?ref_=footer_iba
+        - listitem [ref=e3419]
+      - generic [ref=e3421]: © 1996-2026, Amazon.com, Inc. or its affiliates
+```

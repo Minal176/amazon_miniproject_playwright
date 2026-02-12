@@ -1,0 +1,3 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","14731","Search mobiles under 30000 and sort by newest arrivals on firefox","chromium","2026-01-28","passed","2026-01-28","","example.spec.ts","",""
+"","5048","Search mobiles under 30000 and sort by newest arrivals on chromium","chromium","2026-01-28","passed","2026-01-28","","example.spec.ts","",""
